@@ -1,0 +1,32 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Contact Us
+  url: /contact-us/
+- title: Information For Moneylenders
+  url: /information-for-moneylenders/forms/
+  sub-links:
+  - title: Forms
+    url: /information-for-moneylenders/forms/
+  - title: Anti Money Laundering And Countering The Financing Of Terrorism
+    url: /information-for-moneylenders/anti-money-laundering-and-countering-the-financing-of-terrorism/
+  - title: Relevant Laws And Regulations
+    url: /information-for-moneylenders/relevant-laws-and-regulations/
+  - title: Moneylenders Credit Bureau
+    url: /information-for-moneylenders/moneylenders-credit-bureau/
+  - title: Statistics
+    url: /information-for-moneylenders/statistics/
+  - title: Professional Service Handbook
+    url: /information-for-moneylenders/professional-service-handbook/
+- title: Information For Borrrowers
+  url: /information-for-borrrowers/guide-to-borrowing-from-licensed-moneylenders/
+  sub-links:
+  - title: Guide To Borrowing From Licensed Moneylenders
+    url: /information-for-borrrowers/guide-to-borrowing-from-licensed-moneylenders/
+  - title: List Of Licensed Moneylenders In Singapore
+    url: /information-for-borrrowers/list-of-licensed-moneylenders-in-singapore/
+  - title: Posters And Pamphlets On Borrowing Wisely
+    url: /information-for-borrrowers/posters-and-pamphlets-on-borrowing-wisely/
