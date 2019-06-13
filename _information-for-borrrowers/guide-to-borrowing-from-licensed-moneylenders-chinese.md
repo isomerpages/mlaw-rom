@@ -30,7 +30,7 @@ collection_name: information-for-borrrowers
   <li>有抵押贷款：有效利率是 13％；及 </li>
   <li>无抵押贷款：有效利率是 20％。 </li>
 
-
+有效利率必须考虑到一年分期付款次数的复效果。这意味着有效利率能更好地反映一年贷款的实际费用。请浏览 "What Borrowers Should Know About Effective Interest Rates" 以了解从2012 年6 月1 日起生效的有效利率计算方法。若是您的常年收入达3 万元或以上，上述利率顶限将不适用，须由放贷人与借贷人双方议定。
 
 
 </ul>
