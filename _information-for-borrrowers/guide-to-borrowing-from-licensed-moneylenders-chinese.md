@@ -22,6 +22,7 @@ collection_name: information-for-borrrowers
   <li> 四处向不同的放贷人查询，设法寻找最有利的贷款条件，直至您对这些条件满意为止，绝不能贸然向人贷款。</li>
  </ul>
 
+
 **2. 我能借贷的数目是多少？**
 
 从2012 年6 月1 日起，放贷人必须先计算贷款利息并向您透露有效的贷款利率才能給您贷款。若是您的常年收入少于3 万元，放贷人所能收取的利息，至多以下列利率计算：
@@ -32,6 +33,7 @@ collection_name: information-for-borrrowers
 </ul>
 
 有效利率必须考虑到一年分期付款次数的复效果。这意味着有效利率能更好地反映一年贷款的实际费用。请浏览 "What Borrowers Should Know About Effective Interest Rates" 以了解从2012 年6 月1 日起生效的有效利率计算方法。若是您的常年收入达3 万元或以上，上述利率顶限将不适用，须由放贷人与借贷人双方议定。
+
 
 **3. 放贷人的贷款利息根据什么利率计算？** 
 
@@ -98,6 +100,7 @@ collection_name: information-for-borrrowers
 
 如果您想参阅有关无执照放贷人的资料，请浏览 ["Unlicensed Moneylending"](https://www.police.gov.sg/resources/prevent-crime/unlicensed-moneylending/loansharking-situation-in-singapore)
 
+
 **6. 我如何才能知道一则广告是由领有执照或无执照放贷人所刊登？**
 
 按照2011 年11 月1 日起生效的广告条例，领有执照的放贷人只准透过以下三个管道刊登广告：
@@ -111,6 +114,7 @@ collection_name: information-for-borrrowers
 所有其他管道都一概不获准。
 
 在这方面，广告条例能协助您辨别领有执照和无执照的放贷人。因此，您所收到的传单、手机简讯、电邮或任何其他形式的广告都是在广告条例下不受批准的。它们可能来自违反条例的领有执照放贷人或无执照放贷人。因此，对这类广告最好是不要作出反应。您可拨打电话1800-225-5529 向放贷人注册局举报。违例的领有执照放贷人将受放贷人注册局调查，而无执照放贷人则将受警方调查。
+
 
 **7. 我能不能依赖广告内容向一名放贷人贷款？**
 
@@ -131,6 +135,7 @@ collection_name: information-for-borrrowers
 * 放贷人不扣留您的身份证或任何其他个人身份证件（例如驾照、护照等）；及
 
 * 放贷人不向您索取任何含有您用户密码的资料（例如 Singpass、互联网银行、电邮等资料）。
+
 
 **9. 获得贷款后我该做些什么？**
 
