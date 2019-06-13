@@ -6,12 +6,12 @@ breadcrumb: Guide To Borrowing From Licensed Moneylenders (Chinese)
 collection_name: information-for-borrrowers
 ---
 
-#### 向领有执照放贷人贷款须知
+### 向领有执照放贷人贷款须知
 
 
-<ol> 
 
-**<li>贷款前我须考虑哪些事项?**
+
+**1. 贷款前我须考虑哪些事项?**
 
 您必须记得以下要点：
 
@@ -22,6 +22,25 @@ collection_name: information-for-borrrowers
   <li> 四处向不同的放贷人查询，设法寻找最有利的贷款条件，直至您对这些条件满意为止，绝不能贸然向人贷款。</li>
  </ul>
 
+**2. 我能借贷的数目是多少？**
+
+**3. 放贷人的贷款利息根据什么利率计算？**
+
+**1. 贷款前我须考虑哪些事项?**
+
+**1. 贷款前我须考虑哪些事项?**
+
+**1. 贷款前我须考虑哪些事项?**
+
+**1. 贷款前我须考虑哪些事项?**
+
+**1. 贷款前我须考虑哪些事项?**
+
+**1. 贷款前我须考虑哪些事项?**
+
+**1. 贷款前我须考虑哪些事项?**
+
+**1. 贷款前我须考虑哪些事项?**
 </li> 
 
 <ul>
@@ -36,4 +55,4 @@ collection_name: information-for-borrrowers
 
 
 
-</ol>
+
