@@ -31,3 +31,16 @@ You should keep these key points in mind:
 **2. How much can I borrow?**
 For secured loans, you can obtain a loan of any amount. For unsecured loans, please refer to the table below for the total maximum amount that you may borrow at any time across all moneylenders in Singapore:
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0lax"></th>
+  </tr>
+</table>
+
+
