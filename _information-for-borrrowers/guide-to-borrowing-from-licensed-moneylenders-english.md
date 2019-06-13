@@ -31,16 +31,28 @@ You should keep these key points in mind:
 **2. How much can I borrow?**
 For secured loans, you can obtain a loan of any amount. For unsecured loans, please refer to the table below for the total maximum amount that you may borrow at any time across all moneylenders in Singapore:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
   <tr>
-    <th class="tg-0lax"></th>
+    <th>Borrower’s annual income</th>
+    <th>Singapore Citizens and Permanent Residents</th>
+    <th>Foreigners residing in Singapore</th>
+  </tr>
+  <tr>
+    <td>Less than $10,000</td>
+    <td rowspan="2"><br><br>$3,000</td>
+    <td>$1,500</td>
+  </tr>
+  <tr>
+    <td>At least $10,000 <br>and less than $20,000</td>
+    <td>$3,000</td>
+  </tr>
+  <tr>
+    <td>At least $20,000</td>
+    <td>6 times monthly income</td>
+    <td>6 times monthly income</td>
   </tr>
 </table>
+
+
 
 
