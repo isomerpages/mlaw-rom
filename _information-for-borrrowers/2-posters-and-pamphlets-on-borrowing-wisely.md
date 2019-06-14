@@ -10,8 +10,8 @@ collection_name: information-for-borrrowers
 
 |       |Posters|Pamphlets|
 |-------|-------|---------|
-|**English**|[.](/files/Poster on borrowing wisely English.pdf)|[ ](/files/Pamphlet on borrowing wisely English.pdf)|
-|**Chinese**|[ ](/files/Poster on borrowing wisely Chinese.pdf)|[ ](/files/Pamphlet on borrowing wisely Chinese.pdf)|
-|**Malay**|[ ](/files/Poster on borrowing wisely Malay.pdf)|[ ](/files/Pamphlet on borrowing wisely Malay.pdf)|
-|**Tamil**|[ ](/files/Poster on borrowing wisely Tamil.pdf)|[ ](/files/Pamphlet on borrowing wisely Tamil.pdf)|
+|**English**|[ ](/files/PosteronborrowingwiselyEnglish.pdf)|[ ](/files/PamphletonborrowingwiselyEnglish.pdf)|
+|**Chinese**|[ ](/files/PosteronborrowingwiselyChinese.pdf)|[ ](/files/PamphletonborrowingwiselyChinese.pdf)|
+|**Malay**|[ ](/files/PosteronborrowingwiselyMalay.pdf)|[ ](/files/PamphletonborrowingwiselyMalay.pdf)|
+|**Tamil**|[ ](/files/PosteronborrowingwiselyTamil.pdf)|[ ](/files/PamphletonborrowingwiselyTamil.pdf)|
 
