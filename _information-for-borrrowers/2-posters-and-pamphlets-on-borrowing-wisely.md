@@ -10,7 +10,7 @@ collection_name: information-for-borrrowers
 
 |       |Posters|Pamphlets|
 |-------|-------|---------|
-|**English**|[/files/icon-pdf.gif](/files/PosteronborrowingwiselyEnglish.pdf)|[ ](/files/PamphletonborrowingwiselyEnglish.pdf)|
+|**English**|[PosteronborrowingwiselyEnglish.pdf](/files/PosteronborrowingwiselyEnglish.pdf)|[ ](/files/PamphletonborrowingwiselyEnglish.pdf)|
 |**Chinese**|[ ](/files/PosteronborrowingwiselyChinese.pdf)|[ ](/files/PamphletonborrowingwiselyChinese.pdf)|
 |**Malay**|[ ](/files/PosteronborrowingwiselyMalay.pdf)|[ ](/files/PamphletonborrowingwiselyMalay.pdf)|
 |**Tamil**|[ ](/files/PosteronborrowingwiselyTamil.pdf)|[ ](/files/PamphletonborrowingwiselyTamil.pdf)|
