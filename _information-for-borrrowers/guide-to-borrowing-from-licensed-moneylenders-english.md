@@ -56,18 +56,18 @@ For secured loans, you can obtain a loan of any amount. For unsecured loans, ple
 
 
 **3. What are the interest rates moneylenders can charge?**
-With effect from 1 October 2015, the maximum interest rate moneylenders can charge is 4% per month. This cap applies regardless of the borrower’s income and whether the loan is an unsecured or secured one. If a borrower fails to repay the loan on time, the maximum rate of late interest a moneylender can charge is 4% per month for each month the loan is repaid late.
+With effect from __1 October 2015__, the maximum interest rate moneylenders can charge is 4% per month. This cap applies regardless of the borrower’s income and whether the loan is an unsecured or secured one. If a borrower fails to repay the loan on time, the maximum rate of late interest a moneylender can charge is __4% per month__ for each month the loan is repaid late.
 
  
 
-The computation of interest charged on the loan must be based on the amount of principal remaining after deducting from the original principal the total payments made by or on behalf of the borrower which are appropriated to principal. [To illustrate, if X takes a loan of $10,000, and X has repaid $4,000, only the remaining $6,000 can be taken into account for the computation of interest.]
+The computation of interest charged on the loan must be based on the amount of principal remaining after deducting from the original principal the total payments made by or on behalf of the borrower which are appropriated to principal. [*To illustrate, if X takes a loan of $10,000, and X has repaid $4,000, only the remaining $6,000 can be taken into account for the computation of interest.*]
 
  
 
-The late interest can only be charged on an amount that is repaid late. The moneylender cannot charge on amounts that are outstanding but not yet due to be repaid. [To illustrate, if X takes a loan of $10,000, and fails to pay for the first instalment of $2,000, the moneylender may charge the late interest on $2,000 but not on the remaining $8,000 as it is not due yet.]
+The late interest can only be charged on an amount that is repaid late. The moneylender cannot charge on amounts that are outstanding but not yet due to be repaid. [*To illustrate, if X takes a loan of $10,000, and fails to pay for the first instalment of $2,000, the moneylender may charge the late interest on $2,000 but not on the remaining $8,000 as it is not due yet.*]
 
 **4. What are the fees that moneylenders can charge?**
-With effect from 1 October 2015, all moneylenders are only permitted to impose the following charges and expenses:
+With effect from __1 October 2015__, all moneylenders are only permitted to impose the following charges and expenses:
 
 * a fee not exceeding $60 for each month of late repayment;
 
@@ -77,7 +77,7 @@ With effect from 1 October 2015, all moneylenders are only permitted to impose t
 
  
 
-The total charges imposed by a moneylender on any loan, consisting of interest, late interest, upfront administrative and late fee also cannot exceed an amount equivalent to the principal of the loan. [To illustrate, if X takes a loan of $10,000, then the interest, late interest, 10% administrative fee and monthly $60 late fees cannot exceed $10,000.]
+The total charges imposed by a moneylender on any loan, consisting of interest, late interest, upfront administrative and late fee also cannot exceed an amount equivalent to the principal of the loan. [*To illustrate, if X takes a loan of $10,000, then the interest, late interest, 10% administrative fee and monthly $60 late fees cannot exceed $10,000.*]
 
 **5. How do I know whether a moneylender is licensed or not?**
 Do not borrow from unlicensed moneylenders. Verify that a moneylender is licensed by checking the list of licensed moneylenders. “Click here to access the list of licensed moneylenders.”
@@ -113,7 +113,7 @@ Such practices are not acceptable. If you encounter them, you should report the 
 
  
 
-To find out more about unlicensed moneylenders, you may click on this link: Unlicensed Moneylending
+To find out more about unlicensed moneylenders, you may click on this link: [Unlicensed Moneylending](https://www.police.gov.sg/resources/prevent-crime/unlicensed-moneylending/loansharking-situation-in-singapore)
 
 **6. How can I tell whether an advertisement is from a licensed moneylender or an unlicensed moneylender?**
 Under the advertising rules, which took effect on 1 November 2011, licensed moneylenders are permitted to advertise only through these three channels: (a) business or consumer directories (in print or online media); (b) websites belonging to the moneylender; and (c) advertisements placed within or on the exterior of the moneylender’s business premises. All other channels are prohibited.  
@@ -143,15 +143,15 @@ You should ensure that:
 **9. What should I do after being granted a loan?**
  
 
-Make sure the moneylender delivers to you the correct principal amount of the loan. The moneylender is only permitted an upfront deduction of a loan approval fee of up to 10% of the principal amount.
+* Make sure the moneylender delivers to you the correct principal amount of the loan. The moneylender is only permitted an upfront deduction of a loan approval fee of up to 10% of the principal amount.
 
-Pay the loan instalments on time to avoid incurring late payment fees and late interest.
+* Pay the loan instalments on time to avoid incurring late payment fees and late interest.
 
-Make sure the moneylender issues to you a receipt every time you make any repayment towards your loan, and check it for correctness (e.g. name, amount, date).  
+* Make sure the moneylender issues to you a receipt every time you make any repayment towards your loan, and check it for correctness (e.g. name, amount, date).  
 
-Make sure you receive a statement of account for all your loan(s) at least once every January and July, and check it for correctness (e.g. name, amount, date); and
+* Make sure you receive a statement of account for all your loan(s) at least once every January and July, and check it for correctness (e.g. name, amount, date); and
 
-You should retain all statement of accounts and receipts of payments, as documentation and evidence of payments. 
+* You should retain all statement of accounts and receipts of payments, as documentation and evidence of payments. 
 
 **10. How do I lodge a complaint against a moneylender against unfair practices and/or contract?**
 You can contact the Registry at telephone number: 1800-2255-529.
@@ -159,3 +159,5 @@ You can contact the Registry at telephone number: 1800-2255-529.
 Rest assured that the Registry will not disclose your details to the moneylender without your consent. To facilitate the Registry to investigate your complaint, you may need to attend an interview with our officers and provide us with all relevant information and documents related to your loan transactions and circumstances of your dealings with the moneylender. The Registry views complaints against moneylenders seriously and will investigate them thoroughly. Errant moneylenders will be taken to task.
  
 If a moneylender has engaged in an unfair practice towards you, you can pursue the matter through the Small Claims Tribunal or the Court under the Consumer Protection (Fair Trading) Act. The Court also has the power to set aside loan transactions that are exorbitant or substantially unfair.
+
+[Notes to Borrowers when obtaining loans from licensed moneylenders (661 KB)](/files/NotestoBorrowerswef30Nov2018.pdf)
