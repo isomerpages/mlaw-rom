@@ -14,7 +14,7 @@ Click [here](https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/List%20
  
 *Above document would require Adobe Reader. Haven't got Adobe Reader? Download it [here](http://get.adobe.com/reader/otherversions/).*
 
-
+|-----------------------------------------------------------------------------------------------------------------------------------|
 Licensed moneylenders are **disallowed** to solicit for loans via text messages or phone calls. If you have received such a message or phone call, it is likely that an unlicensed moneylender has approached you.
 
 **Do not respond** to the message or call.
