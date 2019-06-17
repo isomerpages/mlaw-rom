@@ -16,13 +16,13 @@ Click [here](https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/List%20
 
  
 
-> Licensed moneylenders are **disallowed** to solicit for loans via text messages or phone calls. If you have received such a message or phone call, it is likely that an unlicensed moneylender has approached you.
+|Licensed moneylenders are **disallowed** to solicit for loans via text messages or phone calls. If you have received such a message or phone call, it is likely that an unlicensed moneylender has approached you.
 
  
-> > **Do not respond** to the message or call.
+**Do not respond** to the message or call.
 
- 
-> > Report possible unlicensed moneylending activities to the Police hotline at 1800-255-000, or submit the information online at www.police.gov.sg/iwitness. Members of the public may also call the National Crime Prevention Council’s X-Ah Long hotline at 1800-924-5664.
+Report possible unlicensed moneylending activities to the Police hotline at 1800-255-000, or submit the information online at www.police.gov.sg/iwitness. Members of the public may also call the National Crime Prevention Council’s X-Ah Long hotline at 1800-924-5664.|
+|-----------------------------------------------------|
 
  
 
