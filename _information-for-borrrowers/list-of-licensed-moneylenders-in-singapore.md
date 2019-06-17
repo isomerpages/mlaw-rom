@@ -22,7 +22,7 @@ Click [here](https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/List%20
 **Do not respond** to the message or call.
 
 Report possible unlicensed moneylending activities to the Police hotline at 1800-255-000, or submit the information online at www.police.gov.sg/iwitness. Members of the public may also call the National Crime Prevention Council’s X-Ah Long hotline at 1800-924-5664.|
-|-----------------------------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------|
 
  
 
