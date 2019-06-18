@@ -16,7 +16,7 @@ i. Monetary Authority of Singapore’s (“MAS”) website– Lists of Designate
 
 ii. Financial Action Task Force – October 2015 Public Statement: High-risk and Non-cooperative Jurisdictions
 
-    To view, please click here    
+    To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx)    
 
  
 
