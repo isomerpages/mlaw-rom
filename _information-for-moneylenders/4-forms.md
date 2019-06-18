@@ -20,4 +20,4 @@ Forms
 
 [Form 3 - Cash Account Book (Rule 15 of the MLR) (13 KB)](https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/Form%203%20-%20Cash%20Account%20Book%20(Rule%2015%20of%20the%20MLR).docx)
 
-[Form 4 - Loan Account Book (Rule 16 of the MLR) (12 KB)] (https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/Form%204%20-%20Loan%20Account%20Book%20(Rule%2016%20of%20the%20MLR).docx)
+[Form 4 - Loan Account Book (Rule 16 of the MLR) (12 KB)](https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/Form%204%20-%20Loan%20Account%20Book%20(Rule%2016%20of%20the%20MLR).docx)
