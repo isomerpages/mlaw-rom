@@ -148,4 +148,5 @@ Applications may be submitted to the Registry via **https://licence1.business.go
 Please note that the fees  for the certificate of exemption are as follows, which will be advised to you after your application is approved:
 
 Class | Class of Exemption | Annual fee
------------------------------------------
+------|--------------------|-------------
+(i)   | Where the person exempted carries on the business of moneylending solely by granting personal or consumer loans to individuals. | $3000
