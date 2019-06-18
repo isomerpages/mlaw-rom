@@ -6,6 +6,8 @@ breadcrumb: Relevant Laws And Regulations
 collection_name: information-for-moneylenders
 ---
 
+Relevant Laws and Regulations
+---
 **1. Moneylenders Act**<br>
 * [Moneylenders Act](https://sso.agc.gov.sg/Act/MA2008)
 
