@@ -109,3 +109,43 @@ i) A clear copy of an up-to-date identification card of the transferor and the t
 ii) Number of shares to be transferred/ allotted.
 
 For the purpose of obtaining the Registrar’s prior approval for the employment or engagement of any person to assist in the carrying on of the business, including persons employed or engaged to perform debt collection, you are required to submit an application to the Registry. Please please complete and submit an application via [eServices](https://www.mlaw.gov.sg/eservices/rom/). 
+
+**5. How do I renew my moneylender’s licence?**<br>
+The renewal of the moneylender’s licence is subject to the good conduct of the moneylender. Licensees should prepare the following documents and forward them to the Registry upon notification:   
+
+i) A tenancy agreement for the proposed place of business covering at least a one-year period immediately following the expiry of the existing licence;
+
+ii) A copy of the proof of ownership of the premises in the form of property tax or strata title deed;
+
+iii) A copy of the updated list of persons employed and/ or engaged to assist in the carrying on of the business, including persons employed or engaged to perform debt collection;
+
+iv) A renewed Banker's Guarantee or Insurance Guarantee for a sum of $20,000, covering  the entire licence period; and
+
+v) A duly completed GIRO application form (for licensees who do not have an existing GIRO arrangement with the Registry for the deduction of $1,320 as the licence fees).
+
+**6. How do I terminate my moneylender’s licence?**<br>
+To terminate your moneylender's licence, you may submit your termination application [HERE](https://licence1.business.gov.sg/web/frontier/home).
+
+**7. How do I apply for a certificate of exemption from the Moneylenders Act?**<br>
+Under section 35(1) of the Moneylenders Act, a company or other business entity may apply for exemption from the Moneylenders Act. There is no prescribed form for the application for a certificate of exemption. Applicants are to write to the Registry of Moneylenders with the following information and supporting documents:
+
+i) A brief description of the applicant;
+
+ii) A copy of the Instant Information Service printout on the applicant issued by ACRA;
+
+iii) The business(s) and registered address(s) of the applicant;
+
+iv) The telephone and fax numbers of the applicant;
+
+v) A detailed description of each type of activity for which the exemption is sought and the reasons for seeking the exemption;
+
+vi) A detailed description of the types or classes of borrowers in relation to each type of moneylending activity for which exemption is sought; and
+
+vii) A draft scope of exemption for our consideration.
+
+Applications may be submitted to the Registry via **https://licence1.business.gov.sg**
+
+Please note that the fees  for the certificate of exemption are as follows, which will be advised to you after your application is approved:
+
+Class | Class of Exemption | Annual fee
+-----------------------------------------
