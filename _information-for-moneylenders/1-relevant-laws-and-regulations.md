@@ -12,7 +12,7 @@ collection_name: information-for-moneylenders
 **2. Moneylenders Rules**<br>
 * [Moneylenders Rules](https://sso.agc.gov.sg/SL/MA2008-S72-2009?DocDate=20181116)
   
-* [Moneylenders (Prevention of Money Laundering and Financing of Terrorism Rules 2009)]
+* [Moneylenders (Prevention of Money Laundering and Financing of Terrorism Rules 2009)](https://sso.agc.gov.sg/SL/MA2008-S73-2009?DocDate=20150831)
 
 **3. Licence Conditions**<br>
 * [Licence Conditions](https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/Licence%20Conditions%20wef%2029%20Mar%202018.pdf)
