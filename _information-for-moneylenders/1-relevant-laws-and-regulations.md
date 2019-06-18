@@ -10,7 +10,7 @@ collection_name: information-for-moneylenders
 <ul><li>[Moneylenders Act](https://sso.agc.gov.sg/Act/MA2008)</li></ul>
 
 **2. Moneylenders Rules**<br>
-<ul><li>[Moneylenders Rules]</li></ul>
+<ul><li>[Moneylenders Rules](https://sso.agc.gov.sg/SL/MA2008-S72-2009?DocDate=20181116)</li></ul>
   
 <ul><li>[Moneylenders (Prevention of Money Laundering and Financing of Terrorism Rules 2009)]</li></ul>
 
