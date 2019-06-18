@@ -150,3 +150,5 @@ Please note that the fees  for the certificate of exemption are as follows, whic
 Class | Class of Exemption | Annual fee
 ------|--------------------|-------------
 (i)   | Where the person exempted carries on the business of moneylending solely by granting personal or consumer loans to individuals. | $3000
+(ii)  | Where the person exempted carries on the business of moneylending solely by granting loans other than those specified in paragraph (i) above. | $1,000
+(iii) | Where the person exempted carries on the business of moneylending to persons referred to in paragraphs (i) and (ii). | $4,000
