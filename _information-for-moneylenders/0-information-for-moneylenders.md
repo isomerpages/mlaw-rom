@@ -152,3 +152,26 @@ Class | Class of Exemption | Annual fee
 (i)   | Where the person exempted carries on the business of moneylending solely by granting personal or consumer loans to individuals. | $3000
 (ii)  | Where the person exempted carries on the business of moneylending solely by granting loans other than those specified in paragraph (i) above. | $1,000
 (iii) | Where the person exempted carries on the business of moneylending to persons referred to in paragraphs (i) and (ii). | $4,000
+
+**8. How do I renew my certificate of exemption?**<br>
+To renew/ extend your certificate of exemption, you are required to submit an application to the Registry of Moneylenders at least one month before the expiry of your existing certificate of exemption with the following information and supporting documents:
+
+i) A copy of the Instant Information Service printout issued by the ACRA;
+
+ii) If there are/will be any changes in the company’s business(s) and registered address(s);
+
+iii) If there are/will be any changes in the company’s business activities covered by the existing/previous certificate of exemption;
+
+iv) If there are/will be any changes to the types or classes of borrowers in relation to any of the company’s business activities covered by the existing/previous certificate of exemption; and
+
+v) If the company has granted any loans after the expiry of the certificate of exemption (for late renewals only).
+
+Such an application can be submitted at **https://licence1.business.gov.sg**
+
+You may refer to rule 24 of the Moneylenders Rules 2009 for the fees for the renewal of your existing certificate of exemption.
+
+**9. How do I know if I qualify as an excluded moneylender under the Moneylenders Act?**<br>
+If your business model fits fully the description of an excluded moneylender defined under section 2 of the Moneylenders Act, a copy of which can be retrieved [HERE](https://sso.agc.gov.sg/Act/MA2008), you shall be deemed as an excluded moneylender. In the event that you are unsure if your business model qualifies you as an excluded moneylender, you are advised to seek independent legal advice before commencing the intended business.
+
+**10. How do I make payment when I receive the Notice of Offer of Composition?**<br>
+Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the [user guide](https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/User%20Guide%20for%20Moneylenders.pdf/subassets/page1.pdf).
