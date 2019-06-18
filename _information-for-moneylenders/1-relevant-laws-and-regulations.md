@@ -6,7 +6,7 @@ breadcrumb: Relevant Laws And Regulations
 collection_name: information-for-moneylenders
 ---
 
-**1. Moneylenders Act**
+**1. Moneylenders Act**<br>
 Moneylenders Act
 
 **2. Moneylenders Rules**
