@@ -8,7 +8,7 @@ collection_name: information-for-moneylenders
 
 Information for Moneylenders
 ---
-1. How do I start a moneylending business?<br>
+**1. How do I start a moneylending business?**<br>
 Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://www.mlaw.gov.sg/content/minlaw/en/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
 
 To start a moneylending business, you are required to do the following:
@@ -23,16 +23,16 @@ i) Online at https://sso.agc.gov.sg/Act/MA2008; and
 
 ii) Toppan Lee Fung Pte. Ltd. Legal Publishing (website:www.toppanleefung.com/webshop)
 
-2. How do I apply for a moneylender’s licence?
+**2. How do I apply for a moneylender’s licence?**<br>
 Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://www.mlaw.gov.sg/content/minlaw/en/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
 
 Persons responsible for the management of a moneylending business should be familiar with the provisions of the Moneylenders Act (Cap.188) and the relevant legislations. In this regard, a person who will be responsible for the management of your moneylending business will be required to pass the moneylender's test conducted by the Registry of Moneylenders.
 
-Moneylender's Test
+**Moneylender's Test**
 
 A non-refundable test fee of $130 (inclusive of GST) shall be payable per attempt per candidate. You may click [HERE](https://www.mlaw.gov.sg/eservices/rom/) to access the Moneylender's Test Booking System to register for a test slot.
 
-Moneylender’s Licence Application
+**Moneylender’s Licence Application**
 
 If the person, who will be responsible for the management of the moneylending business, passes the moneylender's test and the Registry finds the person suitable for the moneylending industry, your business entity will be invited to submit an online application. You may click [HERE](https://licence1.business.gov.sg/) to access the online application. 
 
@@ -50,12 +50,62 @@ ii) the proposed business premises has been deemed suitable by the Registrar for
 
 iii) a security deposit of $20,000 for every place of business for ensuring the proper conduct of the moneylending business has been placed with the Accountant-General. The security deposit is to be provided in the form of an irrevocable [Banker's](https://www.mlaw.gov.sg/content/dam/minlaw/rom/assets/documents/BANKERS%20GUARANTEE%20FORMAT_01082017.pdf) or Insurance Guarantee upon approval of your application.
 
-Application Fee
+**Application Fee**
 The $600 (inclusive of GST) non-refundable application fee is payable upon the submission of your application.
 
-Licence Fee 
+**Licence Fee**
 The moneylender’s licence fee is $1,320 per annum, which is payable upon approval of your application. Payments can be made electronically via [LicenceOne](https://licence1.business.gov.sg/web/frontier/home) by eNets Credit/Debit or Internet Banking.  
 
-Other relevant legislations
+**Other relevant legislations**
 
 You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](https://www.mlaw.gov.sg/content/rom/en/information-for-moneylenders/relevant-laws-and-regulations.html).
+
+**3. How do I apply for additional place(s) of business?**<br>
+Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://www.mlaw.gov.sg/content/minlaw/en/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
+
+Under section 10 of the Moneylenders Act, licensed moneylenders may operate from more than one location with the approval of the Registrar of Moneylenders. If you wish to apply for approval to carry on business at additional place(s) of business, please complete and submit an application via [eServices](https://www.mlaw.gov.sg/eservices/rom/). 
+
+Upon approval, you will be required to:
+
+i) place a security deposit of $20,000 with the Accountant-General in the form of an irrevocable [Banker’s](https://www.mlaw.gov.sg/content/dam/minlaw/rom/assets/documents/BANKERS%20GUARANTEE%20FORMAT_01082017.pdf) or Insurance Guarantee for every additional place of business; and
+
+ii) pay a prorated additional licence fee of $110 per month based on the unexpired months of your current moneylender’s licence for every additional place of business.
+
+The renewal for approved additional place(s) of business will be processed concurrently with the renewal of moneylender’s licence: see section below “Renewal of Licence”. The additional licence fee payable for the renewal of approved additional place(s) of business will be $1,320 per annum for every additional place of business.
+
+Do note that the approval of all additional place(s) of business (including renewed approvals) will terminate upon the expiry or revocation of a licence.
+
+**4. How do I update my company’s or licensee’s particulars?**<br>
+Please submit an online application at [LicenceOne](https://licence1.business.gov.sg/web/frontier/home) for the following updates:
+
+i) Change of company/ firm/ business operating address;
+
+ii) Change of company/ firm/ business name;
+
+iii) Change of company/ firm/ business contact details;
+
+iv) Change of bank account information;
+
+v) Appointment of agent to manage business in place of sole-proprietor or partners who are individuals;
+
+vi) Appointment/ admission of new director/ managing director/ partner; and
+
+vii) Resignation/ withdrawal of director/ managing director/ partner.
+
+For update (i), the licensee will be required to obtain a copy of the letter of approval from the landlord of the proposed premises for a moneylending business to be conducted and for signage to be displayed conspicuously at the business premises. The letter of approval must be forwarded to the Registry within seven days of the online application, failing which the progress and outcome of which can be adversely affected. Please note that a tenancy agreement is not required to be submitted to the Registry at this juncture.
+
+After the Registrar has deemed the proposed premises to be suitable for moneylending business to be conducted, the licensee will then be required to forward to the Registry the following documents:
+
+i) A copy of the tenancy agreement of the premises covering the entire/ remaining licence period;
+
+ii) A copy of the proof of ownership of the premises in the form of property tax or strata title deed.
+
+Do note that for updates (i), (ii), (v), (vi) and (vii), you must first submit the online application and obtain approval from the Registry of Moneylenders **before** you proceed with the update/changes. After you have received the approval from the Registry of Moneylenders, you may then update this information with the ACRA.
+
+For updates which involve the allotment of new shares/transfer of shares/resignation of shareholder(s)/inclusion of new shareholder(s), please write in to the Registry via e-mail to seek the **prior** approval of the Registrar with the following information:
+
+i) A clear copy of an up-to-date identification card of the transferor and the transferee (if applicable); and
+
+ii) Number of shares to be transferred/ allotted.
+
+For the purpose of obtaining the Registrar’s prior approval for the employment or engagement of any person to assist in the carrying on of the business, including persons employed or engaged to perform debt collection, you are required to submit an application to the Registry. Please please complete and submit an application via [eServices](https://www.mlaw.gov.sg/eservices/rom/). 
