@@ -16,7 +16,7 @@ Forms
 
 [Form 1 - Note of Contract (Rule 10 of the MLR) (16 KB)](https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/Form%201%20-%20Note%20of%20Contract%20(Rule%2010%20of%20the%20MLR).docx)
 
-[Form 2 - Sttament of Accounts (Rules 13 of the MLR) (13 KB)](https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/Form%202%20-%20Statement%20of%20Accounts%20(Rule%2013%20of%20the%20MLR).xlsx)
+[Form 2 - Statement of Accounts (Rules 13 of the MLR) (13 KB)](https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/Form%202%20-%20Statement%20of%20Accounts%20(Rule%2013%20of%20the%20MLR).xlsx)
 
 [Form 3 - Cash Account Book (Rule 15 of the MLR) (13 KB)](https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/Form%203%20-%20Cash%20Account%20Book%20(Rule%2015%20of%20the%20MLR).docx)
 
