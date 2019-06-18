@@ -10,7 +10,7 @@ Forms
 ---
 [Sample of a Banker's Guarantee (181 KB)](https://www.mlaw.gov.sg/content/dam/minlaw/rom/assets/documents/BANKERS%20GUARANTEE%20FORMAT_01082017.pdf)
 
-[Template for Moneylender's Sttaenent of Quarterly Returns (818 KB)](https://www.mlaw.gov.sg/content/dam/minlaw/rom/assets/documents/Copy%20of%20Moneylender_Returns%20(version%202%202)%20(14%20Jan%202016).xls)
+[Template for Moneylender's Statement of Quarterly Returns (818 KB)](https://www.mlaw.gov.sg/content/dam/minlaw/rom/assets/documents/Copy%20of%20Moneylender_Returns%20(version%202%202)%20(14%20Jan%202016).xls)
 
 [Annex for the application to employ/engage persons (215 KB)](https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/EDC_revised%20annex%20A_02082017.pdf)
 
