@@ -9,7 +9,9 @@ collection_name: information-for-borrrowers
 ### Guide to Borrowing from Licensed Moneylenders
 
 
-<details> <summary> **1. What should I consider before taking up a loan?**
+<details><summary> 
+ 
+ **1. What should I consider before taking up a loan?**
 
 
 You should keep these key points in mind:
@@ -25,7 +27,7 @@ You should keep these key points in mind:
  
 * Consider carefully before agreeing to any contractual term which allows a moneylender to lodge a caveat on the sale proceeds of your real estate property upon default of the loan repayment. When a caveat is lodged against your property, you will not be able to sell it without first repaying the moneylender in full. If the repayment is taken from the net proceeds from the sale of the property, it can wipe out all or a substantial portion of the proceeds.
  
-* You should shop around different moneylenders for the most favourable terms. You should not rush into and commit yourself to a loan until you are satisfied with the terms and conditions. </details> </summary>
+* You should shop around different moneylenders for the most favourable terms. You should not rush into and commit yourself to a loan until you are satisfied with the terms and conditions. </details></summary>
 
 
 <details> <summary> **2. How much can I borrow?**
