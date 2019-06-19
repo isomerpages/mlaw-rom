@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Guide To Borrowing From Licensed Moneylenders (Chinese)
 permalink: /information-for-borrrowers/guide-to-borrowing-from-licensed-moneylenders-chinese/
 breadcrumb: Guide To Borrowing From Licensed Moneylenders (Chinese)
-collection_name: information-for-borrrowers
+collection_name: information-for-borrowers
 ---
 
 ### 向领有执照放贷人贷款须知
