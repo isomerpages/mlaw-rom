@@ -10,8 +10,8 @@ collection_name: information-for-borrrowers
 
 |       |Posters|Pamphlets|
 |-------|-------|---------
-|**English**|[PosteronborrowingwiselyEnglish.pdf](/files/PosteronborrowingwiselyEnglish.pdf)|[PamphletonborrowingwiselyEnglish.pdf](/files/PamphletonborrowingwiselyEnglish.pdf)|
-|**Chinese**|[PosteronborrowingwiselyChinese.pdf](/files/PosteronborrowingwiselyChinese.pdf)|[PamphletonborrowingwiselyChinese.pdf](/files/PamphletonborrowingwiselyChinese.pdf)|
-|**Malay**|[PosteronborrowingwiselyMalay.pdf](/files/PosteronborrowingwiselyMalay.pdf)|[PamphletonborrowingwiselyMalay.pdf](/files/PamphletonborrowingwiselyMalay.pdf)|
-|**Tamil**|[PosteronborrowingwiselyTamil.pdf](/files/PosteronborrowingwiselyTamil.pdf)|[PamphletonborrowingwiselyTamil.pdf](/files/PamphletonborrowingwiselyTamil.pdf)|
+|**English**|[Poster on borrowing wisely (English PDF)](/files/PosteronborrowingwiselyEnglish.pdf)|[Pamphlet on borrowing wisely (English PDF)](/files/PamphletonborrowingwiselyEnglish.pdf)|
+|**Chinese**|[Poster on borrowing wisely (Chinese PDF)](/files/PosteronborrowingwiselyChinese.pdf)|[Pamphlet on borrowing wisely (Chinese PDF)](/files/PamphletonborrowingwiselyChinese.pdf)|
+|**Malay**|[Poster on borrowing wisely (Malay PDF)](/files/PosteronborrowingwiselyMalay.pdf)|[Pamphlet on borrowing wisely (Malay PDF)](/files/PamphletonborrowingwiselyMalay.pdf)|
+|**Tamil**|[Poster on borrowing wisely (Tamil PDF)](/files/PosteronborrowingwiselyTamil.pdf)|[Pamphlet on borrowing wisely (Tamil PDF)](/files/PamphletonborrowingwiselyTamil.pdf)|
 
