@@ -9,18 +9,20 @@
 - title: Information For Moneylenders
   url: /information-for-moneylenders/
   sub-links:
-  - title: Forms
-    url: /information-for-moneylenders/forms/
-  - title: Anti Money Laundering And Countering The Financing Of Terrorism
-    url: /information-for-moneylenders/anti-money-laundering-and-countering-the-financing-of-terrorism/
   - title: Relevant Laws And Regulations
     url: /information-for-moneylenders/relevant-laws-and-regulations/
-  - title: Moneylenders Credit Bureau
-    url: /information-for-moneylenders/moneylenders-credit-bureau/
-  - title: Statistics
-    url: /information-for-moneylenders/statistics/
+  - title: Anti Money Laundering And Countering The Financing Of Terrorism
+    url: /information-for-moneylenders/anti-money-laundering-and-countering-the-financing-of-terrorism/
   - title: Audit
     url: /information-for-moneylenders/audit/
+  - title: Forms
+    url: /information-for-moneylenders/forms/
+  - title: Statistics
+    url: /information-for-moneylenders/statistics/
+  - title: Moneylenders Credit Bureau
+    url: /information-for-moneylenders/moneylenders-credit-bureau/
+
+
 - title: Information For Borrowers
   url: /information-for-borrowers/guide-to-borrowing-from-licensed-moneylenders-english/
   sub-links:
