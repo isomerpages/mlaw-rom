@@ -25,7 +25,7 @@ ii) Toppan Lee Fung Pte. Ltd. Legal Publishing <br>
 (website:www.toppanleefung.com/webshop)
 
 **2. How do I apply for a moneylender’s licence?**<br>
-Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.md) for more information.
+Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](isomerpages-mlaw/news/announcements/_posts/2012-03-12-the-registry-of-moneylenders-notice-dated-12-mar-2012.md) for more information.
 
 Persons responsible for the management of a moneylending business should be familiar with the provisions of the Moneylenders Act (Cap.188) and the relevant legislations. In this regard, a person who will be responsible for the management of your moneylending business will be required to pass the moneylender's test conducted by the Registry of Moneylenders.
 
