@@ -10,7 +10,7 @@ Guide to Borrowing from Licensed Moneylenders
 ---
 
 
-**1. What should I consider before taking up a loan?**
+**1. What should I consider before taking up a loan?** <br>
 
 
 You should keep these key points in mind:
@@ -29,7 +29,7 @@ You should keep these key points in mind:
 * You should shop around different moneylenders for the most favourable terms. You should not rush into and commit yourself to a loan until you are satisfied with the terms and conditions. 
 
 
-**2. How much can I borrow?**
+**2. How much can I borrow?** <br>
 For secured loans, you can obtain a loan of any amount. For unsecured loans, please refer to the table below for the total maximum amount that you may borrow at any time across all moneylenders in Singapore:
 
 <table>
@@ -56,7 +56,7 @@ For secured loans, you can obtain a loan of any amount. For unsecured loans, ple
 
 
 
-**3. What are the interest rates moneylenders can charge?**
+**3. What are the interest rates moneylenders can charge?** <br>
 With effect from __1 October 2015__, the maximum interest rate moneylenders can charge is 4% per month. This cap applies regardless of the borrower’s income and whether the loan is an unsecured or secured one. If a borrower fails to repay the loan on time, the maximum rate of late interest a moneylender can charge is __4% per month__ for each month the loan is repaid late.
 
  
@@ -67,7 +67,7 @@ The computation of interest charged on the loan must be based on the amount of p
 
 The late interest can only be charged on an amount that is repaid late. The moneylender cannot charge on amounts that are outstanding but not yet due to be repaid. [*To illustrate, if X takes a loan of $10,000, and fails to pay for the first instalment of $2,000, the moneylender may charge the late interest on $2,000 but not on the remaining $8,000 as it is not due yet.*]
 
-**4. What are the fees that moneylenders can charge?**
+**4. What are the fees that moneylenders can charge?** <br>
 With effect from __1 October 2015__, all moneylenders are only permitted to impose the following charges and expenses:
 
 * a fee not exceeding $60 for each month of late repayment;
@@ -80,7 +80,7 @@ With effect from __1 October 2015__, all moneylenders are only permitted to impo
 
 The total charges imposed by a moneylender on any loan, consisting of interest, late interest, upfront administrative and late fee also cannot exceed an amount equivalent to the principal of the loan. [*To illustrate, if X takes a loan of $10,000, then the interest, late interest, 10% administrative fee and monthly $60 late fees cannot exceed $10,000.*]
 
-**5. How do I know whether a moneylender is licensed or not?**
+**5. How do I know whether a moneylender is licensed or not?** <br>
 Do not borrow from unlicensed moneylenders. Verify that a moneylender is licensed by checking the list of licensed moneylenders. “Click here to access the list of licensed moneylenders.”
 
  
@@ -127,7 +127,7 @@ In this regard, the advertising rules can help you differentiate between license
 **7. Can I rely on the content of an advertisement to take up a loan from a moneylender?** <br>
 You are advised to seek clarifications on specific terms of the loan contract before signing up with a licensed moneylender, and not to rely solely on the content of advertisements from the moneylender.
 
-**8. In the event that I am standing as a surety for a loan, what should I look out for?**
+**8. In the event that I am standing as a surety for a loan, what should I look out for?** <br>
 You should ensure that:
 
 
