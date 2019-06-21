@@ -60,7 +60,7 @@ The moneylender’s licence fee is $1,320 per annum, which is payable upon appro
 
 **Other relevant legislations**
 
-You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](1-relevant-laws-and-regulations.md). <br>
+You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](/_information-for-moneylenders/1-relevant-laws-and-regulations.md). <br>
 
 
 **3. How do I apply for additional place(s) of business?**<br>
