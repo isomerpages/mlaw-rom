@@ -25,7 +25,7 @@ ii) Toppan Lee Fung Pte. Ltd. Legal Publishing <br>
 (website:www.toppanleefung.com/webshop)
 
 **2. How do I apply for a moneylender’s licence?**<br>
-Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://www.mlaw.gov.sg/content/minlaw/en/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
+Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](isomerpages-mlaw/news/announcements/_posts/2012-03-24-the-registry-of-moneylenders-notice-dated-12-mar-2012.md) for more information.
 
 Persons responsible for the management of a moneylending business should be familiar with the provisions of the Moneylenders Act (Cap.188) and the relevant legislations. In this regard, a person who will be responsible for the management of your moneylending business will be required to pass the moneylender's test conducted by the Registry of Moneylenders.
 
@@ -59,7 +59,7 @@ The moneylender’s licence fee is $1,320 per annum, which is payable upon appro
 
 **Other relevant legislations**
 
-You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](https://www.mlaw.gov.sg/content/rom/en/information-for-moneylenders/relevant-laws-and-regulations.html).
+You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](https://mlaw-rom-staging.netlify.com/information-for-moneylenders/relevant-laws-and-regulations/).
 
 **3. How do I apply for additional place(s) of business?**<br>
 Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://www.mlaw.gov.sg/content/minlaw/en/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
@@ -68,7 +68,7 @@ Under section 10 of the Moneylenders Act, licensed moneylenders may operate from
 
 Upon approval, you will be required to:
 
-i) place a security deposit of $20,000 with the Accountant-General in the form of an irrevocable [Banker’s](https://www.mlaw.gov.sg/content/dam/minlaw/rom/assets/documents/BANKERS%20GUARANTEE%20FORMAT_01082017.pdf) or Insurance Guarantee for every additional place of business; and
+i) place a security deposit of $20,000 with the Accountant-General in the form of an irrevocable [Banker’s](/files/BANKERSGUARANTEEFORMAT_01082017.pdf) or Insurance Guarantee for every additional place of business; and
 
 ii) pay a prorated additional licence fee of $110 per month based on the unexpired months of your current moneylender’s licence for every additional place of business.
 
