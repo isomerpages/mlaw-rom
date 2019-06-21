@@ -184,4 +184,4 @@ If your business model fits fully the description of an excluded moneylender def
 
 
 **10. How do I make payment when I receive the Notice of Offer of Composition?**<br>
-Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the [user guide](https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/User%20Guide%20for%20Moneylenders.pdf/subassets/page1.pdf).
+Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the [user guide](/files/page1.pdf).
