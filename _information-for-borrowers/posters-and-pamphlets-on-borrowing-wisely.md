@@ -6,7 +6,9 @@ breadcrumb: Posters And Pamphlets On Borrowing Wisely
 collection_name: information-for-borrowers
 ---
 
-### Posters and Pamphlets on borrowing wisely (4 languages)
+Posters and Pamphlets on borrowing wisely (4 languages)
+---
+
 
 |       |Posters|Pamphlets|
 |-------|-------|---------
