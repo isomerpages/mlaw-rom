@@ -114,7 +114,7 @@ Such practices are not acceptable. If you encounter them, you should report the 
 
  
 
-To find out more about unlicensed moneylenders, you may click on this link: [Unlicensed Moneylending](https://www.police.gov.sg/resources/prevent-crime/unlicensed-moneylending/loansharking-situation-in-singapore)
+To find out more about unlicensed moneylenders, you may click on this link: [Unlicensed Moneylending](https://www.police.gov.sg/resources/prevent-crime/unlicensed-moneylending/loansharking-situation-in-singapore){:target="_blank"}
 
 **6. How can I tell whether an advertisement is from a licensed moneylender or an unlicensed moneylender?**<br>
 
