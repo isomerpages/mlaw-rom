@@ -6,7 +6,8 @@ breadcrumb: Guide To Borrowing From Licensed Moneylenders (English)
 collection_name: information-for-borrowers
 ---
 
-### Guide to Borrowing from Licensed Moneylenders
+Guide to Borrowing from Licensed Moneylenders
+---
 
 
 **1. What should I consider before taking up a loan?**
