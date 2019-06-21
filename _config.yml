@@ -42,5 +42,5 @@ custom_print_css_path: "/assets/css/print.css"
 collections:
   information-for-moneylenders:
     output: true
-  information-for-borrrowers:
+  information-for-borrowers:
     output: true

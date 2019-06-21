@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Posters And Pamphlets On Borrowing Wisely
-permalink: /information-for-borrrowers/posters-and-pamphlets-on-borrowing-wisely/
+permalink: /information-for-borrowers/posters-and-pamphlets-on-borrowing-wisely/
 breadcrumb: Posters And Pamphlets On Borrowing Wisely
-collection_name: information-for-borrrowers
+collection_name: information-for-borrowers
 ---
 
 ### Posters and Pamphlets on borrowing wisely (4 languages)

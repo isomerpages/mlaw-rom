@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: List Of Licensed Moneylenders In Singapore
-permalink: /information-for-borrrowers/list-of-licensed-moneylenders-in-singapore/
+permalink: /information-for-borrowers/list-of-licensed-moneylenders-in-singapore/
 breadcrumb: List Of Licensed Moneylenders In Singapore
-collection_name: information-for-borrrowers
+collection_name: information-for-borrowers
 ---
 
 ### List of Licensed Moneylenders in Singapore
