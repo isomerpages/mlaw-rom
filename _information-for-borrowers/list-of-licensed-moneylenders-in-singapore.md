@@ -6,7 +6,8 @@ breadcrumb: List Of Licensed Moneylenders In Singapore
 collection_name: information-for-borrowers
 ---
 
-### List of Licensed Moneylenders in Singapore
+List of Licensed Moneylenders in Singapore
+---
 
 
 Click [here](/files/ListofMoneylenders.pdf) to view the complete list of licensed moneylenders in Singapore.
