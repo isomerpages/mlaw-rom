@@ -9,7 +9,7 @@ collection_name: information-for-moneylenders
 Information for Moneylenders
 ---
 **1. How do I start a moneylending business?**<br>
-Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://www.mlaw.gov.sg/content/minlaw/en/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
+Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://staging-isomer-mlaw.netlify.com/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
 
 To start a moneylending business, you are required to do the following:
 
@@ -50,7 +50,7 @@ be familiar with the provisions of the Moneylenders Act and its Rules
 
 ii) the proposed business premises has been deemed suitable by the Registrar for the conduct of the moneylending business; and
 
-iii) a security deposit of $20,000 for every place of business for ensuring the proper conduct of the moneylending business has been placed with the Accountant-General. The security deposit is to be provided in the form of an irrevocable [Banker's](https://www.mlaw.gov.sg/content/dam/minlaw/rom/assets/documents/BANKERS%20GUARANTEE%20FORMAT_01082017.pdf) or Insurance Guarantee upon approval of your application.
+iii) a security deposit of $20,000 for every place of business for ensuring the proper conduct of the moneylending business has been placed with the Accountant-General. The security deposit is to be provided in the form of an irrevocable [Banker's](/files/BANKERSGUARANTEEFORMAT_01082017.pdf) or Insurance Guarantee upon approval of your application.
 
 **Application Fee**
 The $600 (inclusive of GST) non-refundable application fee is payable upon the submission of your application.
@@ -60,7 +60,7 @@ The moneylender’s licence fee is $1,320 per annum, which is payable upon appro
 
 **Other relevant legislations**
 
-You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](https://mlaw-rom-staging.netlify.com/information-for-moneylenders/relevant-laws-and-regulations/). <br>
+You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](/information-for-moneylenders/relevant-laws-and-regulations/). <br>
 
 
 **3. How do I apply for additional place(s) of business?**<br>
