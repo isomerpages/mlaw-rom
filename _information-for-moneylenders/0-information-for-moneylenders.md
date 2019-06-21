@@ -23,7 +23,7 @@ i) Online at https://sso.agc.gov.sg/Act/MA2008; and
 
 ii) Toppan Lee Fung Pte. Ltd. Legal Publishing <br> 
 (website:www.toppanleefung.com/webshop)
-
+<br>
 **2. How do I apply for a moneylender’s licence?**<br>
 Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://staging-isomer-mlaw.netlify.com/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
 
@@ -60,9 +60,9 @@ The moneylender’s licence fee is $1,320 per annum, which is payable upon appro
 **Other relevant legislations**
 
 You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](https://mlaw-rom-staging.netlify.com/information-for-moneylenders/relevant-laws-and-regulations/).
-
+<br>
 **3. How do I apply for additional place(s) of business?**<br>
-Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://www.mlaw.gov.sg/content/minlaw/en/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
+Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://staging-isomer-mlaw.netlify.com/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
 
 Under section 10 of the Moneylenders Act, licensed moneylenders may operate from more than one location with the approval of the Registrar of Moneylenders. If you wish to apply for approval to carry on business at additional place(s) of business, please complete and submit an application via [eServices](https://www.mlaw.gov.sg/eservices/rom/). 
 
@@ -75,7 +75,7 @@ ii) pay a prorated additional licence fee of $110 per month based on the unexpir
 The renewal for approved additional place(s) of business will be processed concurrently with the renewal of moneylender’s licence: see section below “Renewal of Licence”. The additional licence fee payable for the renewal of approved additional place(s) of business will be $1,320 per annum for every additional place of business.
 
 Do note that the approval of all additional place(s) of business (including renewed approvals) will terminate upon the expiry or revocation of a licence.
-
+<br>
 **4. How do I update my company’s or licensee’s particulars?**<br>
 Please submit an online application at [LicenceOne](https://licence1.business.gov.sg/web/frontier/home) for the following updates:
 
@@ -110,7 +110,7 @@ i) A clear copy of an up-to-date identification card of the transferor and the t
 ii) Number of shares to be transferred/ allotted.
 
 For the purpose of obtaining the Registrar’s prior approval for the employment or engagement of any person to assist in the carrying on of the business, including persons employed or engaged to perform debt collection, you are required to submit an application to the Registry. Please please complete and submit an application via [eServices](https://www.mlaw.gov.sg/eservices/rom/). 
-
+<br>
 **5. How do I renew my moneylender’s licence?**<br>
 The renewal of the moneylender’s licence is subject to the good conduct of the moneylender. Licensees should prepare the following documents and forward them to the Registry upon notification:   
 
@@ -123,10 +123,10 @@ iii) A copy of the updated list of persons employed and/ or engaged to assist in
 iv) A renewed Banker's Guarantee or Insurance Guarantee for a sum of $20,000, covering  the entire licence period; and
 
 v) A duly completed GIRO application form (for licensees who do not have an existing GIRO arrangement with the Registry for the deduction of $1,320 as the licence fees).
-
+<br>
 **6. How do I terminate my moneylender’s licence?**<br>
 To terminate your moneylender's licence, you may submit your termination application [HERE](https://licence1.business.gov.sg/web/frontier/home).
-
+<br>
 **7. How do I apply for a certificate of exemption from the Moneylenders Act?**<br>
 Under section 35(1) of the Moneylenders Act, a company or other business entity may apply for exemption from the Moneylenders Act. There is no prescribed form for the application for a certificate of exemption. Applicants are to write to the Registry of Moneylenders with the following information and supporting documents:
 
@@ -153,7 +153,7 @@ Class | Class of Exemption | Annual fee
 (i)   | Where the person exempted carries on the business of moneylending solely by granting personal or consumer loans to individuals. | $3000
 (ii)  | Where the person exempted carries on the business of moneylending solely by granting loans other than those specified in paragraph (i) above. | $1,000
 (iii) | Where the person exempted carries on the business of moneylending to persons referred to in paragraphs (i) and (ii). | $4,000
-
+<br>
 **8. How do I renew my certificate of exemption?**<br>
 To renew/ extend your certificate of exemption, you are required to submit an application to the Registry of Moneylenders at least one month before the expiry of your existing certificate of exemption with the following information and supporting documents:
 
@@ -171,8 +171,8 @@ Such an application can be submitted at **https://licence1.business.gov.sg**
 
 You may refer to rule 24 of the Moneylenders Rules 2009 for the fees for the renewal of your existing certificate of exemption.
 
-**9. How do I know if I qualify as an excluded moneylender under the Moneylenders Act?**<br>
-If your business model fits fully the description of an excluded moneylender defined under section 2 of the Moneylenders Act, a copy of which can be retrieved [HERE](https://sso.agc.gov.sg/Act/MA2008), you shall be deemed as an excluded moneylender. In the event that you are unsure if your business model qualifies you as an excluded moneylender, you are advised to seek independent legal advice before commencing the intended business.
+**9. How do I know if I qualify as an excluded moneylender under the Moneylenders Act?**<br><br>
+If your business model fits fully the description of an excluded moneylender defined under section 2 of the Moneylenders Act, a copy of which can be retrieved [HERE](https://sso.agc.gov.sg/Act/MA2008), you shall be deemed as an excluded moneylender. In the event that you are unsure if your business model qualifies you as an excluded moneylender, you are advised to seek independent legal advice before commencing the intended business. <br>
 
 **10. How do I make payment when I receive the Notice of Offer of Composition?**<br>
 Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the [user guide](https://www.mlaw.gov.sg/content/dam/minlaw/rom/Moneylenders/User%20Guide%20for%20Moneylenders.pdf/subassets/page1.pdf).
