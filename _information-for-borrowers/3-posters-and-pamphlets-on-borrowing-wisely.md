@@ -9,6 +9,33 @@ collection_name: information-for-borrowers
 Posters and Pamphlets on borrowing wisely (4 languages)
 ---
 
+<table>
+  <tr>
+    <td></td>
+    <td>Posters</td>
+    <td>Pamphlets</td>
+  </tr>
+   <tr>
+    <td>English</td>
+     <td><a href="/files/PosteronborrowingwiselyEnglish.pdf">Poster on borrowing wisely (English PDF)</a></td>
+    <td></td>
+  </tr>
+   <tr>
+    <td>Chinese</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Malay</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tamil</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 |       |Posters|Pamphlets|
 |-------|-------|---------
