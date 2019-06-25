@@ -10,7 +10,7 @@ List of Licensed Moneylenders in Singapore
 ---
 
 
-Click [here](/files/ListofMoneylenders.pdf){:target="_blank"} to view the complete list of licensed moneylenders in Singapore.
+Click [here](/files/ListofMoneylenders.pdf) to view the complete list of licensed moneylenders in Singapore.
 
  
 *Above document would require Adobe Reader. Haven't got Adobe Reader? Download it [here](http://get.adobe.com/reader/otherversions/){:target="_blank"}.*
@@ -20,7 +20,7 @@ Licensed moneylenders are **disallowed** to solicit for loans via text messages 
 
 **Do not respond** to the message or call. 
 
-Report possible unlicensed moneylending activities to the Police hotline at 1800-255-000, or submit the information online at [www.police.gov.sg/iwitness](www.police.gov.sg/iwitness){:target="_blank"}. Members of the public may also call the National Crime Prevention Council’s X-Ah Long hotline at 1800-924-5664.
+Report possible unlicensed moneylending activities to the Police hotline at 1800-255-000, or submit the information online at [www.police.gov.sg/iwitness](https://www.police.gov.sg/iwitness){:target="_blank"}. Members of the public may also call the National Crime Prevention Council’s X-Ah Long hotline at 1800-924-5664.
 
 
  
