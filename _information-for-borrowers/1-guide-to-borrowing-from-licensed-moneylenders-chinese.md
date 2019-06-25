@@ -93,7 +93,7 @@ collection_name: information-for-borrowers
 
 以上做法都不能被接受。若是遇到这类放贷人，必须向放贷人注册局报告。报告资料包括放贷人的机构名称、执照和联系号码等。详情请参阅问10。
 
-如果您想参阅有关无执照放贷人的资料，请浏览 ["Unlicensed Moneylending"](https://www.police.gov.sg/resources/prevent-crime/unlicensed-moneylending/loansharking-situation-in-singapore){:target="_blank"}
+如果您想参阅有关无执照放贷人的资料，请浏览 ["Unlicensed Moneylending"](https://www.police.gov.sg/resources/prevent-crime/unlicensed-moneylending/loansharking-situation-in-singapore)
 
 
 **6. 我如何才能知道一则广告是由领有执照或无执照放贷人所刊登？**<br>
