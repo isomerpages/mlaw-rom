@@ -9,7 +9,7 @@ collection_name: information-for-moneylenders
 Information for Moneylenders
 ---
 **1. How do I start a moneylending business?**<br>
-Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://staging-isomer-mlaw.netlify.com/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html){:target="_blank"} for more information.
+Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://staging-isomer-mlaw.netlify.com/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
 
 To start a moneylending business, you are required to do the following:
 
@@ -60,11 +60,11 @@ The moneylender’s licence fee is $1,320 per annum, which is payable upon appro
 
 **Other relevant legislations**
 
-You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](https://mlaw-rom-staging.netlify.com/information-for-moneylenders/relevant-laws-and-regulations/){:target="_blank"}. <br>
+You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](https://mlaw-rom-staging.netlify.com/information-for-moneylenders/relevant-laws-and-regulations/). <br>
 
 
 **3. How do I apply for additional place(s) of business?**<br>
-Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://staging-isomer-mlaw.netlify.com/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html){:target="_blank"} for more information.
+Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://staging-isomer-mlaw.netlify.com/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
 
 Under section 10 of the Moneylenders Act, licensed moneylenders may operate from more than one location with the approval of the Registrar of Moneylenders. If you wish to apply for approval to carry on business at additional place(s) of business, please complete and submit an application via [eServices](https://www.mlaw.gov.sg/eservices/rom/){:target="_blank"}. 
 
@@ -112,7 +112,7 @@ i) A clear copy of an up-to-date identification card of the transferor and the t
 
 ii) Number of shares to be transferred/ allotted.
 
-For the purpose of obtaining the Registrar’s prior approval for the employment or engagement of any person to assist in the carrying on of the business, including persons employed or engaged to perform debt collection, you are required to submit an application to the Registry. Please please complete and submit an application via [eServices](https://www.mlaw.gov.sg/eservices/rom/){:target="_blank"}. <br>
+For the purpose of obtaining the Registrar’s prior approval for the employment or engagement of any person to assist in the carrying on of the business, including persons employed or engaged to perform debt collection, you are required to submit an application to the Registry. Please please complete and submit an application via [eServices](https://www.mlaw.gov.sg/eservices/rom/). <br>
 
 
 **5. How do I renew my moneylender’s licence?**<br>
@@ -150,7 +150,7 @@ vi) A detailed description of the types or classes of borrowers in relation to e
 
 vii) A draft scope of exemption for our consideration.
 
-Applications may be submitted to the Registry via **[https://licence1.business.gov.sg](https://licence1.business.gov.sg){:target="_blank"}**
+Applications may be submitted to the Registry via **[https://licence1.business.gov.sg](https://licence1.business.gov.sg)**
 
 Please note that the fees  for the certificate of exemption are as follows, which will be advised to you after your application is approved:
 
@@ -190,7 +190,7 @@ iv) If there are/will be any changes to the types or classes of borrowers in rel
 
 v) If the company has granted any loans after the expiry of the certificate of exemption (for late renewals only).
 
-Such an application can be submitted at **[https://licence1.business.gov.sg](https://licence1.business.gov.sg){:target="_blank"}**
+Such an application can be submitted at **[https://licence1.business.gov.sg](https://licence1.business.gov.sg)**
 
 You may refer to rule 24 of the Moneylenders Rules 2009 for the fees for the renewal of your existing certificate of exemption. <br>
 
