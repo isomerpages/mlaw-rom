@@ -17,7 +17,7 @@ Posters and Pamphlets on borrowing wisely (4 languages)
   </tr>
    <tr>
     <td>English</td>
-     <td><a href="/files/PosteronborrowingwiselyEnglish.pdf">Poster on borrowing wisely (English PDF)</a></td>
+     <td><a href="/files/PosteronborrowingwiselyEnglish.pdf" target="_blank">Poster on borrowing wisely (English PDF)</a></td>
     <td></td>
   </tr>
    <tr>
