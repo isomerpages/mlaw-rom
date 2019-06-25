@@ -11,7 +11,7 @@ Forms
 ---
 [Sample of a Banker's Guarantee (181 KB)](/files/BANKERSGUARANTEEFORMAT_01082017.pdf){:target="_blank"}
 
-[Template for Moneylender's Statement of Quarterly Returns (818 KB)](/files/CopyofMoneylender_Returns(version22)(14Jan2016).xls){:target="_blank"}
+[Template for Moneylender's Statement of Quarterly Returns (818 KB)](/files/CopyofMoneylender_Returns_version2_2_14Jan2016_1.xls){:target="_blank"}
 
 [Annex for the application to employ/engage persons (215 KB)](/files/EDC_revisedannexA_02082017.pdf){:target="_blank"}
 
