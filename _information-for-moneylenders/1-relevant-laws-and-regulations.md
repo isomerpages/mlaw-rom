@@ -18,7 +18,7 @@ Relevant Laws and Regulations
 * [Moneylenders (Prevention of Money Laundering and Financing of Terrorism Rules 2009)](https://sso.agc.gov.sg/SL/MA2008-S73-2009?DocDate=20150831){:target="_blank"}
 
 **3. Licence Conditions**<br>
-* [Licence Conditions](/files/LicenceConditionswef29Mar2018.pdf){:target="_blank"}
+* [Licence Conditions](/files/LicenceConditionswef29Mar2018.pdf)
 
 **4. Registrar's Directions**<br>
 * [No. 1 of 2017](/files/Registrar'sDirectionsNo.1of2017.pdf){:target="_blank"}
@@ -28,4 +28,4 @@ Relevant Laws and Regulations
 * [Directions of the Registrar under Section 16(3) read with Section 26(1) of the Moneylenders Act Regarding the Advertising & Marketing Activities of Licensed Moneylenders](/files/Directions_Moneylendersadvertisements.pdf){:target="_blank"}
 
 **5. Professional Service Handbook**<br>
-* [Professional Service Handbook](/files/TheProfessionalServiceHandbookforlicensedmoneylenders.pdf){:target="_blank"}
+* [Professional Service Handbook](/files/TheProfessionalServiceHandbookforlicensedmoneylenders.pdf)
