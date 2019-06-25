@@ -81,7 +81,7 @@ With effect from __1 October 2015__, all moneylenders are only permitted to impo
 The total charges imposed by a moneylender on any loan, consisting of interest, late interest, upfront administrative and late fee also cannot exceed an amount equivalent to the principal of the loan. [*To illustrate, if X takes a loan of $10,000, then the interest, late interest, 10% administrative fee and monthly $60 late fees cannot exceed $10,000.*]
 
 **5. How do I know whether a moneylender is licensed or not?** <br>
-Do not borrow from unlicensed moneylenders. Verify that a moneylender is licensed by checking the list of licensed moneylenders. “Click here to access the list of licensed moneylenders.”
+Do not borrow from unlicensed moneylenders. Verify that a moneylender is licensed by checking the list of licensed moneylenders. “[Click here](/_information-for-borrowers/0-guide-to-borrowing-from-licensed-moneylenders-english.md) to access the list of licensed moneylenders.”
 
  
 
@@ -114,7 +114,7 @@ Such practices are not acceptable. If you encounter them, you should report the 
 
  
 
-To find out more about unlicensed moneylenders, you may click on this link: [Unlicensed Moneylending](https://www.police.gov.sg/resources/prevent-crime/unlicensed-moneylending/loansharking-situation-in-singapore){:target="_blank"}
+To find out more about unlicensed moneylenders, you may click on this link: [Unlicensed Moneylending](https://www.police.gov.sg/resources/prevent-crime/unlicensed-moneylending/loansharking-situation-in-singapore)
 
 **6. How can I tell whether an advertisement is from a licensed moneylender or an unlicensed moneylender?**<br>
 
@@ -122,7 +122,7 @@ Under the advertising rules, which took effect on 1 November 2011, licensed mone
 
  
 
-In this regard, the advertising rules can help you differentiate between licensed and unlicensed moneylenders. If you receive flyers, SMSes, emails or other forms of advertisements which are not permitted under the rules, these would be from either licensed moneylenders operating in violation of the rules, or unlicensed moneylenders. Hence, you are advised not to respond to such advertisements. Instead, you should report the advertisements to the Registry at 1800-2255-529 or via our [website](http://www.mlaw.gov.sg/eservices/enquiry){:target="_blank"}. Errant licensed moneylenders will be investigated by the Registry and unlicensed moneylenders will be investigated by the Police.  
+In this regard, the advertising rules can help you differentiate between licensed and unlicensed moneylenders. If you receive flyers, SMSes, emails or other forms of advertisements which are not permitted under the rules, these would be from either licensed moneylenders operating in violation of the rules, or unlicensed moneylenders. Hence, you are advised not to respond to such advertisements. Instead, you should report the advertisements to the Registry at 1800-2255-529 or via our [website](http://www.mlaw.gov.sg/eservices/enquiry). Errant licensed moneylenders will be investigated by the Registry and unlicensed moneylenders will be investigated by the Police.  
 
 **7. Can I rely on the content of an advertisement to take up a loan from a moneylender?** <br>
 You are advised to seek clarifications on specific terms of the loan contract before signing up with a licensed moneylender, and not to rely solely on the content of advertisements from the moneylender.
