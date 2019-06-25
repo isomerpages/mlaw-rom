@@ -22,7 +22,7 @@ You, or the person who will be responsible for the management of the moneylendin
 i) Online at [https://sso.agc.gov.sg/Act/MA2008](https://sso.agc.gov.sg/Act/MA2008){:target="_blank"}; and
 
 ii) Toppan Lee Fung Pte. Ltd. Legal Publishing <br> 
-(website: [www.toppanleefung.com/webshop](https://www2.toppanleefung.com/webshop/home.aspx)){:target="_blank"} <br>
+(website: [www.toppanleefung.com/webshop](https://www2.toppanleefung.com/webshop/home.aspx){:target="_blank"}) <br>
 
 
 **2. How do I apply for a moneylender’s licence?**<br>
