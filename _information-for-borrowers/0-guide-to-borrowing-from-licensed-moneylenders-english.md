@@ -122,7 +122,7 @@ Under the advertising rules, which took effect on 1 November 2011, licensed mone
 
  
 
-In this regard, the advertising rules can help you differentiate between licensed and unlicensed moneylenders. If you receive flyers, SMSes, emails or other forms of advertisements which are not permitted under the rules, these would be from either licensed moneylenders operating in violation of the rules, or unlicensed moneylenders. Hence, you are advised not to respond to such advertisements. Instead, you should report the advertisements to the Registry at 1800-2255-529 or via our [website](https://mlaw-rom-staging.netlify.com/contact-us/). Errant licensed moneylenders will be investigated by the Registry and unlicensed moneylenders will be investigated by the Police.  
+In this regard, the advertising rules can help you differentiate between licensed and unlicensed moneylenders. If you receive flyers, SMSes, emails or other forms of advertisements which are not permitted under the rules, these would be from either licensed moneylenders operating in violation of the rules, or unlicensed moneylenders. Hence, you are advised not to respond to such advertisements. Instead, you should report the advertisements to the Registry at 1800-2255-529 or via our [website](https://staging-isomer-mlaw.netlify.com/contact-us/). Errant licensed moneylenders will be investigated by the Registry and unlicensed moneylenders will be investigated by the Police.  
 
 **7. Can I rely on the content of an advertisement to take up a loan from a moneylender?** <br>
 You are advised to seek clarifications on specific terms of the loan contract before signing up with a licensed moneylender, and not to rely solely on the content of advertisements from the moneylender.
