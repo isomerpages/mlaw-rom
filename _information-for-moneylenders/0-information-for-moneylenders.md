@@ -9,7 +9,7 @@ collection_name: information-for-moneylenders
 Information for Moneylenders
 ---
 **1. How do I start a moneylending business?**<br>
-Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://staging-isomer-mlaw.netlify.com/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
+Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://staging-isomer-mlaw.netlify.com/news/announcements/) for more information.
 
 To start a moneylending business, you are required to do the following:
 
