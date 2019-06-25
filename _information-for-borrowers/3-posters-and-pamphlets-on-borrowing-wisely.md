@@ -17,30 +17,39 @@ Posters and Pamphlets on borrowing wisely (4 languages)
   </tr>
    <tr>
     <td>English</td>
-     <td><a href="/files/PosteronborrowingwiselyEnglish.pdf" target="_blank">Poster on borrowing wisely (English PDF)</a></td>
-    <td></td>
+    <td>
+       <a href="/files/PosteronborrowingwiselyEnglish.pdf" target="_blank">Poster on borrowing wisely (English PDF)</a>
+    </td>
+    <td>
+      <a href="/files/PamphletonborrowingwiselyEnglish.pdf" target="_blank">Pamphlet on borrowing wisely (English PDF)</a>
+    </td>
   </tr>
    <tr>
     <td>Chinese</td>
-    <td></td>
-    <td></td>
+    <td>
+      <a href="/files/PosteronborrowingwiselyChinese.pdf" target="_blank">Poster on borrowing wisely (Chinese PDF)</a>
+    </td>
+    <td>
+      <a href="/files/PamphletonborrowingwiselyChinese.pdf" target="_blank">Pamphlet on borrowing wisely (Chinese PDF)</a>
+    </td>
   </tr>
   <tr>
     <td>Malay</td>
-    <td></td>
-    <td></td>
+    <td>
+      <a href="/files/PosteronborrowingwiselyMalay.pdf" target="_blank">Poster on borrowing wisely (Malay PDF)</a>
+    </td>
+    <td>
+      <a href="/files/PamphletonborrowingwiselyMalay.pdf" target="_blank">Pamphlet on borrowing wisely (Malay PDF)</a>
+    </td>
   </tr>
   <tr>
     <td>Tamil</td>
-    <td></td>
-    <td></td>
+    <td>
+      <a href="/files/PosteronborrowingwiselyTamil.pdf" target="_blank">Poster on borrowing wisely (Tamil PDF)</a>
+    </td>
+    <td>
+      <a href="/files/PamphletonborrowingwiselyTamil.pdf" target="_blank">Pamphlet on borrowing wisely (Tamil PDF)</a>
+    </td>
   </tr>
 </table>
-
-|       |Posters|Pamphlets|
-|-------|-------|---------
-|**English**|[Poster on borrowing wisely (English PDF)](/files/PosteronborrowingwiselyEnglish.pdf){:target="_blank"}|[Pamphlet on borrowing wisely (English PDF)](/files/PamphletonborrowingwiselyEnglish.pdf){:target="_blank"}|
-|**Chinese**|[Poster on borrowing wisely (Chinese PDF)](/files/PosteronborrowingwiselyChinese.pdf){:target="_blank"}|[Pamphlet on borrowing wisely (Chinese PDF)](/files/PamphletonborrowingwiselyChinese.pdf){:target="_blank"}|
-|**Malay**|[Poster on borrowing wisely (Malay PDF)](/files/PosteronborrowingwiselyMalay.pdf){:target="_blank"}|[Pamphlet on borrowing wisely (Malay PDF)](/files/PamphletonborrowingwiselyMalay.pdf){:target="_blank"}|
-|**Tamil**|[Poster on borrowing wisely (Tamil PDF)](/files/PosteronborrowingwiselyTamil.pdf){:target="_blank"}|[Pamphlet on borrowing wisely (Tamil PDF)](/files/PamphletonborrowingwiselyTamil.pdf){:target="_blank"}|
 
