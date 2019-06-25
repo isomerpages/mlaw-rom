@@ -42,10 +42,10 @@ In addition to having a person responsible for the management of the moneylendin
 
 i) the applicant and every person who is or will be responsible for the management of the business must:-
 
-be ordinarily resident in Singapore;
-be of good character;
-be a fit and proper person to carry on the moneylending business;
-be at least 21 years old; and
+be ordinarily resident in Singapore;<br>
+be of good character;<br>
+be a fit and proper person to carry on the moneylending business;<br>
+be at least 21 years old; and<br>
 be familiar with the provisions of the Moneylenders Act and its Rules
 
 ii) the proposed business premises has been deemed suitable by the Registrar for the conduct of the moneylending business; and
