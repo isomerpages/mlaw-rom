@@ -21,8 +21,8 @@ Anti-Money Laundering and Countering the Financing of Terrorism
 **iv.** Information Guide ("Guide") on The Prevention of Money Laundering and Countering the Financing of Terrorism for Moneylenders<br>
     To access the guide, please click [here](/files/InfoGuideforMoneylenders.pdf){:target="_blank"}
 
-**v.** Financial Action Task Force – July 2015 Public Statement: High-risk and Non-cooperative Jurisdictions<br>
+**v. Financial Action Task Force – July 2015 Public Statement: High-risk and Non-cooperative Jurisdictions**<br>
    To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Anti-Money-Laundering-and-Countering-the-Financing-of-Terrorism/AMLCFT-Announcements/2015/June-FATF-Statement.aspx){:target="_blank"}
 
-**vi.** Singapore National Risk Assessment Report 2013<br>
-The document is in PDF format, to view click [here](/files/SingaporeNRAReport2013_24032015.pdf){:target="_blank"}
+**vi.Singapore National Risk Assessment Report 2013**<br>
+The document is in PDF format, to view click [here](/files/SingaporeNRAReport2013_24032015.pdf)
