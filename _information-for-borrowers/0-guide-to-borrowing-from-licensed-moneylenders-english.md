@@ -81,7 +81,7 @@ With effect from __1 October 2015__, all moneylenders are only permitted to impo
 The total charges imposed by a moneylender on any loan, consisting of interest, late interest, upfront administrative and late fee also cannot exceed an amount equivalent to the principal of the loan. [*To illustrate, if X takes a loan of $10,000, then the interest, late interest, 10% administrative fee and monthly $60 late fees cannot exceed $10,000.*]
 
 **5. How do I know whether a moneylender is licensed or not?** <br>
-Do not borrow from unlicensed moneylenders. Verify that a moneylender is licensed by checking the list of licensed moneylenders. “[Click here](https://mlaw-rom-staging.netlify.com/information-for-borrowers/guide-to-borrowing-from-licensed-moneylenders-english/) to access the list of licensed moneylenders.”
+Do not borrow from unlicensed moneylenders. Verify that a moneylender is licensed by checking the list of licensed moneylenders. “[Click here](https://mlaw-rom-staging.netlify.com/information-for-borrowers/list-of-licensed-moneylenders-in-singapore/) to access the list of licensed moneylenders.”
 
  
 
