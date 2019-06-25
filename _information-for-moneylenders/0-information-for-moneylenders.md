@@ -154,12 +154,28 @@ Applications may be submitted to the Registry via **[https://licence1.business.g
 
 Please note that the fees  for the certificate of exemption are as follows, which will be advised to you after your application is approved:
 
-Class | Class of Exemption | Annual fee
-------|--------------------|-------------
-(i)   | Where the person exempted carries on the business of moneylending solely by granting personal or consumer loans to individuals. | $3000
-(ii)  | Where the person exempted carries on the business of moneylending solely by granting loans other than those specified in paragraph (i) above. | $1,000
-(iii) | Where the person exempted carries on the business of moneylending to persons referred to in paragraphs (i) and (ii). | $4,000 <br>
-
+<table>
+  <tr>
+    <td>Class</td>
+    <td>Class of Exemption</td>
+    <td>Annual fee</td> 
+  </tr>
+  <tr>
+    <td>(i)</td>
+    <td>Where the person exempted carries on the business of moneylending solely by granting personal or consumer loans to individuals.</td>
+    <td>$3,000</td>
+  </tr>
+  <tr>
+    <td>(ii)</td>
+    <td>Where the person exempted carries on the business of moneylending solely by granting loans other than those specified in paragraph (i) above.</td>
+    <td>$1,000</td>
+  </tr>
+  <tr>
+    <td>(iii)</td>
+    <td>Where the person exempted carries on the business of moneylending to persons referred to in paragraphs (i) and (ii).</td>
+    <td>$4,000</td>
+  </tr>
+</table><br>
 
 **8. How do I renew my certificate of exemption?**<br>
 To renew/ extend your certificate of exemption, you are required to submit an application to the Registry of Moneylenders at least one month before the expiry of your existing certificate of exemption with the following information and supporting documents:
