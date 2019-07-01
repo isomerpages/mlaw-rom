@@ -18,8 +18,6 @@
     url: https://staging-isomer-mlaw.netlify.com/about-us/what-we-do/
   - title: Contact Us
     url: https://staging-isomer-mlaw.netlify.com/contact-us/
-- title: Contact Us
-  url: /contact-us/
 - title: Information For Moneylenders
   url: /information-for-moneylenders/
   sub-links:
