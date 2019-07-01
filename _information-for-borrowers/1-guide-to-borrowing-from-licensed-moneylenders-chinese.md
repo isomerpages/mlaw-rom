@@ -6,11 +6,11 @@ breadcrumb: Guide To Borrowing From Licensed Moneylenders (Chinese)
 collection_name: information-for-borrowers
 ---
 
-向领有执照放贷人贷款须知
+向领有执照放贷人贷款须知 
 ---
 
 
-**1. 贷款前我须考虑哪些事项?**<br>
+**1. 贷款前我须考虑哪些事项?**<br> test
 
 您必须记得以下要点：
 
