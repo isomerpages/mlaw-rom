@@ -10,7 +10,7 @@ collection_name: information-for-borrowers
 ---
 
 
-**1. 贷款前我须考虑哪些事项?**<br> test
+**1. 贷款前我须考虑哪些事项?**<br>
 
 您必须记得以下要点：
 
