@@ -33,3 +33,8 @@ key-highlights:
     description: Find the answers to your questions
     url: https://www.mlaw.gov.sg/eservices/enquiry
     external: true
+
+resources-title: News
+resources-subtitle: Be Aware
+resources-more-button: More 
+resources-more-button-url: /faqs/procedure-of-appeal/
