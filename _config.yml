@@ -44,5 +44,5 @@ collections:
     output: true
   information-for-borrowers:
     output: true
-resources_name: resource-room
+  resource-room:
     output: true
