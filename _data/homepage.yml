@@ -12,7 +12,7 @@ agency-logo: /images/mlaw-logo.png
 
 # Hero Banner
 hero-title: Registry of Moneylenders
-hero-subtitle: Through the regulating of Licensed Moneylenders, the Registry of Moneylenders cultivates a safe and professional  moneylending industry in Singapore
+hero-subtitle: Through the regulating of Licensed Moneylenders, the Registry of Moneylenders cultivates a safe and professional moneylending industry in Singapore
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
@@ -33,6 +33,7 @@ key-highlights:
     url: https://www.mlaw.gov.sg/eservices/enquiry
     external: true
 
+resources-title: News
 resources-subtitle: Be Aware
 resources-more-button: More
-resources-more-button-url: /news/
+resources-more-button-url: https://staging-isomer-mlaw.netlify.com/news/
