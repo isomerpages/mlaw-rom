@@ -19,7 +19,6 @@ hero-banner: /images/hero-banner.png
 button:
   - text: Learn More
 
-    
 key-highlights:
   - title: Relevant Laws and Regulations
     description: Be equipped with the knowledge of moneylending legislation in Singapore
@@ -28,7 +27,7 @@ key-highlights:
   - title: List of Licensed Moneylenders
     description: Get the latest list of Licensed Moneylenders in Singapore
     url: /information-for-borrowers/list-of-licensed-moneylenders-in-singapore/
-   
+
   - title: Contact Us
     description: Find the answers to your questions
     url: https://www.mlaw.gov.sg/eservices/enquiry
