@@ -30,12 +30,10 @@ Please note that there is currently a suspension in the processing of applicatio
 
 Persons responsible for the management of a moneylending business should be familiar with the provisions of the Moneylenders Act (Cap.188) and the relevant legislations. In this regard, a person who will be responsible for the management of your moneylending business will be required to pass the moneylender's test conducted by the Registry of Moneylenders.
 
-**Moneylender's Test**
-
+**Moneylender's Test**<br>
 A non-refundable test fee of $130 (inclusive of GST) shall be payable per attempt per candidate. You may click [HERE](https://www.mlaw.gov.sg/eservices/rom/){:target="_blank"} to access the Moneylender's Test Booking System to register for a test slot.
 
-**Moneylender’s Licence Application**
-
+**Moneylender’s Licence Application**<br>
 If the person, who will be responsible for the management of the moneylending business, passes the moneylender's test and the Registry finds the person suitable for the moneylending industry, your business entity will be invited to submit an online application. You may click [HERE](https://licence1.business.gov.sg/){:target="_blank"} to access the online application. 
 
 In addition to having a person responsible for the management of the moneylending business passing the moneylender's test, the following are criteria for the grant of a moneylender's licence:
@@ -52,10 +50,10 @@ ii) the proposed business premises has been deemed suitable by the Registrar for
 
 iii) a security deposit of $20,000 for every place of business for ensuring the proper conduct of the moneylending business has been placed with the Accountant-General. The security deposit is to be provided in the form of an irrevocable [Banker's](/files/BANKERSGUARANTEEFORMAT_01082017.pdf){:target="_blank"} or Insurance Guarantee upon approval of your application.
 
-**Application Fee**
+**Application Fee**<br>
 The $600 (inclusive of GST) non-refundable application fee is payable upon the submission of your application.
 
-**Licence Fee**
+**Licence Fee**<br>
 The moneylender’s licence fee is $1,320 per annum, which is payable upon approval of your application. Payments can be made electronically via [LicenceOne](https://licence1.business.gov.sg/web/frontier/home){:target="_blank"} by eNets Credit/Debit or Internet Banking.  
 
 **Other relevant legislations**
