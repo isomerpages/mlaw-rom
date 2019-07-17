@@ -195,7 +195,7 @@ Such an application can be submitted at **[https://licence1.business.gov.sg](htt
 You may refer to rule 24 of the Moneylenders Rules 2009 for the fees for the renewal of your existing certificate of exemption. <br>
 
 
-**9. How do I know if I qualify as an excluded moneylender under the Moneylenders Act?**<br><br>
+**9. How do I know if I qualify as an excluded moneylender under the Moneylenders Act?**<br>
 If your business model fits fully the description of an excluded moneylender defined under section 2 of the Moneylenders Act, a copy of which can be retrieved [HERE](https://sso.agc.gov.sg/Act/MA2008){:target="_blank"}, you shall be deemed as an excluded moneylender. In the event that you are unsure if your business model qualifies you as an excluded moneylender, you are advised to seek independent legal advice before commencing the intended business. <br>
 
 
