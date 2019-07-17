@@ -11,8 +11,6 @@ Guide to Borrowing from Licensed Moneylenders
 
 
 **1. What should I consider before taking up a loan?** <br>
-
-
 You should keep these key points in mind:
 
  
@@ -129,8 +127,6 @@ You are advised to seek clarifications on specific terms of the loan contract be
 
 **8. In the event that I am standing as a surety for a loan, what should I look out for?** <br>
 You should ensure that:
-
-
 * You understand your responsibilities as a surety;
 
 * You receive a copy of the Note of Contract at the time that the loan is granted to the borrower;
@@ -143,8 +139,6 @@ You should ensure that:
 
 
 **9. What should I do after being granted a loan?** <br>
- 
-
 * Make sure the moneylender delivers to you the correct principal amount of the loan. The moneylender is only permitted an upfront deduction of a loan approval fee of up to 10% of the principal amount.
 
 * Pay the loan instalments on time to avoid incurring late payment fees and late interest.
