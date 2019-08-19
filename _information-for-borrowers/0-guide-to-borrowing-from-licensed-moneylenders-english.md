@@ -55,7 +55,7 @@ For secured loans, you can obtain a loan of any amount. For unsecured loans, ple
 
 
 **3. What are the interest rates moneylenders can charge?** <br>
-With effect from __1 October 2015__, the maximum interest rate moneylenders can charge is 4% per month. This cap applies regardless of the borrower’s income and whether the loan is an unsecured or secured one. If a borrower fails to repay the loan on time, the maximum rate of late interest a moneylender can charge is __4% per month__ for each month the loan is repaid late.
+With effect from <b><u>1 October 2015</u></b>, the maximum interest rate moneylenders can charge is <b><u>4% per month</u></b>. This cap applies regardless of the borrower’s income and whether the loan is an unsecured or secured one. If a borrower fails to repay the loan on time, the maximum rate of late interest a moneylender can charge is <b><u>4% per month</u></b> for each month the loan is repaid late.
 
  
 
@@ -66,7 +66,7 @@ The computation of interest charged on the loan must be based on the amount of p
 The late interest can only be charged on an amount that is repaid late. The moneylender cannot charge on amounts that are outstanding but not yet due to be repaid. [*To illustrate, if X takes a loan of $10,000, and fails to pay for the first instalment of $2,000, the moneylender may charge the late interest on $2,000 but not on the remaining $8,000 as it is not due yet.*]
 
 **4. What are the fees that moneylenders can charge?** <br>
-With effect from __1 October 2015__, all moneylenders are only permitted to impose the following charges and expenses:
+With effect from <b><u>1 October 2015</u></b>, all moneylenders are only permitted to impose the following charges and expenses:
 
 * a fee not exceeding $60 for each month of late repayment;
 
