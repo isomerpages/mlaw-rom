@@ -12,7 +12,7 @@ List of Licensed Moneylenders in Singapore
 Click [here](/files/ListofMoneylenders.pdf) (114kb) to view the complete list of licensed moneylenders in Singapore.
 
  
-*Above document would require Adobe Reader. Haven't got Adobe Reader? Download it [here](http://get.adobe.com/reader/otherversions/){:target="_blank"}.*
+*Above document would require Adobe Reader. Haven't got Adobe Reader? [Download it here](http://get.adobe.com/reader/otherversions/){:target="_blank"}.*
 
 
 Licensed moneylenders are **disallowed** to solicit for loans via text messages or phone calls. If you have received such a message or phone call, it is likely that an unlicensed moneylender has approached you.
