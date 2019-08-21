@@ -57,7 +57,7 @@ The $600 (inclusive of GST) non-refundable application fee is payable upon the s
 The moneylender’s licence fee is $1,320 per annum, which is payable upon approval of your application. Payments can be made electronically via [LicenceOne](https://licence1.business.gov.sg/web/frontier/home){:target="_blank"} by eNets Credit/Debit or Internet Banking.  
 
 **Other relevant legislations** <br>
-You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](https://mlaw-rom-staging.netlify.com/information-for-moneylenders/relevant-laws-and-regulations/). <br>
+You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](/information-for-moneylenders/relevant-laws-and-regulations/). <br>
 
 
 **3. How do I apply for additional place(s) of business?**<br>
