@@ -225,6 +225,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 
 // Homepage
+/* original
 #key-highlights{
 	background-color: $primary;
 	.col {
@@ -234,6 +235,20 @@ $desktop: 960px + (2 * $gap) !default;
 		}
 		&:hover{
 			background-color: darken($primary,10%);
+		}
+	}
+}
+*/
+
+#key-highlights{
+	background-color: #696969;
+	.col {
+		border-left:1px solid darken(#696969,10%);
+		@include touch(){
+			border-top:1px solid darken(#696969,10%);
+		}
+		&:hover{
+			background-color: darken(#696969,10%);
 		}
 	}
 }
