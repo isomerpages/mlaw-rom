@@ -4,20 +4,20 @@
 #                                #
 ##################################
 - title: About Us
-  url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+  url: https://mlaw.gov.sg/about-us/ourvision-mission-corevalues/
   sub-links:
   - title: Our Vision, Mission and Core Values
-    url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+    url: https://mlaw.gov.sg/about-us/ourvision-mission-corevalues/
   - title: Our Management
-    url: https://www.mlaw.gov.sg/about-us/our-management/
+    url: https://mlaw.gov.sg/about-us/our-management/
   - title: Organisation Structure
-    url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+    url: https://mlaw.gov.sg/about-us/ourvision-mission-corevalues/
   - title: Our Legal System
-    url: https://www.mlaw.gov.sg/about-us/our-legal-system/
+    url: https://mlaw.gov.sg/about-us/our-legal-system/
   - title: What We Do
-    url: https://www.mlaw.gov.sg/about-us/what-we-do/
+    url: https://mlaw.gov.sg/about-us/what-we-do/
   - title: Contact Us
-    url: https://www.mlaw.gov.sg/about-us/contact-us/
+    url: https://mlaw.gov.sg/about-us/contact-us/
 - title: Information For Moneylenders
   url: /information-for-moneylenders/
   sub-links:
@@ -50,6 +50,6 @@
 - title: e-Services
   url: https://www.mlaw.gov.sg/eservices/rom/
 - title: News
-  url: https://www.mlaw.gov.sg/news/
+  url: https://mlaw.gov.sg/news/
 - title: Join Us
-  url: https://www.mlaw.gov.sg/join-us/why-join-minlaw/
+  url: https://mlaw.gov.sg/join-us/why-join-minlaw/
