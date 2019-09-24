@@ -10,11 +10,11 @@ Posters and Pamphlets on borrowing wisely (4 languages)
 ---
 
 <table>
-  <th>
-    <td></td>
-    <td>Posters</td>
-    <td>Pamphlets</td>
-  </th>
+  <tr>
+    <th></th>
+    <th>Posters</th>
+    <th>Pamphlets</th>
+  </tr>
    <tr>
     <td>English</td>
     <td>
