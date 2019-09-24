@@ -153,7 +153,7 @@ Please note that the fees  for the certificate of exemption are as follows, whic
 
 <table>
   <tr>
-    <td>Class</td>
+    <th>Class</th>
     <td>Class of Exemption</td>
     <td>Annual fee</td> 
   </tr>
