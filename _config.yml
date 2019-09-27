@@ -1,4 +1,4 @@
-title: Title
+title: Ministry of Law - Registry of Moneylenders
 title-abbreviated: Title
 description: >- # this means to ignore newlines until "baseurl:"
   Description
@@ -28,19 +28,19 @@ homepage_hero_i_want_to: false
 homepage_resources: true
 
 # Feedback Form URL
-feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
+feedback_form_url: "https://www.mlaw.gov.sg/eservices/enquiry/"
 
 # FAQ URL
-faq_url: "/faq/"
-faq_url_external: false
+faq_url: "https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"
+faq_url_external: true
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
-
 collections:
   information-for-moneylenders:
     output: true
-  information-for-borrrowers:
+  information-for-borrowers:
     output: true
+resources-name: resource-room
