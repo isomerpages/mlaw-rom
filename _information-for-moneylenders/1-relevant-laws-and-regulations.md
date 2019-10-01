@@ -20,7 +20,9 @@ Relevant Laws and Regulations
 **3. Licence Conditions**<br>
 * [Licence Conditions](/files/LicenceConditionswef29Mar2018.pdf) (215KB)
 
-**4. Registrar's Directions**<br>
+**4. Registrar's Directions**<br>]
+* [No. 1 of 2017](/files/Registrar's-Directions-1-of-2019.pdf){:target="_blank"} (360KB)
+
 * [No. 1 of 2017](/files/Registrar'sDirectionsNo.1of2017.pdf){:target="_blank"} (236KB)
 
 * [No. 1 of 2016](/files/Registrar'sDirectionsNo1of2016(26Jan2016).pdf){:target="_blank"} (231KB)
