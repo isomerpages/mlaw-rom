@@ -30,4 +30,4 @@ Relevant Laws and Regulations
 * [Directions of the Registrar under Section 16(3) read with Section 26(1) of the Moneylenders Act Regarding the Advertising & Marketing Activities of Licensed Moneylenders](/files/Directions_Moneylendersadvertisements.pdf){:target="_blank"} (50.2KB)
 
 **5. Professional Service Handbook**<br>
-* [Professional Service Handbook](/files/TheProfessionalServiceHandbookforlicensedmoneylenders.pdf) (959KB)
+* [Professional Service Handbook](/files/TheProfessionalServiceHandbookforlicensedmoneylenders.pdf) (368KB) 
