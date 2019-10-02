@@ -21,11 +21,13 @@ Relevant Laws and Regulations
 * [Licence Conditions](/files/LicenceConditionswef29Mar2018.pdf) (215KB)
 
 **4. Registrar's Directions**<br>
+* [No. 1 of 2019](/files/Registrar's-Directions-1-of-2019.pdf){:target="_blank"} (360KB)
+
 * [No. 1 of 2017](/files/Registrar'sDirectionsNo.1of2017.pdf){:target="_blank"} (236KB)
 
 * [No. 1 of 2016](/files/Registrar'sDirectionsNo1of2016(26Jan2016).pdf){:target="_blank"} (231KB)
 
-* [Directions of the Registrar under Section 16(3) read with Section 26(1) of the Moneylenders Act Regarding the Advertising & Marketing Activities of Licensed Moneylenders](/files/Directions_Moneylendersadvertisements.pdf){:target="_blank"} (50.2KB)
+* [Directions of the Registrar under Section 16(3) read with Section 26(1) of the Moneylenders Act Regarding the Advertising & Marketing Activities of Licensed Moneylenders](/files/Advertising-&-Marketing-Directions.pdf){:target="_blank"} (495KB)
 
 **5. Professional Service Handbook**<br>
-* [Professional Service Handbook](/files/TheProfessionalServiceHandbookforlicensedmoneylenders.pdf) (959KB)
+* [Professional Service Handbook](/files/TheProfessionalServiceHandbookforlicensedmoneylenders.pdf) (368KB) 
