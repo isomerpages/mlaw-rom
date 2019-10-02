@@ -18,7 +18,8 @@
     url: https://www.mlaw.gov.sg/about-us/what-we-do/
   - title: Contact Us
     url: https://www.mlaw.gov.sg/about-us/contact-us/
-- title: Information For Moneylenders
+    
+- title: Info For Moneylenders
   url: /information-for-moneylenders/
   sub-links:
   - title: Relevant Laws And Regulations
@@ -35,7 +36,7 @@
     url: /information-for-moneylenders/moneylenders-credit-bureau/
 
 
-- title: Information For Borrowers
+- title: Info For Borrowers
   url: /information-for-borrowers/guide-to-borrowing-from-licensed-moneylenders-english/
   sub-links:
   - title: Guide To Borrowing From Licensed Moneylenders (English)
