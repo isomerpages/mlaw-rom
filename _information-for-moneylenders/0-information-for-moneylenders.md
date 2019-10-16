@@ -61,7 +61,7 @@ You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and 
 
 
 **3. How do I apply for additional place(s) of business?**<br>
-Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://www.mlaw.gov.sg/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012) for more information.
+Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://app.mlaw.gov.sg/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
 
 Under section 10 of the Moneylenders Act, licensed moneylenders may operate from more than one location with the approval of the Registrar of Moneylenders. If you wish to apply for approval to carry on business at additional place(s) of business, please complete and submit an application via [eServices](https://www.mlaw.gov.sg/eservices/rom/){:target="_blank"}. 
 
