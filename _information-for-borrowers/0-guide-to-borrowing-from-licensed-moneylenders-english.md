@@ -39,7 +39,7 @@ For secured loans, you can obtain a loan of any amount. For unsecured loans, ple
   <tr>
     <td>Less than $10,000</td>
     <td rowspan="2"><br>$3,000</td>
-    <td>$1,500</td>
+    <td>$500</td>
   </tr>
   <tr>
     <td>At least $10,000 <br>and less than $20,000</td>
