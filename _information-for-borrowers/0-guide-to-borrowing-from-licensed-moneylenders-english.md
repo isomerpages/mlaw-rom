@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Guide To Borrowing From Licensed Moneylenders (English)
-permalink: /information-for-borrowers/guide-to-borrowing-from-licensed-moneylenders-english/
-breadcrumb: Guide To Borrowing From Licensed Moneylenders (English)
+title: FAQs on Borrowing From Licensed Moneylenders
+permalink: /information-for-borrowers/faqs-on-borrowing-from-licensed-moneylenders/
+breadcrumb: Guide To Borrowing From Licensed Moneylenders
 collection_name: information-for-borrowers
 ---
 
@@ -39,7 +39,7 @@ For secured loans, you can obtain a loan of any amount. For unsecured loans, ple
   <tr>
     <td>Less than $10,000</td>
     <td rowspan="2"><br>$3,000</td>
-    <td>$1,500</td>
+    <td>$500</td>
   </tr>
   <tr>
     <td>At least $10,000 <br>and less than $20,000</td>
