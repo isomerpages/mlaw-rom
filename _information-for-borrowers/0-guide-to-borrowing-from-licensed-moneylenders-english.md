@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: FAQs on Borrowing From Licensed Moneylenders
 permalink: /information-for-borrowers/faqs-on-borrowing-from-licensed-moneylenders/
-breadcrumb: Guide To Borrowing From Licensed Moneylenders
+breadcrumb: FAQs on Borrowing From Licensed Moneylenders
 collection_name: information-for-borrowers
 ---
 
