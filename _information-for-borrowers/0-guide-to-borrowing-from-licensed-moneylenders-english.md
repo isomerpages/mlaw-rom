@@ -1,11 +1,11 @@
 ---
 layout: leftnav-page-content
 staging
-title: Guide To Borrowing From Licensed Moneylenders
-permalink: /information-for-borrowers/guide-to-borrowing-from-licensed-moneylenders/
-breadcrumb: Guide To Borrowing From Licensed Moneylenders
+title: Guide To Borrowing From Licensed Moneylenders (English)
+permalink: /information-for-borrowers/guide-to-borrowing-from-licensed-moneylenders-english/
+breadcrumb: Guide To Borrowing From Licensed Moneylenders (English)
 
-title: FAQs on Borrowing From Licensed Moneylenders (English)
+title: Guide To Borrowing From Licensed Moneylenders (English)
 permalink: /information-for-borrowers/guide-to-borrowing-from-licensed-moneylenders-english/
 breadcrumb: Guide To Borrowing From Licensed Moneylenders (English)
 master
