@@ -34,7 +34,7 @@ Persons responsible for the management of a moneylending business should be fami
 A non-refundable test fee of $130 (inclusive of GST) shall be payable per attempt per candidate. You may click [HERE](https://www.mlaw.gov.sg/eservices/rom/){:target="_blank"} to access the Moneylender's Test Booking System to register for a test slot.
 
 **Moneylender’s Licence Application**<br>
-If the person, who will be responsible for the management of the moneylending business, passes the moneylender's test and the Registry finds the person suitable for the moneylending industry, your business entity will be invited to submit an online application. You may click [HERE](https://licence1.business.gov.sg/){:target="_blank"} to access the online application. 
+If the person, who will be responsible for the management of the moneylending business, passes the moneylender's test and the Registry finds the person suitable for the moneylending industry, your business entity will be invited to submit an online application. You may click [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"} to access the online application. 
 
 In addition to having a person responsible for the management of the moneylending business passing the moneylender's test, the following are criteria for the grant of a moneylender's licence:
 
@@ -54,7 +54,7 @@ iii) a security deposit of $20,000 for every place of business for ensuring the 
 The $600 (inclusive of GST) non-refundable application fee is payable upon the submission of your application.
 
 **Licence Fee**<br>
-The moneylender’s licence fee is $1,320 per annum, which is payable upon approval of your application. Payments can be made electronically via [LicenceOne](https://licence1.business.gov.sg/web/frontier/home){:target="_blank"} by eNets Credit/Debit or Internet Banking.  
+The moneylender’s licence fee is $1,320 per annum, which is payable upon approval of your application. Payments can be made electronically via [LicenceOne](https://www.gobusiness.gov.sg/licences){:target="_blank"} by eNets Credit/Debit or Internet Banking.  
 
 **Other relevant legislations** <br>
 You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](/information-for-moneylenders/relevant-laws-and-regulations/). <br>
@@ -77,7 +77,7 @@ Do note that the approval of all additional place(s) of business (including rene
 
 
 **4. How do I update my company’s or licensee’s particulars?**<br>
-Please submit an online application at [LicenceOne](https://licence1.business.gov.sg/web/frontier/home){:target="_blank"} for the following updates:
+Please submit an online application at [LicenceOne](https://www.gobusiness.gov.sg/licences){:target="_blank"} for the following updates:
 
 i) Change of company/ firm/ business operating address;
 
@@ -127,7 +127,7 @@ v) A duly completed GIRO application form (for licensees who do not have an exis
 
 
 **6. How do I terminate my moneylender’s licence?**<br>
-To terminate your moneylender's licence, you may submit your termination application [HERE](https://licence1.business.gov.sg/web/frontier/home){:target="_blank"}. <br>
+To terminate your moneylender's licence, you may submit your termination application [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"}. <br>
 
 
 **7. How do I apply for a certificate of exemption from the Moneylenders Act?**<br>
@@ -147,7 +147,7 @@ vi) A detailed description of the types or classes of borrowers in relation to e
 
 vii) A draft scope of exemption for our consideration.
 
-Applications may be submitted to the Registry via **[https://licence1.business.gov.sg](https://licence1.business.gov.sg)**
+Applications may be submitted to the Registry via **[https://www.gobusiness.gov.sg/licences](https://www.gobusiness.gov.sg/licences)**
 
 Please note that the fees  for the certificate of exemption are as follows, which will be advised to you after your application is approved:
 
@@ -187,7 +187,7 @@ iv) If there are/will be any changes to the types or classes of borrowers in rel
 
 v) If the company has granted any loans after the expiry of the certificate of exemption (for late renewals only).
 
-Such an application can be submitted at **[https://licence1.business.gov.sg](https://licence1.business.gov.sg)**
+Such an application can be submitted at **[https://www.gobusiness.gov.sg/licences](https://www.gobusiness.gov.sg/licences)**
 
 You may refer to rule 24 of the Moneylenders Rules 2009 for the fees for the renewal of your existing certificate of exemption. <br>
 
