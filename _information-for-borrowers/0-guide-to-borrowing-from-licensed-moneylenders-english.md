@@ -155,4 +155,4 @@ Rest assured that the Registry will not disclose your details to the moneylender
  
 If a moneylender has engaged in an unfair practice towards you, you can pursue the matter through the Small Claims Tribunal or the Court under the Consumer Protection (Fair Trading) Act. The Court also has the power to set aside loan transactions that are exorbitant or substantially unfair.
 
-[Notes to Borrowers when obtaining loans from licensed moneylenders](/files/NotestoBorrowerswef15Aug2019.pdf){:target="_blank"} (661KB)
+[Notes to Borrowers when obtaining loans from licensed moneylenders](/files/Notes to Borrowers wef 15 Aug 2019.pdf){:target="_blank"} (661KB)
