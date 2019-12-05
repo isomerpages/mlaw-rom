@@ -9,7 +9,7 @@ collection_name: information-for-borrowers
 List of Licensed Moneylenders in Singapore
 ---
 
-Click [here](/files/MLListasat1Nov2019.pdf) (114kb) to view the complete list of licensed moneylenders in Singapore.
+Click [here](/files/ML List as at 1 Dec 2019.pdf) (117kb) to view the complete list of licensed moneylenders in Singapore.
 
  
 *Above document would require Adobe Reader. Haven't got Adobe Reader? [Download it here](http://get.adobe.com/reader/otherversions/){:target="_blank"}.*
