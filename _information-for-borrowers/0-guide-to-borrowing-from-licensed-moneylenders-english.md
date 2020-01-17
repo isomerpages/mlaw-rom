@@ -155,4 +155,33 @@ Rest assured that the Registry will not disclose your details to the moneylender
  
 If a moneylender has engaged in an unfair practice towards you, you can pursue the matter through the Small Claims Tribunal or the Court under the Consumer Protection (Fair Trading) Act. The Court also has the power to set aside loan transactions that are exorbitant or substantially unfair.
 
+**11. I am facing financial difficulties and unable to repay the licensed moneylenders. Can the Registry of Moneylenders help to negotiate with the licensed moneylenders?** <br>
+The Registry of Moneylenders is not in a position to assist you in negotiating with his moneylenders with regard to his loans, as this is a matter of private contract between the moneylender and the borrower.
+
+You may wish to approach any of the following social service agencies which help consumers recover from serious debt problems by providing general credit management information, credit counselling and where applicable, assistance in negotiating a debt repayment plan with creditors:
+
+* <b>Association of Muslim Professionals (AMP) <br>
+Address:              1 Pasir Ris Drive 4 #05-11 Singapore 519457 <br> Tel no.:              6416 3960 <br> E-mail:               corporate@amp.org.sg
+ 
+* <b>Adullam Life Counselling <br>
+Address:              151 Chin Swee Road Manhattan House #08-04 Singapore 169876 <br> Tel no.:              6659 7844 / 9423 8832 <br> Email:                admin@adullam.org.sg
+
+* <b>Arise2Care Community Services <br>
+Address:              No. 5 Harper Road #02-01A Singapore 369673 <br> Tel no.:              6909 0628 <br> Email:                admin@arise2care.sg  
+
+* <b>Blessed Grace Social Services <br>
+Address:              18 Arumugam Road, #05-01 Antioch@Macpherson Singapore 409962 <br> Tel no.:              8428 6377 <br> Email:                billy.lee@blessedgrace.org
+
+* <b>Credit Counselling Singapore* <br>
+Address:              51 Cuppage Road #07-06, Singapore 229469 <br> Tel no.:              6225 5227 / 6338 2663 <br> Email:                enquiry@ccs.org.sg
+
+* <b>One Hope Centre <br>
+Address:              8 New Industrial Road #04-04B LHK 3 Building Singapore 536200 <br> Tel no.:              6547 1011 <br> Email:                help@onehopecentre.org
+
+* <b>Silver Lining Community Services <br>
+Address:              (East) 11 Playfair Road Singapore, (West) Jurong Spring CC, 8 Jurong West St 52 Singapore 649296 <br> Tel no.:              6749 0400 <br> E-mail:               admin@silverlining.com.sg
+
+<b>*Credit Counselling Singapore only handles cases that also involve debts with banks.
+
+
 [Notes to Borrowers when obtaining loans from licensed moneylenders](/files/Notes to Borrowers wef 15 Aug 2019.pdf){:target="_blank"} (661KB)
