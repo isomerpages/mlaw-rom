@@ -14,6 +14,10 @@ Click [here](/files/ML List as at 1 Jan 2020.pdf) (112kb) to view the complete l
  
 *Above document would require Adobe Reader. Haven't got Adobe Reader? [Download it here](http://get.adobe.com/reader/otherversions/){:target="_blank"}.*
 
+There have been recent reports of loan scams, where perpetrators masquerade as licensed moneylenders in an attempt to deceive the victims into transferring funds to them. They have possible links to unlicensed moneylending as well. You may wish to refer to the [Police Advisory on Loan Scams](https://www.police.gov.sg/media-room/news/20200102_others_loan_scams){:target=" blank"} for more information.
+
+**Important note:** A licensed moneylender must meet a loan applicant <b><u>in person at the approved place of business before granting any loans.</u></b>
+
 
 Licensed moneylenders are **disallowed** to solicit for loans via text messages or phone calls. If you have received such a message or phone call, it is likely that an unlicensed moneylender has approached you.
 
