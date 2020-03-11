@@ -19,7 +19,7 @@ Anti-Money Laundering and Countering the Financing of Terrorism
      The slides are in PDF format, to view click [here](/files/NotesAMLCFTROMbriefing16Oct20215.pdf){:target="_blank"} (211KB)
 
 **iv. Information Guide ("Guide") on The Prevention of Money Laundering and Countering the Financing of Terrorism for Moneylenders**<br>
-    To access the guide, please click [here](/files/InfoGuideforMoneylenders.pdf){:target="_blank"} (191KB)
+    To access the guide, please click [here](/files/Info Guide 2020 for Moneylenders.pdf){:target="_blank"} (606KB)
 
 **v. Financial Action Task Force – July 2015 Public Statement: High-risk and Non-cooperative Jurisdictions**<br>
    To view, please click [here](https://www.mas.gov.sg/publications/fatf-statement/2015/june-2015-fatf-statement){:target="_blank"} 
