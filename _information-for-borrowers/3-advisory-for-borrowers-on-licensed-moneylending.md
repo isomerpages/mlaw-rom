@@ -8,7 +8,6 @@ collection_name: information-for-borrowers
 Advisory for Borrowers on Licensed Moneylending
 ---
 
-<table>
   <tr>
     <th></th>
     <th>Advisories</th>
