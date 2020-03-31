@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Posters And Pamphlets On Borrowing Wisely (4 languages)
-permalink: /information-for-borrowers/posters-and-pamphlets-on-borrowing-wisely/
-breadcrumb: Posters And Pamphlets On Borrowing Wisely (4 languages)
+title: Advisory for Borrowers on Licensed Moneylending
+permalink: /information-for-borrowers/advisory-for-borrowers-on-licensed-moneylending/
+breadcrumb: Advisory for Borrowers on Licensed Moneylending
 collection_name: information-for-borrowers
 ---
 
