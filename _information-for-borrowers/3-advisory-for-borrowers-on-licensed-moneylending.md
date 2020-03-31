@@ -5,7 +5,6 @@ permalink: /information-for-borrowers/advisory-for-borrowers-on-licensed-moneyle
 breadcrumb: Advisory for Borrowers on Licensed Moneylending
 collection_name: information-for-borrowers
 ---
-
 Advisory for Borrowers on Licensed Moneylending
 ---
 
