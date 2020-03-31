@@ -7,7 +7,7 @@ collection_name: information-for-borrowers
 ---
 Advisory for Borrowers on Licensed Moneylending
 ---
-
+<table>
   <tr>
     <th></th>
     <th>Advisories</th>
@@ -23,4 +23,4 @@ Advisory for Borrowers on Licensed Moneylending
     <td>
       <a href="/files/Advisory-Chinese-Tamil.pdf" target="_blank">Advisory for Borrowers (Chinese and Tamil) (PDF) </a>
     </td>
-
+</table>
