@@ -6,50 +6,24 @@ breadcrumb: Advisory for Borrowers on Licensed Moneylending
 collection_name: information-for-borrowers
 ---
 
-Posters and Pamphlets on borrowing wisely (4 languages)
+Advisory for Borrowers on Licensed Moneylending
 ---
 
 <table>
   <tr>
     <th></th>
-    <th>Posters</th>
-    <th>Pamphlets</th>
+    <th>Advisories</th>
   </tr>
    <tr>
-    <td>English</td>
+    <td>English and Malay</td>
     <td>
-       <a href="/files/PosteronborrowingwiselyEnglish.pdf" target="_blank">Poster on borrowing wisely (English PDF) (848KB)</a>
-    </td>
-    <td>
-      <a href="/files/PamphletonborrowingwiselyEnglish.pdf" target="_blank">Pamphlet on borrowing wisely (English PDF) (1.23MB))</a>
+       <a href="/files/Advisory-English-Malay.pdf" target="_blank">Advisory for Borrowers (English and Malay) (PDF)</a>
     </td>
   </tr>
    <tr>
-    <td>Chinese</td>
+    <td>Chinese and Tamil</td>
     <td>
-      <a href="/files/PosteronborrowingwiselyChinese.pdf" target="_blank">Poster on borrowing wisely (Chinese PDF) (816KB)</a>
+      <a href="/files/Advisory-Chinese-Tamil.pdf" target="_blank">Advisory for Borrowers (Chinese and Tamil) (PDF) </a>
     </td>
-    <td>
-      <a href="/files/PamphletonborrowingwiselyChinese.pdf" target="_blank">Pamphlet on borrowing wisely (Chinese PDF) (950KB)</a>
-    </td>
-  </tr>
-  <tr>
-    <td>Malay</td>
-    <td>
-      <a href="/files/PosteronborrowingwiselyMalay.pdf" target="_blank">Poster on borrowing wisely (Malay PDF) (855KB)</a>
-    </td>
-    <td>
-      <a href="/files/PamphletonborrowingwiselyMalay.pdf" target="_blank">Pamphlet on borrowing wisely (Malay PDF) (846KB)</a>
-    </td>
-  </tr>
-  <tr>
-    <td>Tamil</td>
-    <td>
-      <a href="/files/PosteronborrowingwiselyTamil.pdf" target="_blank">Poster on borrowing wisely (Tamil PDF) (778KB)</a>
-    </td>
-    <td>
-      <a href="/files/PamphletonborrowingwiselyTamil.pdf" target="_blank">Pamphlet on borrowing wisely (Tamil PDF) (778KB)</a>
-    </td>
-  </tr>
 </table>
 
