@@ -54,7 +54,7 @@ iii) a security deposit of $20,000 for every place of business for ensuring the 
 The $600 (inclusive of GST) non-refundable application fee is payable upon the submission of your application.
 
 **Licence Fee**<br>
-The moneylender’s licence fee is $1,320 per annum, which is payable upon approval of your application. Payments can be made electronically via [LicenceOne](https://www.gobusiness.gov.sg/licences){:target="_blank"} by eNets Credit/Debit or Internet Banking.  
+The moneylender’s licence fee is $1,500 per annum, which is payable upon approval of your application. Payments can be made electronically via [LicenceOne](https://www.gobusiness.gov.sg/licences){:target="_blank"} by eNets Credit/Debit or Internet Banking.  
 
 **Other relevant legislations** <br>
 You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](/information-for-moneylenders/relevant-laws-and-regulations/). <br>
