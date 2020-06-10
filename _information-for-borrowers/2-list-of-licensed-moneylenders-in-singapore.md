@@ -2,6 +2,7 @@
 layout: leftnav-page-content
 title: List Of Licensed Moneylenders In Singapore
 permalink: /information-for-borrowers/list-of-licensed-moneylenders-in-singapore/
+notification: Please be aware of scammers
 breadcrumb: List Of Licensed Moneylenders In Singapore
 collection_name: information-for-borrowers
 ---
