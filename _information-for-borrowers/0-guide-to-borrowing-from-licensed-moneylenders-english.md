@@ -3,6 +3,7 @@ layout: leftnav-page-content
 title: FAQs on Borrowing From Licensed Moneylenders
 permalink: /information-for-borrowers/guide-to-borrowing-from-licensed-moneylenders-english/
 breadcrumb: Guide To Borrowing From Licensed Moneylenders (English)
+notification: Please be aware of scammers
 collection_name: information-for-borrowers
 ---
 
