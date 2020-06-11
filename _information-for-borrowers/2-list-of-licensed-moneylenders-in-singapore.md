@@ -13,7 +13,6 @@ List of Licensed Moneylenders in Singapore
   </tr>
   <tr>
     <td>
-      <h4>
         There have been increasing reports of scammers and unlicensed moneylenders masquerading as licensed moneylenders to deceive victims into taking loans. Deceptive tactics used include soliciting for loans via:<br>
 a) SMS or WhatsApp text messages while claiming to represent licensed moneylenders; and <br>
 b) Websites and social media accounts that mimic those of licensed moneylenders (including those with website addresses that closely resembles those of licensed moneylenders)<br>
@@ -27,7 +26,6 @@ In other instances, the perpetuators create bogus websites or social media accou
 Before visiting a licensed moneylender’s website, you are also strongly encouraged to verify the website address using <b>only</b> the list of licensed moneylenders found below. <br>
 <br> 
 Report possible unlicensed moneylending activities to the Police hotline at 1800-255-000 or submit the information online at www.police.gov.sg/iwitness. Members of the public may also call the National Crime Prevention Council’s X-Ah Long hotline at 1800-924-5664.
-      </h4>
 </td>  
   </tr>
 </table>
