@@ -9,7 +9,7 @@ List of Licensed Moneylenders in Singapore
 ---
 <table style="width:100%">
   <tr>
-    <th style="background-color:#FF0000" align="left"><h2>Important Note</h2></th>
+    <th style="background-color:#FAFFB6" align="left"><h3>:warning:Important Note</h3></th>
   </tr>
   <tr>
     <td>There have been increasing reports of scammers and unlicensed moneylenders masquerading as licensed moneylenders to deceive victims into taking loans. Deceptive tactics used include soliciting for loans via:<br>
