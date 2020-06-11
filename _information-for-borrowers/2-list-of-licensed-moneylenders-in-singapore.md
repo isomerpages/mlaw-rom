@@ -12,7 +12,9 @@ List of Licensed Moneylenders in Singapore
     <th style="background-color:#FAFFB6" align="left"><h3>⚠ Important Note</h3></th>
   </tr>
   <tr>
-    <td>There have been increasing reports of scammers and unlicensed moneylenders masquerading as licensed moneylenders to deceive victims into taking loans. Deceptive tactics used include soliciting for loans via:<br>
+    <td>
+      <h4>
+        There have been increasing reports of scammers and unlicensed moneylenders masquerading as licensed moneylenders to deceive victims into taking loans. Deceptive tactics used include soliciting for loans via:<br>
 a) SMS or WhatsApp text messages while claiming to represent licensed moneylenders; and <br>
 b) Websites and social media accounts that mimic those of licensed moneylenders (including those with website addresses that closely resembles those of licensed moneylenders)<br>
 <br> 
@@ -20,11 +22,12 @@ It is observed that the perpetrators approached individuals via mobile text mess
 <br> 
 In other instances, the perpetuators create bogus websites or social media accounts portraying themselves as licensed moneylenders in Singapore. Such websites solicit victims’ personal information such as their NRIC number, address and contact number, which can then be used for unlawful purposes. <br>
 <br> 
-Licensed moneylenders are disallowed to solicit for loans via text messages, phone calls or social media platforms. Licensed moneylenders are required to meet the borrower in person at the approved place of business to conduct physical face-to-face verification of his identity before granting any loan.  A loan transaction performed fully online is disallowed.<br>
+<b>Licensed moneylenders are disallowed to solicit for loans via text messages, phone calls or social media platforms. Licensed moneylenders are required to meet the borrower in person at the approved place of business to conduct physical face-to-face verification of his identity before granting any loan.</b>  A loan transaction performed fully online is disallowed.<br>
 <br> 
-Before visiting a licensed moneylender’s website, you are also strongly encouraged to verify the website address using only the list of licensed moneylenders found below. <br>
+Before visiting a licensed moneylender’s website, you are also strongly encouraged to verify the website address using <b>only</b> the list of licensed moneylenders found below. <br>
 <br> 
 Report possible unlicensed moneylending activities to the Police hotline at 1800-255-000 or submit the information online at www.police.gov.sg/iwitness. Members of the public may also call the National Crime Prevention Council’s X-Ah Long hotline at 1800-924-5664.
+      </h4>
 </td>  
   </tr>
 </table>
