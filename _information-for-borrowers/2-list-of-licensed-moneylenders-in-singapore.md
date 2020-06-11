@@ -9,7 +9,7 @@ List of Licensed Moneylenders in Singapore
 ---
 <table style="width:100%">
   <tr>
-    <th style="background-color:#FAFFB6" align="left"><h3>⚠ Important Note</h3></th>
+    <th style="background-color:#FFC300" align="left"><h3>⚠ Important Note</h3></th>
   </tr>
   <tr>
     <td>
