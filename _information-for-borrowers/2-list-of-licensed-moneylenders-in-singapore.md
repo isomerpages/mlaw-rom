@@ -7,7 +7,6 @@ collection_name: information-for-borrowers
 ---
 List of Licensed Moneylenders in Singapore
 ---
-<html>
 <table style="width:100%" border="1">
   <tr>
     <th style="background-color:#FFC300" align="left"><h3>⚠ Important Note</h3></th>
@@ -30,12 +29,10 @@ Report possible unlicensed moneylending activities to the Police hotline at 1800
 </td>  
   </tr>
 </table>
-</html>
 
- ## Click [here][1]{:target="_blank"} to view the complete list of licensed moneylenders in Singapore.
+Click [here](/files/ML list as at 010620.pdf){:target="_blank"} to view the complete list of licensed moneylenders in Singapore.
   
 *Above document would require Adobe Reader. Haven't got Adobe Reader? [Download it here](http://get.adobe.com/reader/otherversions/){:target="_blank"}.*
 
-[1]: /files/ML list as at 010620.pdf
  
 
