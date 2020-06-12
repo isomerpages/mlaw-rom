@@ -7,7 +7,8 @@ collection_name: information-for-borrowers
 ---
 List of Licensed Moneylenders in Singapore
 ---
-<table style="width:100%">
+
+<table style="width:100%" border="1">
   <tr>
     <th style="background-color:#FFC300" align="left"><h3>⚠ Important Note</h3></th>
   </tr>
