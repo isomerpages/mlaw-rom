@@ -34,3 +34,10 @@ The attention of all appointed auditors is drawn to section 24A(9) of the Act, w
 3. serious irregularities have occurred, including irregularities that compromise the confidentiality, security or integrity of any data obtained, used or disclosed by the licensee.
 
 Appointed auditors should also take note that any non-compliance of section 24A(5) or (9) is an offence under of the Act, and the auditor shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+---
+#### Agreed Upon Procedures (AUPs) for Reporting Under the Additional Duties
+
+Auditors may wish to refer to the a set of AUPs [here](/files/(Final) AUP report for Moneylenders.pdf){:target="_blank"} in performing their duties and producing their reports under the Additional Duties stated in the above Registrar's Notice.
+
+(**Note:** While auditors are encouraged to refer to the above set of AUPs, please note that it is **_not_** mandatory to do so.)
