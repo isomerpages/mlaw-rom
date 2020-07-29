@@ -20,7 +20,7 @@ Pursuant to section 24A(5) of the Act, the Registrar of Moneylenders (“Registr
 1. to provide a report that the statements submitted to the Registrar after the end of each quarter of a year starting from the first day of January, April, July or October of the year pursuant to section 24(3) of the Act are accurate*; and
 2. to provide a report that the licensee has complied with section 30R(1) of the Act. Specifically, in respect of section 30R(1)(a), an appointed auditor shall certify that the borrower information provided by the licensee to the designated credit bureau is accurate, complete and current, after verifying that such borrower information is consistent with the borrower information collected by the licensee.
 
-*[Specifically, this is with respect to the borrower particulars (i.e. name of borrower (as stated in identity document), identity document type, identity document number, nationality, residential address, annualincome) as well as loan information (i.e. loan amount, type of loan and rate of interest)]*.
+*[Specifically, this is with respect to the borrower particulars (i.e. name of borrower (as stated in identity document), identity document type, identity document number, nationality, residential address, annualincome) as well as loan information (i.e. loan amount, type of loan and rate of interest).]*
 
 **Submission of Auditor’s Report and Auditor’s Certificate**
 
