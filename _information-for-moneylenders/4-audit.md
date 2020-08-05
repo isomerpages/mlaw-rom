@@ -17,14 +17,16 @@ Licensees are required under the section 24A(1) of the Moneylenders Act (“the 
 
 Pursuant to section 24A(5) of the Act, the Registrar of Moneylenders (“Registrar”) hereby notifies the auditor appointed under section 24A(1) or section 24A(3) of the Act (“appointed auditor”) to impose the following duties in addition to those stated in section 24A(4) of the Act:
 
-1. to provide a report that the statements submitted to the Registrar after the end of each quarter of a year starting from the first day of January, April, July or October of the year pursuant to section 24(3) of the Act are accurate; and
+1. to provide a report that the statements submitted to the Registrar after the end of each quarter of a year starting from the first day of January, April, July or October of the year pursuant to section 24(3) of the Act are accurate*; and
 2. to provide a report that the licensee has complied with section 30R(1) of the Act. Specifically, in respect of section 30R(1)(a), an appointed auditor shall certify that the borrower information provided by the licensee to the designated credit bureau is accurate, complete and current, after verifying that such borrower information is consistent with the borrower information collected by the licensee.
+
+*[Specifically, this is with respect to the borrower particulars (i.e. name of borrower (as stated in identity document), identity document type, identity document number, nationality, residential address, annualincome) as well as loan information (i.e. loan amount, type of loan and rate of interest).]*
 
 **Submission of Auditor’s Report and Auditor’s Certificate**
 
 Pursuant to section 24A(8) of the Act, licensees must submit, or cause to be
 submitted, the following to the Registry of Moneylenders by 30 April of every calendar year:
-1.  a copy of the auditor’s report made under section 24A(4)(b) of the Act attached to the licensee’s financial statements or consolidated financial statements; and
+1. a copy of the auditor’s report made under section 24A(4)(b) of the Act attached to the licensee’s financial statements or consolidated financial statements; and
 2. a copy of the auditor’s report made pursuant to paragraph 2 of the Registrar’s
 Notice.
 
