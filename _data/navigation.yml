@@ -1,52 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-- title: About Us
-  url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
-  sub-links:
-  - title: Our Vision, Mission and Core Values
-    url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
-  - title: Our Management
-    url: https://www.mlaw.gov.sg/about-us/our-management/
-  - title: Organisation Structure
-    url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
-  - title: Our Legal System
-    url: https://www.mlaw.gov.sg/about-us/our-legal-system/
-  - title: What We Do
-    url: https://www.mlaw.gov.sg/about-us/what-we-do/
-  - title: Contact Us
-    url: https://www.mlaw.gov.sg/about-us/contact-us/
-    
-- title: Info For Moneylenders
-  url: /information-for-moneylenders/
-  sub-links:
-  - title: Relevant Laws And Regulations
-    url: /information-for-moneylenders/relevant-laws-and-regulations/
-  - title: Anti-Money Laundering And Countering The Financing Of Terrorism (AML/CFT)
-    url: /information-for-moneylenders/anti-money-laundering-and-countering-the-financing-of-terrorism/
-  - title: AML/CFT Newsletters
-    url: /information-for-moneylenders/aml-cft-newsletters/
-  - title: Audit
-    url: /information-for-moneylenders/audit/
-  - title: Forms
-    url: /information-for-moneylenders/forms/
-  - title: Moneylenders Credit Bureau
-    url: /information-for-moneylenders/moneylenders-credit-bureau/
-
-
-- title: Info For Borrowers
-  url: /information-for-borrowers/guide-to-borrowing-from-licensed-moneylenders-english/
-  sub-links:
-  - title: FAQs on Borrowing From Licensed Moneylenders
-    url: /information-for-borrowers/guide-to-borrowing-from-licensed-moneylenders-english/
-  - title: List Of Licensed Moneylenders In Singapore
-    url: /information-for-borrowers/list-of-licensed-moneylenders-in-singapore/
-  - title: Advisory for Borrowers on Licensed Moneylending
-    url: /information-for-borrowers/advisory-for-borrowers-on-licensed-moneylending/
-
-- title: e-Services
-  url: https://eservices.mlaw.gov.sg/rom/
-- title: News
-  url: https://www.mlaw.gov.sg/news/
+logo: /images/mlaw-logo.png
+links:
+    - title: 'About Us'
+      collection: about-us
+    - title: 'Info For Moneylenders'
+      collection: info-for-moneylenders
+    - title: 'Info For Borrowers'
+      collection: info-for-borrowers
+    - title: e-Services
+      url: 'https://eservices.mlaw.gov.sg/rom/'
+    - title: News
+      resource_room: true
