@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Information for Moneylenders
+title: 'Information for Moneylenders'
 permalink: /information-for-moneylenders/
-breadcrumb: Information for Moneylenders
-collection_name: information-for-moneylenders
+breadcrumb: 'Information for Moneylenders'
+
 ---
+
 
 Information for Moneylenders
 ---

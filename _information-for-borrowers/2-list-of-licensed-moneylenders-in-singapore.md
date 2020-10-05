@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: List Of Licensed Moneylenders In Singapore
+title: 'List Of Licensed Moneylenders In Singapore'
 permalink: /information-for-borrowers/list-of-licensed-moneylenders-in-singapore/
-breadcrumb: List Of Licensed Moneylenders In Singapore
-collection_name: information-for-borrowers
+breadcrumb: 'List Of Licensed Moneylenders In Singapore'
+
 ---
+
 List of Licensed Moneylenders in Singapore
 ---
 <table style="width:100%" border="1">

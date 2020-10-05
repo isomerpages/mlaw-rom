@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Advisory for Borrowers on Licensed Moneylending
+title: 'Advisory for Borrowers on Licensed Moneylending'
 permalink: /information-for-borrowers/advisory-for-borrowers-on-licensed-moneylending/
-breadcrumb: Advisory for Borrowers on Licensed Moneylending
-collection_name: information-for-borrowers
+breadcrumb: 'Advisory for Borrowers on Licensed Moneylending'
+
 ---
+
 Advisory for Borrowers on Licensed Moneylending
 ---
 <table>
