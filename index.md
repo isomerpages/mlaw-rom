@@ -20,11 +20,10 @@ sections:
                 - title: 'Contact Us'
                   description: 'Find the answers to your questions'
                   url: 'https://eservices.mlaw.gov.sg/enquiry/'
-    - resources:
-          title: News
-          subtitle: 'Be Aware'
-          button: More
-          url: 'https://staging-isomer-mlaw.netlify.com/news/'
+    - infobar:
+        title: Be Aware
+        subtitle: News
+        button: More
+        url: 'https://www.mlaw.gov.sg/news/'
 
 ---
-
