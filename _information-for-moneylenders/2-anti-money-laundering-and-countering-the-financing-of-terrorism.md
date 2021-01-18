@@ -25,3 +25,6 @@ Anti-Money Laundering and Countering the Financing of Terrorism
 
 **vi.Singapore National Risk Assessment Report 2013**<br>
 The document is in PDF format, to view click [here](/files/SingaporeNRAReport2013_24032015.pdf) (988KB)
+
+**vii.The Terrorism Financing National Risk Assessment (TF NRA) 2020**<br>
+The document is in PDF format, to view click [here](/files/1. TF NRA.pdf)
