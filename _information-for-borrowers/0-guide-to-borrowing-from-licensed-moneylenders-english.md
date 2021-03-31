@@ -163,7 +163,6 @@ You may wish to approach any of the following social service agencies which help
 * Adullam Life Counselling
 <br>Address: 151 Chin Swee Road #08-04 Manhattan House Singapore 169876
 <br>Tel no.: 9423 8832 <br> E-mail: admin@adullam.org.sg
-<br>
 
 * Association of Muslim Professionals (AMP) 
 <br>Address: 1 Pasir Ris Drive 4 #05-11 Singapore 519457 
