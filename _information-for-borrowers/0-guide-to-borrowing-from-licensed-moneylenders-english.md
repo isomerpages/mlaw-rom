@@ -168,7 +168,6 @@ You may wish to approach any of the following social service agencies which help
 * Association of Muslim Professionals (AMP) 
 <br>Address: 1 Pasir Ris Drive 4 #05-11 Singapore 519457 
 <br> Tel no.: 6416 3960 <br> E-mail: corporate@amp.org.sg 
-<br>
  
 * Arise2Care Community Services <br>
 Address:              No. 5 Harper Road #02-01A Singapore 369673 <br> Tel no.:              6909 0628 <br> Email:                admin@arise2care.sg <br>  
