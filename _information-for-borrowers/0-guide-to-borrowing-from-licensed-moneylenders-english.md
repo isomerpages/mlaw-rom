@@ -159,9 +159,14 @@ If a moneylender has engaged in an unfair practice towards you, you can pursue t
 The Registry of Moneylenders is not in a position to assist you in negotiating with his moneylenders with regard to his loans, as this is a matter of private contract between the moneylender and the borrower.
 
 You may wish to approach any of the following social service agencies which help consumers recover from serious debt problems by providing general credit management information, credit counselling and where applicable, assistance in negotiating a debt repayment plan with creditors:
-<br>
-* Association of Muslim Professionals (AMP) <br>
-Address:              1 Pasir Ris Drive 4 #05-11 Singapore 519457 <br> Tel no.:              6416 3960 <br> E-mail:               corporate@amp.org.sg <br>
+
+* Adullam Life Counselling
+<br>Address: 151 Chin Swee Road #08-04 Manhattan House Singapore 169876
+<br>Tel no.: 9423 8832 <br> E-mail: admin@adullam.org.sg
+
+* Association of Muslim Professionals (AMP) 
+<br>Address: 1 Pasir Ris Drive 4 #05-11 Singapore 519457 
+<br> Tel no.: 6416 3960 <br> E-mail: corporate@amp.org.sg 
  
 * Arise2Care Community Services <br>
 Address:              No. 5 Harper Road #02-01A Singapore 369673 <br> Tel no.:              6909 0628 <br> Email:                admin@arise2care.sg <br>  
