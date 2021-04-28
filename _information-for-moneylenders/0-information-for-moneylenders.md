@@ -10,28 +10,28 @@ Information for Moneylenders
 ---
 **1. How do I apply for a moneylending licence?**<br>
 The Registry of Moneylenders has temporarily suspended the grant of any new moneylending licences. 
-<br/>
-
+<br>
+<br>
 
 **2. How do I apply for additional place(s) of business?**<br>
 There is a concurrent suspension on the processing of applications for additional place(s) of business. 
-<br/>
-
+<br>
+<br>
 
 **3. How do I register for the Moneylender’s Test? How much does the Moneylender’s Test cost?**<br>
-You may click [here](https://licence1.business.gov.sg) to access the Moneylender’s Test Booking System to register for a test slot. A non-refundable test fee of S$130 (inclusive of GST) is payable per attempt. <br>
-
-
+You may click [here](https://licence1.business.gov.sg) to access the Moneylender’s Test Booking System to register for a test slot. A non-refundable test fee of S$130 (inclusive of GST) is payable per attempt. 
+<br>
+<br>
 
 **4. What are the criteria to register for the Moneylender’s Test?**<br>
-Anyone may register for the Moneylender’s Test. However, do note that passing the Moneylender’s Test does not automatically qualify a person as a Test-Qualified Manager (please refer to question 6). <br>
-
-
+Anyone may register for the Moneylender’s Test. However, do note that passing the Moneylender’s Test does not automatically qualify a person as a Test-Qualified Manager (please refer to question 6). 
+<br>
+<br>
 
 **5. When and how would I know if I have passed the Moneylender’s Test?**<br>
-You may check your test results via [GoBusiness](https://licence1.business.gov.sg) after two weeks from the date of your test. <br>   
-
-
+You may check your test results via [GoBusiness](https://licence1.business.gov.sg) after two weeks from the date of your test. 
+<br>   
+<br>
 
 **6. How do I get appointed as a Test-Qualified Manager of an approved place of business of the licensee?**<br>
 To be appointed as a Test-Qualified Manager, the person must satisfy the following criteria:
@@ -42,9 +42,9 @@ To be appointed as a Test-Qualified Manager, the person must satisfy the followi
 
    (c) Fit and proper, and of good character 
 
-Please note that the licensee must submit an application to us via GoBusiness to appoint the person as a Test-Qualified Manager. <br>
-
-
+Please note that the licensee must submit an application to us via GoBusiness to appoint the person as a Test-Qualified Manager. 
+<br>
+<br>
 
 **7. How do I update the particulars of my moneylending business?**<br>
 Please [submit](https://licence1.business.gov.sg) an online application for the following updates:
@@ -97,9 +97,9 @@ Please [submit](https://licence1.business.gov.sg) an online application for the 
 
    (xi) Whether the transferee is related or have any connections with any persons (e.g. acquaintances/friends/family members/associates etc.) who has ever been involved in the business of moneylending or debt collecting or has ever applied for a moneylending licence (if yes, state the person’s name, the business name, relationship etc.)
 
-7.4 Do note that for all the above updates, the licensee must first [submit](https://licence1.business.gov.sg) the online application and obtain approval from the Registry of Moneylenders before it could proceed with the update/changes. After the licensee has received the approval from the Registry of Moneylenders, it may then update this information with ACRA. <br>
-
-
+7.4 Do note that for all the above updates, the licensee must first [submit](https://licence1.business.gov.sg) the online application and obtain approval from the Registry of Moneylenders before it could proceed with the update/changes. After the licensee has received the approval from the Registry of Moneylenders, it may then update this information with ACRA. 
+<br>
+<br>
 
 **8. How do I renew my moneylending licence?**<br>
 The renewal of the moneylending licence is subject to the good conduct of the licensee. Licensees should have the following documents ready and forward them to the Registry upon notification, no later than one month before the expiry of the licence:
@@ -116,14 +116,14 @@ The renewal of the moneylending licence is subject to the good conduct of the li
 
 The renewal for approved additional place(s) of business will be processed concurrently with the renewal of moneylender’s licence. The additional licence fee payable for the renewal of approved additional place(s) of business will be $1,500 per annum for every additional place of business.
 
-Do note that the approval of all additional place(s) of business (including renewed approvals) will terminate upon the expiry or revocation of a licence. <br>
-
-
+Do note that the approval of all additional place(s) of business (including renewed approvals) will terminate upon the expiry or revocation of a licence. 
+<br>
+<br>
 
 **9. How do I renew my moneylending licence?**<br>
-You may submit your application [here](https://licence1.business.gov.sg) to terminate your moneylending licence. <br>
-
-
+You may submit your application [here](https://licence1.business.gov.sg) to terminate your moneylending licence. 
+<br>
+<br>
 
 **10. How do I apply for a certificate of exemption from the Moneylenders Act?**<br>
 Any person may apply under section 35(1) of the Moneylenders Act to exempt his business from all or any of the provisions of the same Act. You may submit an application to       us with the following information ready:
@@ -146,9 +146,9 @@ Any person may apply under section 35(1) of the Moneylenders Act to exempt his b
                 
    (f) The interest and fees, if any, which the applicant intends to charge; and
                 
-   (g) A draft scope of exemption for our consideration <br>
-
-
+   (g) A draft scope of exemption for our consideration 
+<br>
+<br>
 
 **11. What are the fees I have to pay for a certification of exemption? What is the validity period of the exemption?**<br>
 Depending on the business activity exempted, the fees may range from $1,000 to $4,000 per year. The exemption is valid for a period up to a maximum of 3 years.
@@ -174,19 +174,19 @@ Depending on the business activity exempted, the fees may range from $1,000 to $
     <td>Where the person exempted carries on the business of moneylending to persons referred to in paragraphs (i) and (ii).</td>
     <td>$4,000</td>
   </tr>
-</table><br>
-
-
+</table>
+<br>
+<br>
 
 **12. How do I extend the validity period of my certificate of exemption?**<br>
-To extend your validity period of the certificate of exemption, you are required to [submit](https://licence1.business.gov.sg) an application to the Registry of Moneylenders at least one month before the expiry of your existing certificate of exemption. <br>
-
-
+To extend your validity period of the certificate of exemption, you are required to [submit](https://licence1.business.gov.sg) an application to the Registry of Moneylenders at least one month before the expiry of your existing certificate of exemption. 
+<br>
+<br>
 
 **13. How do I know if my business qualifies as an excluded moneylender under the Moneylenders Act?**<br>
-You may wish to refer to section 2 of the Moneylenders Act, which sets out the definition of an excluded moneylender. You may wish to seek legal advice on whether your business activity falls within the definition of an excluded moneylender. <br>
-
-
+You may wish to refer to section 2 of the Moneylenders Act, which sets out the definition of an excluded moneylender. You may wish to seek legal advice on whether your business activity falls within the definition of an excluded moneylender. 
+<br>
+<br>
 
 **14. How do I make payment when I receive the Notice of Offer of Composition?**<br>
 Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the [user guide](/files/page1.pdf).
