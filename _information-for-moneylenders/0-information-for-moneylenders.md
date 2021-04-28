@@ -9,13 +9,13 @@ breadcrumb: 'Information for Moneylenders'
 Information for Moneylenders
 ---
 **1. How do I apply for a moneylending licence?**<br>
-The Registry of Moneylenders has temporarily suspended the grant of any new moneylending licences. <br>
-
+The Registry of Moneylenders has temporarily suspended the grant of any new moneylending licences. 
+<br/>
 
 
 **2. How do I apply for additional place(s) of business?**<br>
-There is a concurrent suspension on the processing of applications for additional place(s) of business. <br>
-
+There is a concurrent suspension on the processing of applications for additional place(s) of business. 
+<br/>
 
 
 **3. How do I register for the Moneylender’s Test? How much does the Moneylender’s Test cost?**<br>
