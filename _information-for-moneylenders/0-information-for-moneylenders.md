@@ -8,148 +8,150 @@ breadcrumb: 'Information for Moneylenders'
 
 Information for Moneylenders
 ---
-**1. How do I start a moneylending business?**<br>
-Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://www.mlaw.gov.sg/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012) for more information.
+**1. How do I apply for a moneylending licence?**<br>
+The Registry of Moneylenders has temporarily suspended the grant of any new moneylending licences. 
+<br>
+<br>
 
-To start a moneylending business, you are required to do the following:
+**2. How do I apply for additional place(s) of business?**<br>
+There is a concurrent suspension on the processing of applications for additional place(s) of business. 
+<br>
+<br>
 
-i) Register a sole-proprietorship or a partnership, or incorporate a company wherein the principal activity of the business entity is “moneylending”; and
+**3. How do I register for the Moneylender’s Test? How much does the Moneylender’s Test cost?**<br>
+You may click [here](https://licence1.business.gov.sg) to access the Moneylender’s Test Booking System to register for a test slot. A non-refundable test fee of S$130 (inclusive of GST) is payable per attempt. 
+<br>
+<br>
 
-ii) Apply for a moneylender's licence from the Registry of Moneylenders.
+**4. What are the criteria to register for the Moneylender’s Test?**<br>
+Anyone may register for the Moneylender’s Test. However, do note that passing the Moneylender’s Test does not automatically qualify a person as a Test-Qualified Manager (please refer to question 6). 
+<br>
+<br>
 
-You, or the person who will be responsible for the management of the moneylending business, also will be required to pass the moneylender's test on the Moneylenders Act (Cap.188) and Rules conducted by the Registry of Moneylenders. It is advisable that you be familiar with the provisions of the Moneylenders Act (Cap.188) and its Rules, which can be obtained from the following sources:
+**5. When and how would I know if I have passed the Moneylender’s Test?**<br>
+You may check your test results via [GoBusiness](https://licence1.business.gov.sg) after two weeks from the date of your test. 
+<br>   
+<br>
 
-i) Online at [https://sso.agc.gov.sg/Act/MA2008](https://sso.agc.gov.sg/Act/MA2008){:target="_blank"}; and
+**6. How do I get appointed as a Test-Qualified Manager of an approved place of business of the licensee?**<br>
+To be appointed as a Test-Qualified Manager, the person must satisfy the following criteria:
 
-ii) Toppan Lee Fung Pte. Ltd. Legal Publishing <br> 
-(website: [www.toppanleefung.com/webshop](https://www2.toppanleefung.com/webshop/home.aspx){:target="_blank"}) <br>
+   (a) Passed the Moneylenders’ Test;
 
+   (b) Minimum four GCE ‘O’ Levels passes including English Language, or equivalent; and
 
-**2. How do I apply for a moneylender’s licence?**<br>
-Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://www.mlaw.gov.sg/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012){:target="_blank"} for more information.
+   (c) Fit and proper, and of good character 
 
-Persons responsible for the management of a moneylending business should be familiar with the provisions of the Moneylenders Act (Cap.188) and the relevant legislations. In this regard, a person who will be responsible for the management of your moneylending business will be required to pass the moneylender's test conducted by the Registry of Moneylenders.
+Please note that the licensee must submit an application to us via GoBusiness to appoint the person as a Test-Qualified Manager. 
+<br>
+<br>
 
-**Moneylender's Test**<br>
-A non-refundable test fee of $130 (inclusive of GST) shall be payable per attempt per candidate. You may click [HERE](https://www.mlaw.gov.sg/eservices/rom/){:target="_blank"} to access the Moneylender's Test Booking System to register for a test slot.
+**7. How do I update the particulars of my moneylending business?**<br>
+Please [submit](https://licence1.business.gov.sg) an online application for the following updates:
 
-**Moneylender’s Licence Application**<br>
-If the person, who will be responsible for the management of the moneylending business, passes the moneylender's test and the Registry finds the person suitable for the moneylending industry, your business entity will be invited to submit an online application. You may click [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"} to access the online application. 
+   (a) Change of business address (please refer to 7.1 and 7.2);
 
-In addition to having a person responsible for the management of the moneylending business passing the moneylender's test, the following are criteria for the grant of a moneylender's licence:
+   (b) Change of business name;
 
-i) the applicant and every person who is or will be responsible for the management of the business must:-
+   (c) Change of business contact details;
 
-* be ordinarily resident in Singapore;
-* be of good character;
-* be a fit and proper person to carry on the moneylending business;
-* be at least 21 years old; and
-* be familiar with the provisions of the Moneylenders Act and its Rules<br>
+   (d) Appointment of a director or any individual who takes part in the management of the moneylending business;
 
-ii) the proposed business premises has been deemed suitable by the Registrar for the conduct of the moneylending business; and
+   (e) Employment or engagement of any individual for the moneylending business;
 
-iii) a security deposit of $20,000 for every place of business for ensuring the proper conduct of the moneylending business has been placed with the Accountant-General. The security deposit is to be provided in the form of an irrevocable [Banker's](/files/BANKERSGUARANTEEFORMAT_01082017.pdf){:target="_blank"} or Insurance Guarantee upon approval of your application.
+   (f) Cessation of employment of any individual mentioned in (d) and (e); and
 
-**Application Fee**<br>
-The $600 (inclusive of GST) non-refundable application fee is payable upon the submission of your application.
+   (g) The allotment of new shares/transfer of shares (please refer to 7.3)
 
-**Licence Fee**<br>
-The moneylender’s licence fee is $1,500 per annum, which is payable upon approval of your application. Payments can be made electronically via [LicenceOne](https://www.gobusiness.gov.sg/licences){:target="_blank"} by eNets Credit/Debit or Internet Banking.  
+7.1 For update (a), the licensee will be required to obtain a copy of the letter of approval from the landlord of the proposed premises for a moneylending business to be conducted and photographs of the proposed place of business. The letter of approval must be forwarded to the Registry within seven days of the online application, failing which the progress and outcome of which can be adversely affected. Please note that a tenancy agreement is not required to be submitted to the Registry at this juncture.
 
-**Other relevant legislations** <br>
-You may find a copy of the Moneylenders Rule 2012, the Licensing Conditions and the Advertising Directions [HERE](/information-for-moneylenders/relevant-laws-and-regulations/). <br>
+7.2 After the Registrar has deemed the proposed premises to be suitable for moneylending business to be conducted, the licensee will then be required to forward to the Registry the following documents:
 
+   (i) A copy of the tenancy agreement of the premises covering the entire/ remaining licence period;
 
-**3. How do I apply for additional place(s) of business?**<br>
-Please note that there is currently a suspension in the processing of applications for new moneylender licences. Please [click here](https://app.mlaw.gov.sg/news/announcements/the-registry-of-moneylenders-notice-dated-12-mar-2012.html) for more information.
+   (ii) A copy of the proof of ownership of the premises in the form of property tax or strata title deed; and
 
-Under section 10 of the Moneylenders Act, licensed moneylenders may operate from more than one location with the approval of the Registrar of Moneylenders. If you wish to apply for approval to carry on business at additional place(s) of business, please complete and submit an application via [eServices](https://www.mlaw.gov.sg/eservices/rom/){:target="_blank"}. 
+   (iii) Proposed photo(s) of the signage to be displayed conspicuously at the business premises. 
+   
+7.3 For update (g), please [submit](https://licence1.business.gov.sg) an online application with the following information:
 
-Upon approval, you will be required to:
+   (i) A clear copy of an up-to-date identification card of the transferor and the transferee (if applicable);
 
-i) place a security deposit of $20,000 with the Accountant-General in the form of an irrevocable [Banker’s](/files/BANKERSGUARANTEEFORMAT_01082017.pdf){:target="_blank"} or Insurance Guarantee for every additional place of business; and
+   (ii) Number of shares to be transferred/allotted;
 
-ii) pay a prorated additional licence fee of $110 per month based on the unexpired months of your current moneylender’s licence for every additional place of business.
+   (iii) Reason(s) for the change of shares;
 
-The renewal for approved additional place(s) of business will be processed concurrently with the renewal of moneylender’s licence: see section below “Renewal of Licence”. The additional licence fee payable for the renewal of approved additional place(s) of business will be $1,320 per annum for every additional place of business.
+   (iv) The agreed price for transferring the shares;
 
-Do note that the approval of all additional place(s) of business (including renewed approvals) will terminate upon the expiry or revocation of a licence. <br>
+   (v) Documentary evidence of the source of funds for the share transfer (e.g. bank account statements, notice of income tax, CPF statements, financial statements etc.);
 
+   (vi) The relationship between the transferor and the transferee;
 
-**4. How do I update my company’s or licensee’s particulars?**<br>
-Please submit an online application at [LicenceOne](https://www.gobusiness.gov.sg/licences){:target="_blank"} for the following updates:
+   (vii) Whether the transferee will become a substantial shareholder;
 
-i) Change of company/ firm/ business operating address;
+   (viii) Whether the transferor’s involvement in the moneylending business will change;
 
-ii) Change of company/ firm/ business name;
+   (ix) A clear copy of the moneylending company’s recent financial statements;
 
-iii) Change of company/ firm/ business contact details;
+   (x) Whether the transferee has any prior experience in moneylending or debt collecting or has ever applied for a moneylending licence (if yes, state the business name, period of involvement, designation, job details etc.); and
 
-iv) Change of bank account information;
+   (xi) Whether the transferee is related or have any connections with any persons (e.g. acquaintances/friends/family members/associates etc.) who has ever been involved in the business of moneylending or debt collecting or has ever applied for a moneylending licence (if yes, state the person’s name, the business name, relationship etc.)
 
-v) Appointment of agent to manage business in place of sole-proprietor or partners who are individuals;
+7.4 Do note that for all the above updates, the licensee must first [submit](https://licence1.business.gov.sg) the online application and obtain approval from the Registry of Moneylenders before it could proceed with the update/changes. After the licensee has received the approval from the Registry of Moneylenders, it may then update this information with ACRA. 
+<br>
+<br>
 
-vi) Appointment/ admission of new director/ managing director/ partner; and
+**8. How do I renew my moneylending licence?**<br>
+The renewal of the moneylending licence is subject to the good conduct of the licensee. Licensees should have the following documents ready and forward them to the Registry upon notification, no later than one month before the expiry of the licence:
 
-vii) Resignation/ withdrawal of director/ managing director/ partner.
+   (a) A tenancy agreement for the proposed place of business covering at least a one-year period immediately following the expiry of the existing licence;
 
-For update (i), the licensee will be required to obtain a copy of the letter of approval from the landlord of the proposed premises for a moneylending business to be conducted and for signage to be displayed conspicuously at the business premises. The letter of approval must be forwarded to the Registry within seven days of the online application, failing which the progress and outcome of which can be adversely affected. Please note that a tenancy agreement is not required to be submitted to the Registry at this juncture.
+   (b) A copy of the proof of ownership of the premises in the form of property tax or strata title deed;
 
-After the Registrar has deemed the proposed premises to be suitable for moneylending business to be conducted, the licensee will then be required to forward to the Registry the following documents:
-
-i) A copy of the tenancy agreement of the premises covering the entire/ remaining licence period;
-
-ii) A copy of the proof of ownership of the premises in the form of property tax or strata title deed.
-
-Do note that for updates (i), (ii), (v), (vi) and (vii), you must first submit the online application and obtain approval from the Registry of Moneylenders **before** you proceed with the update/changes. After you have received the approval from the Registry of Moneylenders, you may then update this information with the ACRA.
-
-For updates which involve the allotment of new shares/transfer of shares/resignation of shareholder(s)/inclusion of new shareholder(s), please write in to the Registry via e-mail to seek the **prior** approval of the Registrar with the following information:
-
-i) A clear copy of an up-to-date identification card of the transferor and the transferee (if applicable); and
-
-ii) Number of shares to be transferred/ allotted.
-
-For the purpose of obtaining the Registrar’s prior approval for the employment or engagement of any person to assist in the carrying on of the business, including persons employed or engaged to perform debt collection, you are required to submit an application to the Registry. Please please complete and submit an application via [eServices](https://www.mlaw.gov.sg/eservices/rom/). <br>
-
-
-**5. How do I renew my moneylender’s licence?**<br>
-The renewal of the moneylender’s licence is subject to the good conduct of the moneylender. Licensees should prepare the following documents and forward them to the Registry upon notification:   
-
-i) A tenancy agreement for the proposed place of business covering at least a one-year period immediately following the expiry of the existing licence;
-
-ii) A copy of the proof of ownership of the premises in the form of property tax or strata title deed;
-
-iii) A copy of the updated list of persons employed and/ or engaged to assist in the carrying on of the business, including persons employed or engaged to perform debt collection;
-
-iv) A renewed Banker's Guarantee or Insurance Guarantee for a sum of $20,000, covering  the entire licence period; and
-
-v) A duly completed GIRO application form (for licensees who do not have an existing GIRO arrangement with the Registry for the deduction of $1,320 as the licence fees). <br>
-
-
-**6. How do I terminate my moneylender’s licence?**<br>
-To terminate your moneylender's licence, you may submit your termination application [HERE](https://www.gobusiness.gov.sg/licences){:target="_blank"}. <br>
-
-
-**7. How do I apply for a certificate of exemption from the Moneylenders Act?**<br>
-Under section 35(1) of the Moneylenders Act, a company or other business entity may apply for exemption from the Moneylenders Act. There is no prescribed form for the application for a certificate of exemption. Applicants are to write to the Registry of Moneylenders with the following information and supporting documents:
-
-i) A brief description of the applicant;
-
-ii) A copy of the Instant Information Service printout on the applicant issued by ACRA;
-
-iii) The business(s) and registered address(s) of the applicant;
-
-iv) The telephone and fax numbers of the applicant;
-
-v) A detailed description of each type of activity for which the exemption is sought and the reasons for seeking the exemption;
-
-vi) A detailed description of the types or classes of borrowers in relation to each type of moneylending activity for which exemption is sought; and
-
-vii) A draft scope of exemption for our consideration.
-
-Applications may be submitted to the Registry via **[https://www.gobusiness.gov.sg/licences](https://www.gobusiness.gov.sg/licences)**
-
-Please note that the fees  for the certificate of exemption are as follows, which will be advised to you after your application is approved:
+   (c) A landlord’s approval and the Management Corporation Strata Title (MCST)’s approval (if applicable) for the proposed place of business covering the entire licence period;
+
+   (d) A renewed Banker’s Guarantee or Insurance Guarantee for a sum of $20,000, covering the entire licence period; and
+
+   (e) A duly completed GIRO application form (for licensees who do not have an existing GIRO arrangement with the Registry for the deduction of $1,500 as the licence fee)
+
+The renewal for approved additional place(s) of business will be processed concurrently with the renewal of moneylender’s licence. The additional licence fee payable for the renewal of approved additional place(s) of business will be $1,500 per annum for every additional place of business.
+
+Do note that the approval of all additional place(s) of business (including renewed approvals) will terminate upon the expiry or revocation of a licence. 
+<br>
+<br>
+
+**9. How do I renew my moneylending licence?**<br>
+You may submit your application [here](https://licence1.business.gov.sg) to terminate your moneylending licence. 
+<br>
+<br>
+
+**10. How do I apply for a certificate of exemption from the Moneylenders Act?**<br>
+Any person may apply under section 35(1) of the Moneylenders Act to exempt his business from all or any of the provisions of the same Act. You may submit an application to       us with the following information ready:
+
+   (a) A write-up containing:
+   
+   (i) a brief description of the applicant’s current business activities;
+   
+   (ii) a profile of the applicant, including any experience in moneylending or related business activities; and
+                  
+   (iii) the reason(s) for seeking an exemption
+              
+   (b) A copy of the applicant’s Business Profile issued by ACRA;
+   
+   (c) The telephone and fax numbers of the applicant;
+   
+   (d) A detailed description of each type of activity for which the exemption is sought and the reasons for seeking the exemption; 
+                
+   (e) Profile(s) of borrowers;
+                
+   (f) The interest and fees, if any, which the applicant intends to charge; and
+                
+   (g) A draft scope of exemption for our consideration 
+<br>
+<br>
+
+**11. What are the fees I have to pay for a certification of exemption? What is the validity period of the exemption?**<br>
+Depending on the business activity exempted, the fees may range from $1,000 to $4,000 per year. The exemption is valid for a period up to a maximum of 3 years.
 
 <table>
   <tr>
@@ -172,29 +174,19 @@ Please note that the fees  for the certificate of exemption are as follows, whic
     <td>Where the person exempted carries on the business of moneylending to persons referred to in paragraphs (i) and (ii).</td>
     <td>$4,000</td>
   </tr>
-</table><br>
+</table>
+<br>
+<br>
 
-**8. How do I renew my certificate of exemption?**<br>
-To renew/ extend your certificate of exemption, you are required to submit an application to the Registry of Moneylenders at least one month before the expiry of your existing certificate of exemption with the following information and supporting documents:
+**12. How do I extend the validity period of my certificate of exemption?**<br>
+To extend your validity period of the certificate of exemption, you are required to [submit](https://licence1.business.gov.sg) an application to the Registry of Moneylenders at least one month before the expiry of your existing certificate of exemption. 
+<br>
+<br>
 
-i) A copy of the Instant Information Service printout issued by the ACRA;
+**13. How do I know if my business qualifies as an excluded moneylender under the Moneylenders Act?**<br>
+You may wish to refer to section 2 of the Moneylenders Act, which sets out the definition of an excluded moneylender. You may wish to seek legal advice on whether your business activity falls within the definition of an excluded moneylender. 
+<br>
+<br>
 
-ii) If there are/will be any changes in the company’s business(s) and registered address(s);
-
-iii) If there are/will be any changes in the company’s business activities covered by the existing/previous certificate of exemption;
-
-iv) If there are/will be any changes to the types or classes of borrowers in relation to any of the company’s business activities covered by the existing/previous certificate of exemption; and
-
-v) If the company has granted any loans after the expiry of the certificate of exemption (for late renewals only).
-
-Such an application can be submitted at **[https://www.gobusiness.gov.sg/licences](https://www.gobusiness.gov.sg/licences)**
-
-You may refer to rule 24 of the Moneylenders Rules 2009 for the fees for the renewal of your existing certificate of exemption. <br>
-
-
-**9. How do I know if I qualify as an excluded moneylender under the Moneylenders Act?**<br>
-If your business model fits fully the description of an excluded moneylender defined under section 2 of the Moneylenders Act, a copy of which can be retrieved [HERE](https://sso.agc.gov.sg/Act/MA2008){:target="_blank"}, you shall be deemed as an excluded moneylender. In the event that you are unsure if your business model qualifies you as an excluded moneylender, you are advised to seek independent legal advice before commencing the intended business. <br>
-
-
-**10. How do I make payment when I receive the Notice of Offer of Composition?**<br>
-Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the [user guide](/files/page1.pdf){:target="_blank"}.
+**14. How do I make payment when I receive the Notice of Offer of Composition?**<br>
+Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the [user guide](/files/page1.pdf).
