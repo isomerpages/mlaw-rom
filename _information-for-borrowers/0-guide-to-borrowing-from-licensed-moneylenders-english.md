@@ -172,7 +172,7 @@ You may wish to approach any of the following social service agencies which help
 Address:              No. 5 Harper Road #02-01A Singapore 369673 <br> Tel no.:              6909 0628 <br> Email:                admin@arise2care.sg <br>  
 
 * Blessed Grace Social Services <br>
-Address:              18 Arumugam Road, #05-01 Antioch@Macpherson Singapore 409962 <br> Tel no.:              8428 6377 <br> Email:                billy.lee@blessedgrace.org <br>
+Address:              16 Arumugam Road, #04-02B Block D, LTC Building Singapore 409961 <br> Tel no.:              8428 6377 <br> Email:                billy.lee@blessedgrace.org <br>
 
 * Credit Counselling Singapore* <br>
 Address:              51 Cuppage Road #07-06, Singapore 229469 <br> Tel no.:              6225 5227 / 6338 2663 <br> Email:                enquiry@ccs.org.sg <br>
