@@ -12,4 +12,4 @@ AML/CFT Newsletters
 
 [Issue 1 of 2021](/files/amlcft-newsletters/(LML) AMLCFT Newsletter 1 of 2021.pdf){:target="_blank"}
 
-[Issue 2 of 2021](/files/amlcft-newsletters/(LML) AMLCFT Newsletter 1 of 2021.pdf){:target="_blank"}
+[Issue 2 of 2021](files/amlcft-newsletters/(LML) AMLCFT Newsletter 2 of 2021.pdf){:target="_blank"}
