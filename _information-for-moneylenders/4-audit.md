@@ -39,6 +39,6 @@ Appointed auditors should also take note that any non-compliance of section 39(5
 ---
 #### Agreed Upon Procedures (AUPs) for Reporting Under the Additional Duties
 
-Auditors may wish to refer to the a set of AUPs [here](/files/(Final) AUP report for Moneylenders.pdf){:target="_blank"} in performing their duties and producing their reports under the Additional Duties stated in the above Registrar's Notice.
+Auditors may wish to refer to the a set of AUPs [here](/files/2022 AUP.pdf){:target="_blank"} in performing their duties and producing their reports under the Additional Duties stated in the above Registrar's Notice.
 
 (**Note:** While auditors are encouraged to refer to the above set of AUPs, please note that it is **_not_** mandatory to do so.)
