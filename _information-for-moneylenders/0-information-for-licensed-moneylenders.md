@@ -1,6 +1,6 @@
 ---
 title: 'Information for Licensed Moneylenders'
-permalink: /information-for-licensed-moneylenders/
+permalink: /information-for-moneylenders/
 breadcrumb: 'Information for Licensed Moneylenders'
 
 ---
