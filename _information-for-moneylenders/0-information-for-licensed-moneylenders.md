@@ -1,12 +1,12 @@
 ---
-title: 'Information for Moneylenders'
-permalink: /information-for-moneylenders/
-breadcrumb: 'Information for Moneylenders'
+title: 'Information for Licensed Moneylenders'
+permalink: /information-for-licensed-moneylenders/
+breadcrumb: 'Information for Licensed Moneylenders'
 
 ---
 
 
-Information for Moneylenders
+Information for Licensed Moneylenders
 ---
 **1. How do I apply for a moneylending licence?**<br>
 The Registry of Moneylenders has temporarily suspended the grant of any new moneylending licences. 
