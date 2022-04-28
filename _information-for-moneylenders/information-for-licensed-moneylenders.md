@@ -1,11 +1,8 @@
 ---
-title: 'Information for Licensed Moneylenders'
+title: Information for Licensed Moneylenders
 permalink: /information-for-moneylenders/
-breadcrumb: 'Information for Licensed Moneylenders'
-
+breadcrumb: Information for Licensed Moneylenders
 ---
-
-
 Information for Licensed Moneylenders
 ---
 **1. How do I apply for a moneylending licence?**<br>
@@ -126,7 +123,7 @@ You may submit your application [here](https://licence1.business.gov.sg) to term
 <br>
 
 **10. How do I apply for a certificate of exemption from the Moneylenders Act?**<br>
-Any person may apply under section 35(1) of the Moneylenders Act to exempt his business from all or any of the provisions of the same Act. You may submit an application to       us with the following information ready:
+Any person may apply under section 91(1) of the Moneylenders Act to exempt his business from all or any of the provisions of the same Act. You may submit an application to       us with the following information ready:
 
    (a) A write-up containing:
    
