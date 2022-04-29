@@ -12,7 +12,7 @@ Forms
 
 [Template for Moneylender's Statement of Quarterly Returns](/files/Moneylender_Returns (version 2.4) (08 Apr 2021).xls){:target="_blank"}
 
-[Form 1 - Note of Contract (Rule 10 of the MLR)](/files/Form1-NoteofContract(Rule10oftheMLR).docx){:target="_blank"} 
+[Form 1 - Note of Contract (Rule 10 of the MLR)](/files/Form1-NoteofContract(Rule10oftheMLR).pdf){:target="_blank"} 
 
 [Form 2 - Statement of Accounts (Rules 13 of the MLR)](/files/Form2-StatementofAccounts(Rule13oftheMLR).xlsx){:target="_blank"} 
 
