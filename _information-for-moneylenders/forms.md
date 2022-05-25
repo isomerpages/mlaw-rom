@@ -8,7 +8,7 @@ breadcrumb: Forms
 
 Forms
 ---
-[Sample of a Banker's Guarantee](/files/BANKERSGUARANTEEFORMAT_01082017.pdf){:target="_blank"} 
+[Sample of a Banker's Guarantee](/files/BG as at May 2022.pdf){:target="_blank"} 
 
 [Template for Moneylender's Statement of Quarterly Returns](/files/Moneylender_Returns (version 2.4) (08 Apr 2021).xls){:target="_blank"}
 
