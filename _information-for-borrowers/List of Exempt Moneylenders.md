@@ -6,4 +6,4 @@ description: ""
 List of Exempt Moneylenders in Singapore
 ---
 Click [here](/files/
-List of PBs/LIST OF EXEMPT MONEYLENDERS as at 1 Jul 2022.pdf){:target="_blank"} to view the complete list of exempt moneylenders in Singapore.
+COE Holder Lists/LIST OF EXEMPT MONEYLENDERS as at 1 Jul 2022.pdf){:target="_blank"} to view the complete list of exempt moneylenders in Singapore.
