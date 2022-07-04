@@ -2,7 +2,7 @@ collections:
   information-for-borrowers:
     output: true
     order:
-      - List of Exempt Moneylenders.md
       - faqs-on-borrowing-from-licensed-moneylenders.md
       - list-of-licensed-moneylenders-in-singapore.md
+      - List of Exempt Moneylenders.md
       - advisory-for-borrowers-on-licensed-moneylending.md
