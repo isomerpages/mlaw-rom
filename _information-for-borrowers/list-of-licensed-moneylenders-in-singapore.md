@@ -27,7 +27,7 @@ Report possible unlicensed moneylending activities to the Police hotline at 1800
 </td>  
   </tr>
 </table>
-### Click [here](/files/ML Lists/ML Listing as at 01_June_22.pdf){:target="_blank"} to view the complete list of licensed moneylenders in Singapore.
+### Click [here](/files/ML Lists/List of Licensed Moneylenders as at 01_July_22.pdf){:target="_blank"} to view the complete list of licensed moneylenders in Singapore.
 
   
 *Above document would require Adobe Reader. Haven't got Adobe Reader? [Download it here](http://get.adobe.com/reader/otherversions/){:target="_blank"}.*
