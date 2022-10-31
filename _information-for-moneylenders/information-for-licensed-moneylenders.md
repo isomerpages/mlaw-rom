@@ -19,7 +19,7 @@ There is a concurrent suspension on the processing of applications for additiona
 You may click [here](https://licence1.business.gov.sg) to access the Moneylender’s Test Booking System to register for a test slot. A non-refundable test fee of S$130* (inclusive of GST) is payable per attempt. 
 <br>
 
-****Please note that the Moneylender's Test fee will be revised to S$130.60 from 1 January 2023.***
+***Please note that the Moneylender's Test fee will be revised to S$130.60 from 1 January 2023.***
 <br>
 <br>
 
