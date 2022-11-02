@@ -16,10 +16,7 @@ There is a concurrent suspension on the processing of applications for additiona
 <br>
 
 **3. How do I register for the Moneylender’s Test? How much does the Moneylender’s Test cost?**<br>
-You may click [here](https://licence1.business.gov.sg) to access the Moneylender’s Test Booking System to register for a test slot. A non-refundable test fee of S$130* (inclusive of GST) is payable per attempt. 
-<br>
-
-**Please note that the Moneylender's Test fee will be revised to S$130.60 from 1 January 2023.*
+You may click [here](https://licence1.business.gov.sg) to access the Moneylender’s Test Booking System to register for a test slot. A non-refundable test fee of S$130 (inclusive of GST) is payable per attempt. 
 <br>
 <br>
 
@@ -28,10 +25,11 @@ Anyone may register for the Moneylender’s Test. However, do note that passing 
 <br>
 <br>
 
-**5. When and how would I know if I have passed the Moneylender’s Test?**<br>
-You may check your test results via [GoBusiness](https://licence1.business.gov.sg) after two weeks from the date of your test. 
-<br>   
+**5. When and how would I know if I have passed the Moneylender’s Test?**
+<br>You may check your test results via [GoBusiness](https://licence1.business.gov.sg) after two weeks from the date of your test. 
+<br> 
 <br>
+
 
 **6. How do I get appointed as a Test-Qualified Manager of an approved place of business of the licensee?**<br>
 To be appointed as a Test-Qualified Manager, the person must satisfy the following criteria:
