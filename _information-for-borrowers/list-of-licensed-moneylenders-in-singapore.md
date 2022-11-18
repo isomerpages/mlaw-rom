@@ -1,7 +1,7 @@
 ---
-title: List Of Licensed Moneylenders In Singapore
+title: List of Licensed Moneylenders in Singapore
 permalink: /information-for-borrowers/list-of-licensed-moneylenders-in-singapore/
-breadcrumb: List Of Licensed Moneylenders In Singapore
+breadcrumb: List of Licensed Moneylenders in Singapore
 ---
 List of Licensed Moneylenders in Singapore
 ---
@@ -27,7 +27,7 @@ Report possible unlicensed moneylending activities to the Police hotline at 1800
 </td>  
   </tr>
 </table>
-### Click [here](/files/ML Lists/2022/ML List as at 1 Nov 2022.pdf){:target="_blank"} to view the complete list of licensed moneylenders in Singapore.
+### Click [here](/files/ML Lists/2022/ML List as at 1 Nov 2022 (Revised).pdf){:target="_blank"} to view the complete list of licensed moneylenders in Singapore.
 
   
 *Above document would require Adobe Reader. Haven't got Adobe Reader? [Download it here](http://get.adobe.com/reader/otherversions/){:target="_blank"}.*
