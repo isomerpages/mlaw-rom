@@ -6,4 +6,4 @@ description: ""
 List of Exempt Moneylenders in Singapore
 ---
 Click [here](/files/
-COE Holder Lists/2023 List of COE Holders/List of COE Holders as at 1 Jan 2023.pdf){:target="_blank"} to view the complete list of exempt moneylenders in Singapore.
+COE Holder Lists/2023 List of COE Holders/List of COE Holders as at 1 Feb 2023.pdf){:target="_blank"} to view the complete list of exempt moneylenders in Singapore.
