@@ -1,7 +1,7 @@
 ---
-title: Forms
-permalink: /information-for-moneylenders/forms/
-breadcrumb: Forms
+title: Forms & Templates
+permalink: /information-for-moneylenders/forms-&-templates/
+breadcrumb: Forms & Templates
 ---
 Forms & Templates
 ---
