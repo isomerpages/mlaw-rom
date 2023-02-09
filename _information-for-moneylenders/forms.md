@@ -6,7 +6,7 @@ breadcrumb: Forms
 Forms & Templates
 ---
 **Sample of a security deposit for the conduct of the moneylending business**<br>
-[Sample of a Banker's Guarantee](/files/BG as at May 2022.pdf){:target="_blank"} 
+[Sample of a Banker's Guarantee](/files/BG & IG Format/BG Template as at Feb 2023.doc){:target="_blank"} 
 
 
 **Template for Moneylender's Statement of Quarterly Returns**<br>
