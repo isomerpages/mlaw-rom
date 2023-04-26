@@ -1,6 +1,6 @@
 ---
 title: List of Exempt Moneylenders
-permalink: /information-for-borrowers/List of Exempt Moneylenders/
+permalink: /information-for-borrowers/list of exempt moneylenders/
 description: ""
 ---
 List of Exempt Moneylenders in Singapore
