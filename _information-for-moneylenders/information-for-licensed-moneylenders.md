@@ -118,7 +118,7 @@ Do note that the approval of all additional place(s) of business (including rene
 <br>
 <br>
 
-**9. How do I renew my moneylending licence?**<br>
+**9. How do I terminate my moneylending licence?**<br>
 You may submit your application [here](https://licence1.business.gov.sg) to terminate your moneylending licence. 
 <br>
 <br>
@@ -152,7 +152,7 @@ Any person may apply under section 91(1) of the Moneylenders Act to exempt his b
 Depending on the business activity exempted, the fees may range from $1,000 to $4,000 per year. The exemption is valid for a period up to a maximum of 3 years.
 
 <table>
-  <tr>
+  <tbody><tr>
     <th>Class</th>
     <th>Class of Exemption</th>
     <th>Annual fee</th> 
@@ -172,7 +172,7 @@ Depending on the business activity exempted, the fees may range from $1,000 to $
     <td>Where the person exempted carries on the business of moneylending to persons referred to in paragraphs (i) and (ii).</td>
     <td>$4,000</td>
   </tr>
-</table>
+</tbody></table>
 <br>
 <br>
 

@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Fellowships and SkillsFuture Employer Awards 2022
-permalink: /information-for-moneylenders/SkillsFuture-Fellowships-and-SkillsFuture-Employer-Awards-2022/
+permalink: /information-for-moneylenders/skillsfuture-fellowships-and-skillsfuture-employer-awards-2022/
 breadcrumb: 'SkillsFuture Fellowships and SkillsFuture Employer Awards 2022'
 
 ---
