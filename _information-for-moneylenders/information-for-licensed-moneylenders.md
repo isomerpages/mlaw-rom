@@ -187,4 +187,4 @@ You may wish to refer to section 2 of the Moneylenders Act, which sets out the d
 <br>
 
 **14. How do I make payment when I receive the Notice of Offer of Composition?**<br>
-Payment can be made using the Self-Automated Machines (S.A.M). Please refer to the [user guide](/files/page1.pdf).
+Payment can be made via our [E-Services](https://eservices.mlaw.gov.sg/rom/) portal.
