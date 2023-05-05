@@ -187,4 +187,4 @@ You may wish to refer to section 2 of the Moneylenders Act, which sets out the d
 <br>
 
 **14. How do I make payment when I receive the Notice of Offer of Composition?**<br>
-Payment can be made via our [E-Services](https://eservices.mlaw.gov.sg/rom/) portal.
+Payment for the Notice of Offer of Composition can be made via our [E-Services](https://eservices.mlaw.gov.sg/rom/) portal.
