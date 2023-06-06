@@ -16,4 +16,5 @@ Forms & Templates
 [Form 1 - Note of Contract (Rule 10 of the MLR)](/files/Form1-NoteofContract(Rule10oftheMLR).pdf){:target="_blank"} <br>
 [Form 2 - Statement of Accounts (Rules 13 of the MLR)](/files/Form2-StatementofAccounts(Rule13oftheMLR).xlsx){:target="_blank"} <br>
 [Form 3 - Cash Account Book (Rule 15 of the MLR)](/files/Form3-CashAccountBook(Rule15oftheMLR).docx){:target="_blank"} <br>
-[Form 4 - Loan Account Book (Rule 16 of the MLR)](/files/Form4-LoanAccountBook(Rule16oftheMLR).docx){:target="_blank"}
+[Form 4 - Loan Account Book (Rule 16 of the MLR)](/files/Form4-LoanAccountBook(Rule16oftheMLR).docx){:target="_blank"} <br>
+[Form A - Debt Consolidation Scheme Assessment by Social Service Agency](/files/FORM A.docx){:target="_blank"}
