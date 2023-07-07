@@ -17,6 +17,8 @@ There is a concurrent suspension on the processing of applications for additiona
 
 **3. How do I register for the Moneylender’s Test? How much does the Moneylender’s Test cost?**<br>
 You may click [here](https://licence1.business.gov.sg) to access the Moneylender’s Test Booking System to register for a test slot. A non-refundable test fee of S$130 (inclusive of GST) is payable per attempt. 
+
+The Moneylender’s Test is an open book format which includes 30 multiple choice questions which will be based on the content from the [Moneylenders Act 2008, Moneylenders Rules 2009 and Moneylenders (Prevention of Money Laundering and Financing of Terrorism 2009)](https://rom.mlaw.gov.sg/information-for-moneylenders/relevant-laws-and-regulations/).
 <br>
 <br>
 
