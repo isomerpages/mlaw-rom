@@ -2,11 +2,12 @@
 title: Information for Licensed Moneylenders
 permalink: /information-for-moneylenders/
 breadcrumb: Information for Licensed Moneylenders
+variant: markdown
 ---
 Information for Licensed Moneylenders
 ---
 **1. How do I apply for a moneylending licence?**<br>
-The Registry of Moneylenders has temporarily suspended the grant of any new moneylending licences. 
+The Registry of Moneylenders ("**the Registry**") has temporarily suspended the grant of any new moneylending licences. 
 <br>
 <br>
 
@@ -42,7 +43,7 @@ To be appointed as a Test-Qualified Manager, the person must satisfy the followi
 
    (c) Fit and proper, and of good character 
 
-Please note that the licensee must submit an application to us via GoBusiness to appoint the person as a Test-Qualified Manager. 
+Please note that the licensee must submit an application to the Registry via GoBusiness to appoint the person as a Test-Qualified Manager. 
 <br>
 <br>
 
@@ -97,7 +98,7 @@ Please [submit](https://licence1.business.gov.sg) an online application for the 
 
    (xi) Whether the transferee is related or have any connections with any persons (e.g. acquaintances/friends/family members/associates etc.) who has ever been involved in the business of moneylending or debt collecting or has ever applied for a moneylending licence (if yes, state the person’s name, the business name, relationship etc.)
 
-7.4 Do note that for all the above updates, the licensee must first [submit](https://licence1.business.gov.sg) the online application and obtain approval from the Registry of Moneylenders before it could proceed with the update/changes. After the licensee has received the approval from the Registry of Moneylenders, it may then update this information with ACRA. 
+7.4 Do note that for all the above updates, the licensee must first [submit](https://licence1.business.gov.sg) the online application and obtain approval from the Registry before it could proceed with the update/changes. After the licensee has received the approval from the Registry, it may then update this information with ACRA. 
 <br>
 <br>
 
@@ -126,7 +127,7 @@ You may submit your application [here](https://licence1.business.gov.sg) to term
 <br>
 
 **10. How do I apply for a certificate of exemption from the Moneylenders Act?**<br>
-Any person may apply under section 91(1) of the Moneylenders Act to exempt his business from all or any of the provisions of the same Act. You may submit an application to       us with the following information ready:
+Any person may apply under section 91(1) of the Moneylenders Act to exempt his business from all or any of the provisions of the same Act. You may submit an application to       the Registry with the following information ready:
 
    (a) A write-up containing:
    
@@ -179,7 +180,7 @@ Depending on the business activity exempted, the fees may range from $1,000 to $
 <br>
 
 **12. How do I extend the validity period of my certificate of exemption?**<br>
-To extend your validity period of the certificate of exemption, you are required to [submit](https://licence1.business.gov.sg) an application to the Registry of Moneylenders at least one month before the expiry of your existing certificate of exemption. 
+To extend your validity period of the certificate of exemption, you are required to [submit](https://licence1.business.gov.sg) an application to the Registry at least one month before the expiry of your existing certificate of exemption. 
 <br>
 <br>
 
