@@ -1,12 +1,10 @@
 ---
-title: 'Anti-Money Laundering And Countering The Financing Of Terrorism (AML/CFT)'
+title: Anti-Money Laundering And Countering The Financing Of Terrorism (AML/CFT)
 permalink: /information-for-moneylenders/anti-money-laundering-and-countering-the-financing-of-terrorism/
-breadcrumb: 'Anti-Money Laundering And Countering The Financing Of Terrorism'
-
+breadcrumb: Anti-Money Laundering And Countering The Financing Of Terrorism
+variant: markdown
 ---
-
-
-Anti-Money Laundering and Countering the Financing of Terrorism
+Anti-Money Laundering, Countering Financing of Terrorism and Countering Financing of Proliferation of Weapons of Mass Destruction Controls
 ---
 **i. Monetary Authority of Singapore’s (“MAS”) website– Lists of Designated Persons**<br>
     To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx){:target="_blank"}
