@@ -15,7 +15,7 @@ Relevant Laws and Regulations
 * [Moneylenders (Prevention of Money Laundering and Financing of Terrorism Rules 2009)](https://sso.agc.gov.sg/SL/MA2008-S73-2009?DocDate=20150831){:target="_blank"}
 
 **3. Licence Conditions**<br>
-* [Licence Conditions](/files/Licence Conditions/Licence_Conditions_wef_19_February_2024.pdf) (215KB)
+* [Licence Conditions](/files/Licence Conditions/Licence_Conditions_wef_1_March_2024.pdf) (215KB)
 
 **4. Registrar's Directions**<br>
 * [No. 1 of 2019](/files/Registrar's Directions/Registrar's-Directions-1-of-2019.pdf){:target="_blank"} (360KB)
