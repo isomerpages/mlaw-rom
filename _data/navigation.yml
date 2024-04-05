@@ -1,6 +1,6 @@
 logo: /images/mlaw-logo.png
 links:
-  - title: 'About Us'
+  - title: About Us
     url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
     sublinks:
       - title: Our Vision, Mission and Core Values
@@ -15,11 +15,11 @@ links:
         url: https://www.mlaw.gov.sg/about-us/what-we-do/
       - title: Contact Us
         url: https://www.mlaw.gov.sg/about-us/contact-us/
-  - title: 'Info For Moneylenders'
+  - title: Info For Moneylenders
     collection: information-for-moneylenders
-  - title: 'Info For Borrowers'
+  - title: Info For Borrowers
     collection: information-for-borrowers
   - title: e-Services
-    url: 'https://eservices.mlaw.gov.sg/rom/'
+    url: https://eservices.mlaw.gov.sg/rom/
   - title: News
     url: https://www.mlaw.gov.sg/news/
