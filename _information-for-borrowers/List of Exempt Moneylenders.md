@@ -6,4 +6,4 @@ variant: markdown
 ---
 List of Exempt Moneylenders in Singapore
 ---
-Click [here](/files/Exempt Moneylenders Lists/2024/List_of_Exempt_Moneylenders_as_at_1_Mar_2024.pdf){:target="_blank"} to view the complete list of exempt moneylenders in Singapore.
+Click [here](/files/Exempt Moneylenders Lists/2024/List_of_Exempt_Moneylenders_as_at_1_Apr_2024.pdf){:target="_blank"} to view the complete list of exempt moneylenders in Singapore.
