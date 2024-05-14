@@ -28,4 +28,7 @@ Relevant Laws and Regulations
 * [Directions of the Registrar under Section 45(1) read with section 45(2)(c) of the Moneylenders Act 2008 Regarding the granting of loans relating to the purchase or hiring of motor vehicles](/files/Registrar's Directions/Registrar_s_Direction_on_Motor_Vehicle_Loans_wef_6_Nov_2023.pdf)
 
 **5. Professional Service Handbook**<br>
-* [Professional Service Handbook](/files/PSH/the professional service handbook for licensed moneylenders v25 updated 27 nov 2023.pdf)
+* [Professional Service Handbook](/files/PSH/The_Professional_Service_Handbook_for_licensed_moneylenders_V2_5__dated_14_May_2024_.pdf)
+
+
+
