@@ -1,11 +1,9 @@
 ---
-title: 'FAQs on Borrowing From Licensed Moneylenders'
+title: FAQs on Borrowing From Licensed Moneylenders
 permalink: /information-for-borrowers/guide-to-borrowing-from-licensed-moneylenders-english/
-breadcrumb: 'Guide To Borrowing From Licensed Moneylenders (English)'
-
+breadcrumb: Guide To Borrowing From Licensed Moneylenders (English)
+variant: markdown
 ---
-
-
 FAQs on Borrowing from Licensed Moneylenders
 ---
 
@@ -31,7 +29,7 @@ You should keep these key points in mind:
 For secured loans, you can obtain a loan of any amount. For unsecured loans, please refer to the table below for the total maximum amount that you may borrow at any time across all moneylenders in Singapore:
 
 <table>
-  <tr>
+  <tbody><tr>
    <th><b>Borrower’s annual income</b></th>
    <th><b>Singapore Citizens and Permanent Residents</b></th>
    <th><b>Foreigners residing in Singapore</b></th>
@@ -50,7 +48,7 @@ For secured loans, you can obtain a loan of any amount. For unsecured loans, ple
     <td>6 times monthly income</td>
     <td>6 times monthly income</td>
   </tr>
-</table>
+</tbody></table>
 
 
 
@@ -119,7 +117,7 @@ Under the advertising rules, which took effect on 1 November 2011, licensed mone
 
  
 
-In this regard, the advertising rules can help you differentiate between licensed and unlicensed moneylenders. If you receive flyers, SMSes, emails or other forms of advertisements which are not permitted under the rules, these would be from either licensed moneylenders operating in violation of the rules, or unlicensed moneylenders. Hence, you are advised not to respond to such advertisements. Instead, you should report the advertisements to the Registry at 1800-2255-529 or via our [website](https://www.mlaw.gov.sg/eservices/enquiry/). Errant licensed moneylenders will be investigated by the Registry and unlicensed moneylenders will be investigated by the Police.  
+In this regard, the advertising rules can help you differentiate between licensed and unlicensed moneylenders. If you receive flyers, SMSes, emails or other forms of advertisements which are not permitted under the rules, these would be from either licensed moneylenders operating in violation of the rules, or unlicensed moneylenders. Hence, you are advised not to respond to such advertisements. Instead, you should report the advertisements to the Registry at 1800-2255-529 (*airtime charges may apply to calls made from mobile phones to '1800' local toll-free numbers*) or via our [website](https://www.mlaw.gov.sg/eservices/enquiry/). Errant licensed moneylenders will be investigated by the Registry and unlicensed moneylenders will be investigated by the Police.  
 
 **7. Can I rely on the content of an advertisement to take up a loan from a moneylender?** <br>
 You are advised to seek clarifications on specific terms of the loan contract before signing up with a licensed moneylender, and not to rely solely on the content of advertisements from the moneylender.
@@ -149,7 +147,7 @@ You should ensure that:
 * You should retain all statement of accounts and receipts of payments, as documentation and evidence of payments. 
 
 **10. How do I lodge a complaint against a moneylender against unfair practices and/or contract?** <br>
-You can contact the Registry at telephone number: 1800-2255-529.
+You can contact the Registry at telephone number: 1800-2255-529 (*airtime charges may apply to calls made from mobile phones to '1800' local toll-free numbers*).
  
 Rest assured that the Registry will not disclose your details to the moneylender without your consent. To facilitate the Registry to investigate your complaint, you may need to attend an interview with our officers and provide us with all relevant information and documents related to your loan transactions and circumstances of your dealings with the moneylender. The Registry views complaints against moneylenders seriously and will investigate them thoroughly. Errant moneylenders will be taken to task.
  
@@ -187,3 +185,4 @@ Address:              (East) 11 Playfair Road Singapore, (West) Jurong Spring CC
 
 
 [Notes to Borrowers when obtaining loans from licensed moneylenders](/files/Notes to Borrowers wef 15 Aug 2019.pdf){:target="_blank"} (661KB)
+</b>
