@@ -24,7 +24,7 @@ In other instances, the perpetuators create bogus websites or social media accou
 <br> 
 Before visiting a licensed moneylender’s website, you are also strongly encouraged to verify the physical and website address using <b>only</b> the list of licensed moneylenders found below. <br>
 <br> 
-Report possible unlicensed moneylending activities to the Police hotline at 1800-255-0000 or submit the information online at www.police.gov.sg/iwitness. Members of the public may also call the National Crime Prevention Council’s X-Ah Long hotline at 1800-924-5664.
+Report possible unlicensed moneylending activities to the Police hotline at 1800-255-0000 (airtime charges may apply to calls made from mobile phones to '1800' local toll-free numbers) or submit the information online at www.police.gov.sg/iwitness. Members of the public may also call the National Crime Prevention Council’s X-Ah Long hotline at 1800-924-5664 (airtime charges may apply to calls made from mobile phones to '1800' local toll-free numbers).
 </td>  
   </tr>
 </tbody></table>
