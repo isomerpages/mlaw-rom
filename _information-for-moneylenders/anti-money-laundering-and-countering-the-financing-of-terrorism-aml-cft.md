@@ -29,3 +29,6 @@ The document is in PDF format, to view click [here](/files/1. TF NRA.pdf)
 
 **viii. National Strategy for Countering the Financing of Terrorism (NSCFT)**<br>
 The document is in PDF format, to view click [here](/files/1. TF NRA.pdf)
+
+**ix. National Asset Recovery Strategy (NARS)**<br>
+The document is in PDF format, to view click [here](/files/1. TF NRA.pdf)
