@@ -21,7 +21,7 @@ Anti-Money Laundering, Countering Financing of Terrorism and Countering Financin
 **v. Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)**<br>
    To view, please click [here](https://www.mas.gov.sg/publications/fatf-statement/2015/june-2015-fatf-statement){:target="_blank"} 
 
-**vi.Singapore National Risk Assessment Report 2024**<br>
+**vi. Money Laundering National Risk Assessment (ML NRA) Report 2024**<br>
 The document is in PDF format, to view click [here](/files/Money_Laundering_National_Risk_Assessment_2024.pdf) (988KB)
 
 **vii.The Terrorism Financing National Risk Assessment (TF NRA) 2020**<br>
