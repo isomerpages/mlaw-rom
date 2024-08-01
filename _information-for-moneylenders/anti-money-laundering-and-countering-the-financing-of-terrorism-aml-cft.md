@@ -9,8 +9,8 @@ Anti-Money Laundering, Countering Financing of Terrorism and Countering Financin
 **i. Monetary Authority of Singapore’s (“MAS”) website– Lists of Designated Persons**<br>
     To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx){:target="_blank"}
 
-**ii. Financial Action Task Force – October 2015 Public Statement: High-risk and Non-cooperative Jurisdictions**<br>
-    To view, please click [here](https://www.mas.gov.sg/publications/fatf-statement/2015/october-2015-fatf-statement){:target="_blank"}    
+**ii. Financial Action Task Force – June 2024 Statement: High-risk and Increased Monitoring Jurisdictions**<br>
+    To view, please click [here](https://www.mas.gov.sg/publications/fatf-statement/2024/june-2024-fatf-statement){:target="_blank"}    
 
 **iii. Notes for Moneylenders' Briefing on 16 October 2015**<br>
      The slides are in PDF format, to view click [here](/files/NotesAMLCFTROMbriefing16Oct20215.pdf){:target="_blank"} (211KB)
