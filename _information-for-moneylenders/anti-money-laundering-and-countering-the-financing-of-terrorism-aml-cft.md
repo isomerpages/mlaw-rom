@@ -25,7 +25,7 @@ Anti-Money Laundering, Countering Financing of Terrorism and Countering Financin
 The document is in PDF format, to view click [here](/files/AMLCFT Documents/Money_Laundering_National_Risk_Assessment_2024.pdf) (988KB)
 
 **vii. The Terrorism Financing National Risk Assessment (TF NRA) 2024**<br>
-The document is in PDF format, to view click [here](/files/AMLCFT Documents/Money_Laundering_National_Risk_Assessment_2024.pdf)
+The document is in PDF format, to view click [here](/files/AMLCFT Documents/TFNRA_2024.pdf)
 
 **viii. National Strategy for Countering the Financing of Terrorism (NSCFT)**<br>
 The document is in PDF format, to view click [here](/files/AMLCFT Documents/NSCFT_2024.pdf)
