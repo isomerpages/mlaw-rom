@@ -19,7 +19,7 @@ Anti-Money Laundering, Countering Financing of Terrorism and Countering Financin
     To access the guide, please click [here](/files/AMLCFT Documents/Info Guide 2020 for Moneylenders.pdf){:target="_blank"} (606KB)
 
 **v. Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)**<br>
-   To view, please click [here](files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf) (988KB)
+   To view, please click [here](/files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf)
 
 **vi. Money Laundering National Risk Assessment (ML NRA) Report 2024**<br>
 The document is in PDF format, to view click [here](/files/AMLCFT Documents/Money_Laundering_National_Risk_Assessment_2024.pdf) (988KB)
