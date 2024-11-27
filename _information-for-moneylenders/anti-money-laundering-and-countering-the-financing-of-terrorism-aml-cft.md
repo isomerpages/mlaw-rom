@@ -10,7 +10,7 @@ Anti-Money Laundering, Countering Financing of Terrorism and Countering Financin
     To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx){:target="_blank"}
 
 **ii. Financial Action Task Force – October 2024 Statement: High-risk and Increased Monitoring Jurisdictions**<br>
-    To view, please click [here](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-october-2024.html){:target="blank"} for the High Risk Jurisdictions and please click [here](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-october-2024.html)){:target="blank"} for the Jurisdictions under Increased Monitoring.    
+    To view, please click [here](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-october-2024.html){:target="blank"} for the High Risk Jurisdictions and please click [here](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-october-2024.html){:target="blank"} for the Jurisdictions under Increased Monitoring.    
 
 **iii. Notes for Moneylenders' Briefing on 16 October 2015**<br>
      The slides are in PDF format, to view click [here](/files/AMLCFT Documents/NotesAMLCFTROMbriefing16Oct20215.pdf){:target="_blank"} (211KB)
