@@ -2,6 +2,7 @@ collections:
   information-for-moneylenders:
     output: true
     order:
+      - Anti Money Laundering And Countering The Financing Of Terrorism.md
       - information-for-licensed-moneylenders.md
       - relevant-laws-and-regulations.md
       - Compliance.md
