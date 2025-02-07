@@ -82,6 +82,8 @@ width: 30%;
 | [Money Laundering/Terrorist Financing risks associated with gold (FATF)](https://www.f__atf-gafi.org/content/dam/fatf-gafi/reports/ML-TF-risks-vulnerabilities-associated-with-gold.pdf){:target="_blank"} | Apr 2019 |
 | [40 Recommendations (FATF)](http://www.fa__tf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html){:target="_blank"} | Apr 2019 |
 | [Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones (FATF)](https://www.f__atf-gafi.org/en/publications/Fatfrecommendations/Fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html){:target="_blank"} | Apr 2019 | 
+| [Notes for Moneylenders’ Briefing on 16 October 2015](/files/AMLCFT Documents/NotesAMLCFTROMbriefing16Oct20215.pdf){:target="_blank"} | 
 | [Information Guide ("Guide") on The Prevention of Money Laundering and Countering the Financing of Terrorism for Moneylenders](/files/AMLCFT Documents/Info Guide 2020 for Moneylenders.pdf){:target="_blank"} | 
+
 
 #### <a id="Guidance Materials"></a>Guidance Materials
