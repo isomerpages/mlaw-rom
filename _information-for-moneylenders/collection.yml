@@ -4,8 +4,7 @@ collections:
     order:
       - information-for-licensed-moneylenders.md
       - relevant-laws-and-regulations.md
-      - Anti Money Laundering And Countering The Financing Of Terrorism
-        (AML|CFT).md
+      - Compliance (AML | CFT | CPF).md
       - Compliance.md
       - aml-cft-newsletters.md
       - audit.md
