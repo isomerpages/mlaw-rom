@@ -84,6 +84,10 @@ width: 30%;
 | [Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones (FATF)](https://www.f__atf-gafi.org/en/publications/Fatfrecommendations/Fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html){:target="_blank"} | Apr 2019 | 
 | [Notes for Moneylenders’ Briefing on 16 October 2015](/files/AMLCFT Documents/NotesAMLCFTROMbriefing16Oct20215.pdf){:target="_blank"} | 
 | [Information Guide ("Guide") on The Prevention of Money Laundering and Countering the Financing of Terrorism for Moneylenders](/files/AMLCFT Documents/Info Guide 2020 for Moneylenders.pdf){:target="_blank"} | 
+| [AML/CFT Newsletters - Issue 1 of 2020](/files/amlcft-newsletters/AMLCFT Newsletter Issue 1 of 2020.pdf){:target="_blank"} | 
+| [AML/CFT Newsletters - Issue 1 of 2021](/files/amlcft-newsletters/(LML) AMLCFT Newsletter 1 of 2021.pdf){:target="_blank"} | 
+| [AML/CFT Newsletters - Issue 2 of 2021](/files/amlcft-newsletters/(LML) AMLCFT Newsletter 2 of 2021.pdf){:target="_blank"} | 
+| [AML/CFT Newsletters - Issue 1 of 2022](/files/amlcft-newsletters/2022 AMLCFT Newsletter Issue 1.pdf){:target="_blank"} | 
 
 
 #### <a id="Guidance Materials"></a>Guidance Materials
