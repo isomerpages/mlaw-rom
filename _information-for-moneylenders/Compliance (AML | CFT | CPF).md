@@ -52,27 +52,27 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
-| [Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements](/files/Money_Laundering_and_Terrorism_Financing_Risk_Assessment_of_Legal_Arrangements.pdf){:target="_blank"} | Nov 2024 |
-| [Money Laundering and Terrorism Financing Risk Assessment of Legal Persons](/files/Money_Laundering_and_Terrorism_Financing_Risk_Assessment_of_Legal_Persons.pdf){:target="_blank"} | Nov 2024 |
-| [Proliferation Financing (PF) National Risk Assessment and Counter-PF Strategy](/files/Proliferation_Financing_National_Risk_Assessment_and_Counter_PF_Strategy.pdf){:target="_blank"} | Nov 2024 |
-| [Singapore's Law Enforcement Strategy to Combat Money Laundering](/files/Singapore_Law_Enforcement_Strategy_to_Combat_Money_Laundering.pdf){:target="_blank"} | Nov 2024 |
-| [Singapore National Anti-Money Laundering Strategy](/files/Singapore_National_Anti_Money_Laundering_Strategy.pdf){:target="_blank"} | Nov 2024 |
-| [Virtual Assets Risk Assessment](/files/Virtual_Assets_Risk_Assessment.pdf){:target="_blank"} | Nov 2024 |
+| [Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements](https://acd.mlaw.gov.sg/files/Money_Laundering_and_Terrorism_Financing_Risk_Assessment_of_Legal_Arrangements.pdf){:target="_blank"} | Nov 2024 |
+| [Money Laundering and Terrorism Financing Risk Assessment of Legal Persons](https://acd.mlaw.gov.sg/files/Money_Laundering_and_Terrorism_Financing_Risk_Assessment_of_Legal_Persons.pdf){:target="_blank"} | Nov 2024 |
+| [Proliferation Financing (PF) National Risk Assessment and Counter-PF Strategy](https://acd.mlaw.gov.sg/files/Proliferation_Financing_National_Risk_Assessment_and_Counter_PF_Strategy.pdf){:target="_blank"} | Nov 2024 |
+| [Singapore's Law Enforcement Strategy to Combat Money Laundering](https://acd.mlaw.gov.sg/files/Singapore_Law_Enforcement_Strategy_to_Combat_Money_Laundering.pdf){:target="_blank"} | Nov 2024 |
+| [Singapore National Anti-Money Laundering Strategy](https://acd.mlaw.gov.sg/files/Singapore_National_Anti_Money_Laundering_Strategy.pdf){:target="_blank"} | Nov 2024 |
+| [Virtual Assets Risk Assessment](https://acd.mlaw.gov.sg/files/Virtual_Assets_Risk_Assessment.pdf){:target="_blank"} | Nov 2024 |
 | [High-risk and other monitored jurisdictions (FATF)](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html){:target="_blank"} | Oct 2024 |
 | [Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT (FATF)](https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fatf-methodology.html){:target="_blank"} | Oct 2024 |
-| [MinLaw Industry Compliance and Engagement 2024 (MICE 2024)](/files/MICE_2024.pdf){:target="_blank"} | Aug 2024 |
-| [National Strategy for Countering the Financing of Terrorism](/files/National_Strategy_for_Countering_the_Financing_of_Terrorism_2024.pdf){:target="_blank"} | Jul 2024 |
+| [MinLaw Industry Compliance and Engagement 2024 (MICE 2024)](https://acd.mlaw.gov.sg/files/MICE_2024.pdf){:target="_blank"} | Aug 2024 |
+| [National Strategy for Countering the Financing of Terrorism](https://acd.mlaw.gov.sg/files/National_Strategy_for_Countering_the_Financing_of_Terrorism_2024.pdf){:target="_blank"} | Jul 2024 |
 | [Terrorism Financing National Risk Assessment](https://acd.mlaw.gov.sg/files/Terrorism_Financing_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jul 2024 |
-| [National Asset Recovery Strategy](/files/National_Asset_Recovery_Strategy_2024.pdf){:target="_blank"} | Jun 2024 |
-| [Money Laundering National Risk Assessment](/files/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jun 2024 |
-| [Environmental Crimes Money Laundering National Risk Assessment](/files/Env_Crimes_ML_NRA___Final.pdf){:target="_blank"} | Jun 2024 |
+| [National Asset Recovery Strategy](https://acd.mlaw.gov.sg/files/National_Asset_Recovery_Strategy_2024.pdf){:target="_blank"} | Jun 2024 |
+| [Money Laundering National Risk Assessment](https://acd.mlaw.gov.sg/files/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jun 2024 |
+| [Environmental Crimes Money Laundering National Risk Assessment](https://acd.mlaw.gov.sg/files/Env_Crimes_ML_NRA___Final.pdf){:target="_blank"} | Jun 2024 |
 | [GST Missing Trader Fraud Involving Precious Metals](https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes-iras/gst/gst-missing-trader-fraud-involving-precious-metals){:target="_blank"} | Oct 2023 |
-| [2023 Industry Engagement Session](/files/2023%20industry%20engagement%20session_20230510.pdf){:target="_blank"} | Jul 2023 |
-| [National Strategy for Countering the Financing of Terrorism (CFT)](/files/National%20Strategy%20for%20Countering%20the%20Financing%20of%20Terrorism.pdf){:target="_blank"} | Oct 2022 |
+| [2023 Industry Engagement Session](https://acd.mlaw.gov.sg/files/2023 industry engagement session_20230510.pdf){:target="_blank"} | Jul 2023 |
+| [National Strategy for Countering the Financing of Terrorism (CFT)](https://acd.mlaw.gov.sg/files/National Strategy for Countering the Financing of Terrorism.pdf){:target="_blank"} | Oct 2022 |
 | [Singapore Terrorism Threat Assessment Report 2022](https://www.mha.gov.sg/docs/default-source/default-document-library/singapore-terrorism-threat-assessment-report-2022.pdf){:target="_blank"} | Aug 2022 |
 | [Money Laundering from Environmental Crime](https://www.fatf-gafi.org/media/fatf/documents/reports/Money-Laundering-from-Environmental-Crime.pdf){:target="_blank"} | Jul 2021 |
 | [Guidance on Proliferation Financing Risk Assessment and Mitigation](https://www.fatf-gafi.org/media/fatf/documents/reports/Guidance-Proliferation-Financing-Risk-Assessment-Mitigation.pdf){:target="_blank"} | Jun 2021 |
-| [Terrorism Financing National Risk  Assessment 2020](/images/Terrorism%20Financing%20National%20Risk%20Assessment%202020.pdf){:target="_blank"} | Jan 2021 |
+| [Terrorism Financing National Risk  Assessment 2020](https://acd.mlaw.gov.sg/images/Terrorism Financing National Risk Assessment 2020.pdf){:target="_blank"} | Jan 2021 |
 | [Trade-Based Money Laundering - Trends and Developments](http://www.fatf-gafi.org/media/fatf/content/Trade-Based-Money-Laundering-Trends-and-Developments.pdf){:target="_blank"} | Dec 2020 |
 | [Trade-Based Money Laundering - Private Sector](http://www.fatf-gafi.org/media/fatf/documents/Handout-Trade-Based-Money-Laundering-Private-Sector.pdf){:target="_blank"} | Dec 2020 |
 | [COVID-19-related Money Laundering and Terrorist Financing Risks and Policy Responses (FATF)](https://www.fatf-gafi.org/media/fatf/documents/COVID-19-AML-CFT.pdf){:target="_blank"} | May 2020 |
