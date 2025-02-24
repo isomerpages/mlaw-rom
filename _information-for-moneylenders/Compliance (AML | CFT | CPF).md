@@ -13,9 +13,11 @@ Compliance
 
 #### <a id="Guidelines for Licensed Moneylenders"></a>Guidelines for Licensed Moneylenders
 
-To access the guide, please click [here](/files/AMLCFT Documents/Info Guide 2020 for Moneylenders.pdf){:target="_blank"} (606KB)
+To access the guide, please click [here](/files/AMLCFT Documents/Info Guide 2020 for Moneylenders.pdf){:target="_blank"}
 
 #### <a id="Red Flag Indicators"></a>Red Flag Indicators
+
+Click [here](/files/list of red flag indicators.pdf){:target="blank"} to find the list of red flag indicators.
 
 #### <a id="AML/CFT/CPF Resources"></a>AML/CFT/CPF Resources
 
