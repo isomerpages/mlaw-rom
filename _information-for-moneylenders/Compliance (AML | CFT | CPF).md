@@ -77,7 +77,7 @@ width: 30%;
 | [Trade-Based Money Laundering - Private Sector](http://www.fatf-gafi.org/media/fatf/documents/Handout-Trade-Based-Money-Laundering-Private-Sector.pdf){:target="_blank"} | Dec 2020 |
 | [COVID-19-related Money Laundering and Terrorist Financing Risks and Policy Responses (FATF)](https://www.fatf-gafi.org/media/fatf/documents/COVID-19-AML-CFT.pdf){:target="_blank"} | May 2020 |
 | [COVID-19 and measures to combat illicit financing (FATF)](https://www.fatf-gafi.org/publications/fatfgeneral/documents/statement-covid-19.html){:target="_blank"} | Apr 2020 |
-| [Singapore National Risk Assessment Report 2013](/images/Singapore%20NRA%20Report%202013_24032015.pdf){:target="_blank"} | Apr 2019 |
+| [Singapore National Risk Assessment Report 2013](https://acd.mlaw.gov.sg/images/Singapore%20NRA%20Report%202013_24032015.pdf){:target="_blank"} | Apr 2019 |
 | [Money Laundering/Terrorist Financing through trade in diamonds (FATF)](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-through-trade-in-diamonds.pdf){:target="_blank"} | Apr 2019 |
 | [Money Laundering/Terrorist Financing risks associated with gold (FATF)](https://www.fatf-gafi.org/content/dam/fatf-gafi/reports/ML-TF-risks-vulnerabilities-associated-with-gold.pdf){:target="_blank"} | Apr 2019 |
 | [40 Recommendations (FATF)](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html){:target="_blank"} | Apr 2019 |
