@@ -23,17 +23,17 @@ Click [here](/files/list of red flag indicators.pdf){:target="blank"} to find th
 
 **1. Monetary Authority of Singapore's ("MAS") website - Lists of Designated Individuals and Entities**
 
-MAS publishes <a target="_blank" href="http_s://www._mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities">lists</a> of individuals and entities designated under the United Nations Act ("**UN Act**") and the Terrorism (Suppression of Financing) Act ("**TSOFA**"). Regulated dealers should <a target="_blank" href="http_s://www._mas.gov.sg/subscription-services">subscribe</a> to the MAS mailing list to receive updated lists of designated individuals and entities. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
-You may refer to the <a target="_blank" href="/images/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf">MAS Website Subscriber Services Guide</a> for a step-by-step guide to the subscription process.<br><br>&nbsp;
-The screening function in <a target="_blank" href="htt_ps://go.gov.sg/mypal"><i>my</i>Pal</a> allows regulated dealers to conduct screening on the lists of designated individuals and entities. Please refer to the <a target="_blank" href="/files/Screening%20Module%20Instruction%20Guide_20220901.pdf">instruction guide</a> (Published Date: Aug 2022) and <a target="_blank" href="htt_ps://www_.youtube.com/watch?v=i6at7WyPxRs">guidance video</a> for a step-by-step walkthrough (with screenshots) on how to use the screening function.&nbsp; 
+MAS publishes <a target="_blank" href="https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities">lists</a> of individuals and entities designated under the United Nations Act ("**UN Act**") and the Terrorism (Suppression of Financing) Act ("**TSOFA**"). Regulated dealers should <a target="_blank" href="https://www.mas.gov.sg/subscription-services">subscribe</a> to the MAS mailing list to receive updated lists of designated individuals and entities. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
+You may refer to the <a target="_blank" href="www.acd.gov.sg/images/MAS Website Subscriber Services Guide_20191105_V1Final.pdf">MAS Website Subscriber Services Guide</a> for a step-by-step guide to the subscription process.<br><br>&nbsp;
+The screening function in <a target="_blank" href="https://go.gov.sg/mypal"><i>my</i>Pal</a> allows regulated dealers to conduct screening on the lists of designated individuals and entities. Please refer to the <a target="_blank" href="www.acd/gov.sg/files/Screening Module Instruction Guide_20220901.pdf">instruction guide</a> (Published Date: Aug 2022) and <a target="_blank" href="https://www.youtube.com/watch?v=i6at7WyPxRs">guidance video</a> for a step-by-step walkthrough (with screenshots) on how to use the screening function.&nbsp; 
 
 **2. Inter-Ministry Committee on Terrorist Designation ("IMC-TD")**
 
 The IMC-TD acts as Singapore's authority relating to the designation of terrorists. This prohibits any person/ entity from dealing with or providing any financial assistance to designated subjects, as required under the TSOFA.
 
-On MHA’s website on <a target="_blank" href="h_ttps://w_ww.mha.gov.sg/what-we-do/managing-security-threats/countering-the-financing-of-terrorism">IMC-TD</a>, you will find information on counter terrorism financing legislation, IMC-TD’s process of designation, and relevant news articles.
+On MHA’s website on <a target="_blank" href="https://www.mha.gov.sg/what-we-do/managing-security-threats/countering-the-financing-of-terrorism">IMC-TD</a>, you will find information on counter terrorism financing legislation, IMC-TD’s process of designation, and relevant news articles.
 
-To find out more about your obligations as a regulated dealer on countering terrorism financing, please click <a target="_blank" href="/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf">here</a>. 
+To find out more about your obligations as a regulated dealer on countering terrorism financing, please click <a target="_blank" href="www.acd.gov.sg/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf">here</a>. 
 
 **3. AML/CFT/CPF Resources**
 
