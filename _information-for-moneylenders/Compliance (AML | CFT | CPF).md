@@ -80,7 +80,7 @@ width: 30%;
 | [Singapore National Risk Assessment Report 2013](/images/Singapore%20NRA%20Report%202013_24032015.pdf){:target="_blank"} | Apr 2019 |
 | [Money Laundering/Terrorist Financing through trade in diamonds (FATF)](https://www.f__atf-gafi.org/media/fatf/documents/reports/ML-TF-through-trade-in-diamonds.pdf){:target="_blank"} | Apr 2019 |
 | [Money Laundering/Terrorist Financing risks associated with gold (FATF)](https://www.f__atf-gafi.org/content/dam/fatf-gafi/reports/ML-TF-risks-vulnerabilities-associated-with-gold.pdf){:target="_blank"} | Apr 2019 |
-| [40 Recommendations (FATF)](http://www.fa__tf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html){:target="_blank"} | Apr 2019 |
+| [40 Recommendations (FATF)](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html){:target="_blank"} | Apr 2019 |
 | [Notes for Moneylenders’ Briefing on 16 October 2015](/files/AMLCFT Documents/NotesAMLCFTROMbriefing16Oct20215.pdf){:target="_blank"} | 
 | [AML/CFT Newsletters - Issue 1 of 2020](/files/amlcft-newsletters/AMLCFT Newsletter Issue 1 of 2020.pdf){:target="_blank"} | 
 | [AML/CFT Newsletters - Issue 1 of 2021](/files/amlcft-newsletters/(LML) AMLCFT Newsletter 1 of 2021.pdf){:target="_blank"} | 
