@@ -57,11 +57,6 @@ width: 30%;
 | [High-risk and other monitored jurisdictions (FATF)](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html){:target="_blank"} | Oct 2024 |
 | [Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT (FATF)](https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fatf-methodology.html){:target="_blank"} | Oct 2024 |
 | [MinLaw Industry Compliance and Engagement 2024 (MICE 2024)](https://acd.mlaw.gov.sg/files/MICE_2024.pdf){:target="_blank"} | Aug 2024 |
-| [National Strategy for Countering the Financing of Terrorism](https://acd.mlaw.gov.sg/files/National_Strategy_for_Countering_the_Financing_of_Terrorism_2024.pdf){:target="_blank"} | Jul 2024 |
-| [Terrorism Financing National Risk Assessment](https://acd.mlaw.gov.sg/files/Terrorism_Financing_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jul 2024 |
-| [National Asset Recovery Strategy](https://acd.mlaw.gov.sg/files/National_Asset_Recovery_Strategy_2024.pdf){:target="_blank"} | Jun 2024 |
-| [Money Laundering National Risk Assessment](https://acd.mlaw.gov.sg/files/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jun 2024 |
-| [Environmental Crimes Money Laundering National Risk Assessment](https://acd.mlaw.gov.sg/files/Env_Crimes_ML_NRA___Final.pdf){:target="_blank"} | Jun 2024 |
 | [GST Missing Trader Fraud Involving Precious Metals](https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes-iras/gst/gst-missing-trader-fraud-involving-precious-metals){:target="_blank"} | Oct 2023 |
 | [2023 Industry Engagement Session](https://acd.mlaw.gov.sg/files/2023 industry engagement session_20230510.pdf){:target="_blank"} | Jul 2023 |
 | [National Strategy for Countering the Financing of Terrorism (CFT)](https://acd.mlaw.gov.sg/files/National Strategy for Countering the Financing of Terrorism.pdf){:target="_blank"} | Oct 2022 |
