@@ -17,7 +17,7 @@ To access the guide, please click [here](/files/AMLCFT Documents/Info Guide 2020
 
 #### <a id="Red Flag Indicators"></a>Red Flag Indicators
 
-Click [here](/files/list of red flag indicators.pdf){:target="blank"} to find the list of red flag indicators.
+Click [here](/files/list of red flag indicators.pdf){:target="blank"} to view the list of red flag indicators.
 
 #### <a id="AML/CFT/CPF Resources"></a>AML/CFT/CPF Resources
 
