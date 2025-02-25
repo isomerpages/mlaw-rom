@@ -90,5 +90,25 @@ width: 30%;
 | [AML/CFT Newsletters - Issue 1 of 2022](/files/amlcft-newsletters/2022 AMLCFT Newsletter Issue 1.pdf){:target="_blank"} | 
 
 **4. ML/TF/PF/Virtual Assets National Risk Assessment**
+<style>
+table th:first-of-type {
+    width: 85%;
+}
+table th:nth-of-type(2) {
+    width: 36%;
+}
+table th:nth-of-type(3) {
+    width: 30%;
+}
+table th:nth-of-type(3) {
+width: 30%;
+}
+</style>
+
+| Document | Uploaded |
+| --- | --- |
+| [Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)](/files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf){:target="_blank"} | May 2024 |
+| [Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)](/files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf){:target="_blank"} | May 2024 |
+
 
 #### <a id="Guidance Materials"></a>Guidance Materials
