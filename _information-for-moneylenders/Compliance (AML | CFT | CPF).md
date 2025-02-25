@@ -59,16 +59,12 @@ width: 30%;
 | [MinLaw Industry Compliance and Engagement 2024 (MICE 2024)](https://acd.mlaw.gov.sg/files/MICE_2024.pdf){:target="_blank"} | Aug 2024 |
 | [GST Missing Trader Fraud Involving Precious Metals](https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes-iras/gst/gst-missing-trader-fraud-involving-precious-metals){:target="_blank"} | Oct 2023 |
 | [2023 Industry Engagement Session](https://acd.mlaw.gov.sg/files/2023 industry engagement session_20230510.pdf){:target="_blank"} | Jul 2023 |
-| [National Strategy for Countering the Financing of Terrorism (CFT)](https://acd.mlaw.gov.sg/files/National Strategy for Countering the Financing of Terrorism.pdf){:target="_blank"} | Oct 2022 |
-| [Singapore Terrorism Threat Assessment Report 2022](https://www.mha.gov.sg/docs/default-source/default-document-library/singapore-terrorism-threat-assessment-report-2022.pdf){:target="_blank"} | Aug 2022 |
 | [Money Laundering from Environmental Crime](https://www.fatf-gafi.org/media/fatf/documents/reports/Money-Laundering-from-Environmental-Crime.pdf){:target="_blank"} | Jul 2021 |
 | [Guidance on Proliferation Financing Risk Assessment and Mitigation](https://www.fatf-gafi.org/media/fatf/documents/reports/Guidance-Proliferation-Financing-Risk-Assessment-Mitigation.pdf){:target="_blank"} | Jun 2021 |
-| [Terrorism Financing National Risk  Assessment 2020](https://acd.mlaw.gov.sg/images/Terrorism Financing National Risk Assessment 2020.pdf){:target="_blank"} | Jan 2021 |
 | [Trade-Based Money Laundering - Trends and Developments](http://www.fatf-gafi.org/media/fatf/content/Trade-Based-Money-Laundering-Trends-and-Developments.pdf){:target="_blank"} | Dec 2020 |
 | [Trade-Based Money Laundering - Private Sector](http://www.fatf-gafi.org/media/fatf/documents/Handout-Trade-Based-Money-Laundering-Private-Sector.pdf){:target="_blank"} | Dec 2020 |
 | [COVID-19-related Money Laundering and Terrorist Financing Risks and Policy Responses (FATF)](https://www.fatf-gafi.org/media/fatf/documents/COVID-19-AML-CFT.pdf){:target="_blank"} | May 2020 |
 | [COVID-19 and measures to combat illicit financing (FATF)](https://www.fatf-gafi.org/publications/fatfgeneral/documents/statement-covid-19.html){:target="_blank"} | Apr 2020 |
-| [Singapore National Risk Assessment Report 2013](https://acd.mlaw.gov.sg/images/Singapore NRA Report 2013_24032015.pdf){:target="_blank"} | Apr 2019 |
 | [Money Laundering/Terrorist Financing through trade in diamonds (FATF)](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-through-trade-in-diamonds.pdf){:target="_blank"} | Apr 2019 |
 | [Money Laundering/Terrorist Financing risks associated with gold (FATF)](https://www.fatf-gafi.org/content/dam/fatf-gafi/reports/ML-TF-risks-vulnerabilities-associated-with-gold.pdf){:target="_blank"} | Apr 2019 |
 | [40 Recommendations (FATF)](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html){:target="_blank"} | Apr 2019 |
@@ -107,6 +103,9 @@ width: 30%;
 | [Singapore's Law Enforcement Strategy to Combat Money Laundering](/files/AMLCFT Documents/Singapore_Law_Enforcement_Strategy_to_Combat_ML.pdf){:target="_blank"} | Nov 2024 |
 | [Singapore National Anti-Money Laundering Strategy](/files/AMLCFT Documents/Singapore_National_AML_Strategy.pdf){:target="_blank"} | Nov 2024 |
 | [Virtual Assets Risk Assessment](/files/AMLCFT Documents/Virtual_Assets_RA.pdf){:target="_blank"} | Nov 2024 |
-
+| [National Strategy for Countering the Financing of Terrorism (CFT)](https://acd.mlaw.gov.sg/files/National Strategy for Countering the Financing of Terrorism.pdf){:target="_blank"} |  Oct 2022 |
+| [Singapore Terrorism Threat Assessment Report 2022](https://www.mha.gov.sg/docs/default-source/default-document-library/singapore-terrorism-threat-assessment-report-2022.pdf){:target="_blank"} | Aug 2022 |
+| [Terrorism Financing National Risk  Assessment 2020](https://acd.mlaw.gov.sg/images/Terrorism Financing National Risk Assessment 2020.pdf){:target="_blank"} | Jan 2021 |
+| [Singapore National Risk Assessment Report 2013](https://acd.mlaw.gov.sg/images/Singapore NRA Report 2013_24032015.pdf){:target="_blank"} | Apr 2019 |
 
 #### <a id="Guidance Materials"></a>Guidance Materials
