@@ -9,7 +9,7 @@ Compliance
 ---
   
 
-<a href="#Guidelines for Licensed Moneylenders">Guidelines for Licensed Moneylenders </a> | <a href="#Red Flag Indicators">Red Flag Indicators</a> |<a href="#AML/CFT/CPF Resources">AML/CFT/CPF Resources</a> | <a href="#Guidance Materials">Guidance Materials </a>
+<a href="#Guidelines for Licensed Moneylenders">Guidelines for Licensed Moneylenders </a> | <a href="#Red Flag Indicators">Red Flag Indicators</a> |<a href="#AML/CFT/CPF Resources">AML/CFT/CPF Resources</a>
 
 #### <a id="Guidelines for Licensed Moneylenders"></a>Guidelines for Licensed Moneylenders
 
@@ -106,5 +106,3 @@ width: 30%;
 | [Singapore Terrorism Threat Assessment Report 2022](https://www.mha.gov.sg/docs/default-source/default-document-library/singapore-terrorism-threat-assessment-report-2022.pdf){:target="_blank"} | Aug 2022 |
 | [Terrorism Financing National Risk  Assessment 2020](https://acd.mlaw.gov.sg/images/Terrorism Financing National Risk Assessment 2020.pdf){:target="_blank"} | Jan 2021 |
 | [Singapore National Risk Assessment Report 2013](https://acd.mlaw.gov.sg/images/Singapore NRA Report 2013_24032015.pdf){:target="_blank"} | Apr 2019 |
-
-#### <a id="Guidance Materials"></a>Guidance Materials
