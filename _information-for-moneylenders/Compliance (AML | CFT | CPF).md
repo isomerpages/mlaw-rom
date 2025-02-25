@@ -108,7 +108,16 @@ width: 30%;
 | Document | Uploaded |
 | --- | --- |
 | [Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)](/files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf){:target="_blank"} | May 2024 |
-| [Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)](/files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf){:target="_blank"} | May 2024 |
+| [Money Laundering National Risk Assessment (ML NRA) Report 2024)](/files/AMLCFT Documents/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jun 2024 |
+| [The Terrorism Financing National Risk Assessment (TF NRA) 2024)](/files/AMLCFT Documents/TFNRA_2024.pdf){:target="_blank"} | Jul 2024 |
+| [National Strategy for Countering the Financing of Terrorism (NSCFT)](/files/AMLCFT Documents/NSCFT_2024.pdf){:target="_blank"} | ?? 2024 |
+| [National Asset Recovery Strategy (NARS) 2024](https://www.mas.gov.sg/publications/monographs-or-information-paper/2024/national-asset-recovery-strategy){:target="_blank"} | ?? 2024 |
+| [Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements](/files/AMLCFT Documents/MLTF_RA_Legal_Arrangements.pdf){:target="_blank"} | ?? 2024 |
+| [Money Laundering and Terrorism Financing Risk Assessment of Legal Persons](/files/AMLCFT Documents/MLTF_RA_Legal_Persons.pdf){:target="_blank"} | ?? 2024 |
+| [Proliferation Financing (PF) National Risk Assessment and Counter-PF Strategy](/files/AMLCFT Documents/PF_NRA_Counter_PF_Strategy.pdf){:target="_blank"} | ?? 2024 |
+| [Singapore's Law Enforcement Strategy to Combat Money Laundering](/files/AMLCFT Documents/Singapore_Law_Enforcement_Strategy_to_Combat_ML.pdf){:target="_blank"} | ?? 2024 |
+| [Singapore National Anti-Money Laundering Strategy](/files/AMLCFT Documents/Singapore_National_AML_Strategy.pdf){:target="_blank"} | ?? 2024 |
+| [Virtual Assets Risk Assessment](/files/AMLCFT Documents/Virtual_Assets_RA.pdf){:target="_blank"} | ?? 2024 |
 
 
 #### <a id="Guidance Materials"></a>Guidance Materials
