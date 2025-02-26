@@ -56,7 +56,6 @@ width: 30%;
 | [High-risk and other monitored jurisdictions (FATF)](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html){:target="_blank"} | Oct 2024 |
 | [Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT (FATF)](https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fatf-methodology.html){:target="_blank"} | Oct 2024 |
 | [MinLaw Industry Compliance and Engagement 2024 (MICE 2024)](https://acd.mlaw.gov.sg/files/MICE_2024.pdf){:target="_blank"} | Aug 2024 |
-| [GST Missing Trader Fraud Involving Precious Metals](https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes-iras/gst/gst-missing-trader-fraud-involving-precious-metals){:target="_blank"} | Oct 2023 |
 | [2023 Industry Engagement Session](https://acd.mlaw.gov.sg/files/2023 industry engagement session_20230510.pdf){:target="_blank"} | Jul 2023 |
 | [Money Laundering from Environmental Crime](https://www.fatf-gafi.org/media/fatf/documents/reports/Money-Laundering-from-Environmental-Crime.pdf){:target="_blank"} | Jul 2021 |
 | [Guidance on Proliferation Financing Risk Assessment and Mitigation](https://www.fatf-gafi.org/media/fatf/documents/reports/Guidance-Proliferation-Financing-Risk-Assessment-Mitigation.pdf){:target="_blank"} | Jun 2021 |
