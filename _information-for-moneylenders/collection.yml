@@ -2,7 +2,6 @@ collections:
   information-for-moneylenders:
     output: true
     order:
-      - Compliance (AML | CFT |CPF).md
       - information-for-licensed-moneylenders.md
       - forms.md
       - moneylenders-credit-bureau.md
