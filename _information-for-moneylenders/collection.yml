@@ -3,9 +3,8 @@ collections:
     output: true
     order:
       - information-for-licensed-moneylenders.md
-      - relevant-laws-and-regulations.md
-      - anti-money-laundering-and-countering-the-financing-of-terrorism-aml-cft.md
-      - aml-cft-newsletters.md
-      - audit.md
       - forms.md
       - moneylenders-credit-bureau.md
+      - audit.md
+      - Compliance (AML | CFT | CPF).md
+      - relevant-laws-and-regulations.md
