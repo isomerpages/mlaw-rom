@@ -16,8 +16,8 @@ As these updates may affect your AML/CFT/CPF compliance obligations, we encourag
 
 In this connection, we seek to update you that the Financial Action Task Force has issued statements dated 21 February 2025 on “High-Risk Jurisdictions Subject to a Call for Action” and “Jurisdictions under Increased Monitoring”, which can be accessed at:
 
-•	[https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2025.html](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2025.html)<br>
-•	[https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-february-2025.html](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-february-2025.html)
+•	[https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2025.html](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2025.html) {:target="_blank"}<br>
+•	[https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-february-2025.html](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-february-2025.html) {:target="_blank"}
 
 Thank you.
 
