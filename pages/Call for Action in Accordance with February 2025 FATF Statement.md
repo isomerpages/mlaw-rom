@@ -8,7 +8,7 @@ description: ""
 
 Dear licensee,
  
-As a measure to combat money laundering, financing of terrorism and financing of proliferation of weapons of mass destruction, pawnbrokers in Singapore are required to comply with Part 5 (Prevention of Money Laundering, Terrorism Financing and Financing of Proliferation of Weapons of Mass Destruction) and the Third Schedule of the Pawnbrokers Act 2015. Pawnbrokers are also expected to familiarise themselves and comply with the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992 and Terrorism (Suppression of Financing) Act 2002.
+As a measure to combat money laundering, financing of terrorism and financing of proliferation of weapons of mass destruction, moneylenders in Singapore are required to comply with the Moneylenders Act 2008 and the Moneylenders (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Rules 2009.  Moneylenders are also expected to familiarise themselves and comply with the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992 and Terrorism (Suppression of Financing) Act 2002.
 
 In this regard, to ensure awareness and apprise licensees of their obligations as set out above, MinLaw will be writing periodically to notify you of relevant updates from the Financial Action Task Force and relevant Government agencies. 
 
