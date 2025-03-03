@@ -4,7 +4,7 @@ permalink: /february-2025-fatf-statement/
 variant: markdown
 description: ""
 ---
-<u>**Update on Anti-Money Laundering/Countering Terrorism Financing/ Counter Proliferation Financing (AML/CFT/CPF) matters**</u>
+**<u>Update on Anti-Money Laundering/Countering Terrorism Financing/ Counter Proliferation Financing (AML/CFT/CPF) matters</u>**
 
 Dear licensee,
  
@@ -21,5 +21,4 @@ In this connection, we seek to update you that the Financial Action Task Force h
 
 Thank you.
 
-IPTO
-Ministry of Law
+IPTO<br>Ministry of Law
