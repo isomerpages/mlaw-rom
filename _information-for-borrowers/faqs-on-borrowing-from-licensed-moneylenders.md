@@ -159,7 +159,7 @@ The Registry of Moneylenders is not in a position to assist you in negotiating w
 You may wish to approach any of the following social service agencies which help consumers recover from serious debt problems by providing general credit management information, credit counselling and where applicable, assistance in negotiating a debt repayment plan with creditors:
 
 * Adullam Life Counselling
-<br>Address: 151 Chin Swee Road #08-04 Manhattan House Singapore 169876
+<br>Address: 315 Outram Road #15-02 Tan Boon Liat Building Singapore 169074
 <br>Tel no.: 9423 8832 <br> E-mail: admin@adullam.org.sg
 
 * Association of Muslim Professionals (AMP) 
