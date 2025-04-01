@@ -54,7 +54,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Registrar's Directions/Advertising-&amp;-Marketing-Directions.pdf" rel="noopener nofollow" target="_blank">Advertising_and_Marketing_Directions</a>
+<p><a href="/files/Registrar's Directions/Advertising_Marketing_Directions_dated_1_Apr_2025.pdf" rel="noopener nofollow" target="_blank">Advertising_and_Marketing_Directions</a>
 </p>
 </li>
 <li>
