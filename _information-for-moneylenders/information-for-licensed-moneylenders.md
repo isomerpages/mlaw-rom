@@ -17,7 +17,7 @@ There is a concurrent suspension on the processing of applications for additiona
 <br>
 
 **3. How do I register for the Moneylender’s Test? How much does the Moneylender’s Test cost?**<br>
-You may click [here](https://licence1.business.gov.sg) to access the Moneylender’s Test Booking System to register for a test slot. A non-refundable test fee of S$130 (inclusive of GST) is payable per attempt. 
+You may click [here](https://www.gobusiness.gov.sg) to access the Moneylender’s Test Booking System to register for a test slot. A non-refundable test fee of S$130 (inclusive of GST) is payable per attempt. 
 
 The Moneylender’s Test is an open book format which includes 30 multiple choice questions which will be based on the content from the [Moneylenders Act 2008, Moneylenders Rules 2009 and Moneylenders (Prevention of Money Laundering and Financing of Terrorism 2009)](https://rom.mlaw.gov.sg/information-for-moneylenders/relevant-laws-and-regulations/).
 <br>
@@ -29,7 +29,7 @@ Anyone may register for the Moneylender’s Test. However, do note that passing 
 <br>
 
 **5. When and how would I know if I have passed the Moneylender’s Test?**
-<br>You may check your test results via [GoBusiness](https://licence1.business.gov.sg) after two weeks from the date of your test. 
+<br>You may check your test results via [GoBusiness](https://www.gobusiness.gov.sg) after two weeks from the date of your test. 
 <br> 
 <br>
 
@@ -48,7 +48,7 @@ Please note that the licensee must submit an application to the Registry via GoB
 <br>
 
 **7. How do I update the particulars of my moneylending business?**<br>
-Please [submit](https://licence1.business.gov.sg) an online application for the following updates:
+Please [submit](https://www.gobusiness.gov.sg) an online application for the following updates:
 
    (a) Change of business address (please refer to 7.1 and 7.2);
 
@@ -74,7 +74,7 @@ Please [submit](https://licence1.business.gov.sg) an online application for the 
 
    (iii) Proposed photo(s) of the signage to be displayed conspicuously at the business premises. 
    
-7.3 For update (g), please [submit](https://licence1.business.gov.sg) an online application with the following information:
+7.3 For update (g), please [submit](https://www.gobusiness.gov.sg) an online application with the following information:
 
    (i) A clear copy of an up-to-date identification card of the transferor and the transferee (if applicable);
 
@@ -98,7 +98,7 @@ Please [submit](https://licence1.business.gov.sg) an online application for the 
 
    (xi) Whether the transferee is related or have any connections with any persons (e.g. acquaintances/friends/family members/associates etc.) who has ever been involved in the business of moneylending or debt collecting or has ever applied for a moneylending licence (if yes, state the person’s name, the business name, relationship etc.)
 
-7.4 Do note that for all the above updates, the licensee must first [submit](https://licence1.business.gov.sg) the online application and obtain approval from the Registry before it could proceed with the update/changes. After the licensee has received the approval from the Registry, it may then update this information with ACRA. 
+7.4 Do note that for all the above updates, the licensee must first [submit](https://www.gobusiness.gov.sg) the online application and obtain approval from the Registry before it could proceed with the update/changes. After the licensee has received the approval from the Registry, it may then update this information with ACRA. 
 <br>
 <br>
 
@@ -122,7 +122,7 @@ Do note that the approval of all additional place(s) of business (including rene
 <br>
 
 **9. How do I terminate my moneylending licence?**<br>
-You may submit your application [here](https://licence1.business.gov.sg) to terminate your moneylending licence. 
+You may submit your application [here](https://www.gobusiness.gov.sg) to terminate your moneylending licence. 
 <br>
 <br>
 
@@ -180,7 +180,7 @@ Depending on the business activity exempted, the fees may range from $1,000 to $
 <br>
 
 **12. How do I extend the validity period of my certificate of exemption?**<br>
-To extend your validity period of the certificate of exemption, you are required to [submit](https://licence1.business.gov.sg) an application to the Registry at least one month before the expiry of your existing certificate of exemption. 
+To extend your validity period of the certificate of exemption, you are required to [submit](https://www.gobusiness.gov.sg) an application to the Registry at least one month before the expiry of your existing certificate of exemption. 
 <br>
 <br>
 
