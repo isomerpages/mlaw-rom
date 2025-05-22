@@ -147,7 +147,7 @@ You should ensure that:
 * You should retain all statement of accounts and receipts of payments, as documentation and evidence of payments. 
 
 **10. How do I lodge a complaint against a moneylender against unfair practices and/or contract?** <br>
-You may use our e-Services at https://eservices.mlaw.gov.sg/rom to file a First Information Report ("**FIR**"). Please note that you will be required to log in using SingPass and provide supporting information/evidence to substantiate your report.
+You may use our e-Services at https://eservices.mlaw.gov.sg/rom/ to file a First Information Report ("**FIR**"). Please note that you will be required to log in using SingPass and provide supporting information/evidence to substantiate your report.
  
 Rest assured that the Registry will not disclose your details to the moneylender without your consent. To facilitate the Registry to investigate your complaint, you may need to attend an interview with our officers and provide us with all relevant information and documents related to your loan transactions and circumstances of your dealings with the moneylender. The Registry views complaints against moneylenders seriously and will investigate them thoroughly. Errant moneylenders will be taken to task.
  
