@@ -2,8 +2,8 @@
 layout: homepage
 title: Ministry of Law - Registry of Moneylenders
 permalink: /
-notification: For Advisory on Scam Calls Impersonating as Officers from the
-  MinLaw, CBS or MLCB, <a
+notification: Advisory on Scam Calls Impersonating as Officers from the MinLaw,
+  CBS or MLCB, <a
   href="/information-for-borrowers/advisory-on-scam-calls-impersonating-as-officers-from-the-ministry-of-law-cbs-or-the-mlcb/">Click
   here</a> for more info.
 sections:
