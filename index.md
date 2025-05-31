@@ -2,9 +2,9 @@
 layout: homepage
 title: Ministry of Law - Registry of Moneylenders
 permalink: /
-notification: There have been increasing reports of scammers and unlicensed
-  moneylenders masquerading as licensed moneylenders. <a
-  href="/information-for-borrowers/list-of-licensed-moneylenders-in-singapore/">Click
+notification: For Advisory on Scam Calls Impersonating as Officers from the
+  MinLaw, CBS or MLCB, <a
+  href="/information-for-borrowers/advisory-on-scam-calls-impersonating-as-officers-from-the-ministry-of-law-cbs-or-the-mlcb/">Click
   here</a> for more info.
 sections:
   - hero:
@@ -14,7 +14,6 @@ sections:
         Singapore
       background: /images/Hero Banner_ROM.jpg
       button: Learn More
-      url: null
       key_highlights:
         - title: Relevant Laws and Regulations
           description: Be equipped with the knowledge of moneylending legislation in
