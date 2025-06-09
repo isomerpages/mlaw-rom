@@ -4,7 +4,7 @@ permalink: /information-for-moneylenders/reports-of-government-official-imperson
 variant: tiptap
 description: ""
 ---
-<h4>Ministry of Law officials will <strong>NEVER</strong> ask you to transfer money or disclose bank log-in details over a phone call. Call the 24/7 <strong>ScamShield Helpline at 1799</strong> if you are unsure if something is a scam. Learn about the latest scam updates at <a href="scamshield.gov.sg" rel="noopener nofollow" target="_blank">scamshield.gov.sg</a>.</h4>
+<h4>Ministry of Law officials will <strong>NEVER</strong> ask you to transfer money or disclose bank log-in details over a phone call. Call the 24/7 <strong>ScamShield Helpline at 1799</strong> if you are unsure if something is a scam. Learn about the latest scam updates at <a href="https://www.scamshield.gov.sg" rel="noopener nofollow" target="_blank">scamshield.gov.sg</a>.</h4>
 <p></p>
 <p>Dear Licensees / Exempt moneylenders</p>
 <p>The police seek your support in combating scams. Since early March 2025,
