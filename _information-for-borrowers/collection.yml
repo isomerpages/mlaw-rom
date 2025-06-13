@@ -2,10 +2,10 @@ collections:
   information-for-borrowers:
     output: true
     order:
-      - Other Services.md
+      - advisory-for-borrowers-on-licensed-moneylending.md
       - Advisory on Scam Calls Impersonating as Officers from the Ministry of
         Law, CBS or the MLCB.md
       - faqs-on-borrowing-from-licensed-moneylenders.md
       - list-of-licensed-moneylenders-in-singapore.md
       - List of Exempt Moneylenders.md
-      - advisory-for-borrowers-on-licensed-moneylending.md
+      - Other Services.md
