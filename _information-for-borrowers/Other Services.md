@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>Other Services</strong></h4>
-<p></p>
-<p></p>
 <p>Please visit the following for our other services:</p>
 <ul data-tight="true" class="tight">
 <li>
