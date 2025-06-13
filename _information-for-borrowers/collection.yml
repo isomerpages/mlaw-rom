@@ -2,6 +2,7 @@ collections:
   information-for-borrowers:
     output: true
     order:
+      - Other Services.md
       - Advisory on Scam Calls Impersonating as Officers from the Ministry of
         Law, CBS or the MLCB.md
       - faqs-on-borrowing-from-licensed-moneylenders.md
