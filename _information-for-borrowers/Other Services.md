@@ -4,11 +4,13 @@ permalink: /other-services/
 variant: tiptap
 description: ""
 ---
-<p>You may visit the following for our other services:</p>
+<h4><strong>Other Services</strong></h4>
 <p></p>
+<p></p>
+<p>Please visit the following for our other services:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Submission of <a href="https://form.gov.sg/5fd6e9961e9fb00011952390" rel="noopener nofollow" target="_blank"><u>First Information Report</u></a>
+<p>Submission of<strong> </strong><a href="https://form.gov.sg/5fd6e9961e9fb00011952390" rel="noopener nofollow" target="_blank">First Information Report</a>
 </p>
 </li>
 <li>
