@@ -5,8 +5,9 @@ permalink: /
 notification: Government officials will <b>NEVER</b> ask you to transfer money
   or disclose bank log-in details over a phone call. Call the 24/7 ScamShield
   Helpline at 1799 if you are unsure if something is a scam. For more
-  information, visit www.scamshield.gov.sg<br><br>Advisory on Scam Calls
-  Impersonating as Officers from the MinLaw, CBS or MLCB, <a
+  information, visit <a target="_blank"
+  href="h_ttps://w_ww.scamshield.gov.sg">w_ww.scamshield.gov.sg</a>.<br><br>Advisory
+  on Scam Calls Impersonating as Officers from the MinLaw, CBS or MLCB, <a
   href="/advisory-on-scam-calls-impersonating-as-officers-from-the-ministry-of-law-cbs-or-the-mlcb/">Click
   here</a> for more info.
 sections:
