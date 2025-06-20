@@ -6,7 +6,7 @@ description: ""
 ---
 **<u>Update on Anti-Money Laundering/Countering Terrorism Financing/ Counter Proliferation Financing (AML/CFT/CPF) matters</u>**
 
-Dear licensee,
+Dear licensee / exempt moneylender,
  
 As a measure to combat money laundering, financing of terrorism and financing of proliferation of weapons of mass destruction, moneylenders in Singapore are required to comply with the Moneylenders Act 2008 and the Moneylenders (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Rules 2009.  Moneylenders are also expected to familiarise themselves and comply with the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992 and Terrorism (Suppression of Financing) Act 2002.
 
