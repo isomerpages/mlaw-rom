@@ -156,15 +156,17 @@ If you wish to complain about a moneylender for any reason, including unfair pra
 
 (c) If a moneylender has engaged in an unfair practice towards you, you can pursue the matter through the Small Claims Tribunal or the Court under the Consumer Protection (Fair Trading) Act. The Court also has the power to set aside loan transactions that are exorbitant or substantially unfair.
 
-(d) If a moneylender has harassed you during the debt collection process, please [lodge a police report](https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report)lodge a police report in addition to informing the Registry.
+(d) If a moneylender has harassed you during the debt collection process, please [lodge a police report](https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report) in addition to informing the Registry.
 
 Rest assured that the Registry will not disclose your details to the licensed moneylender without your consent.
 
 
 **11. I am facing financial difficulties and unable to repay the licensed moneylenders. Can the Registry of Moneylenders help to negotiate with the licensed moneylenders?** <br>
-The Registry of Moneylenders is not in a position to assist you in negotiating with his moneylenders with regard to his loans, as this is a matter of private contract between the moneylender and the borrower.
+The Registry of Moneylenders is not in a position to assist the borrower in restructuring his loans, as this is a private contractual matter between the licensed moneylender and the borrower.
 
-You may wish to approach any of the following social service agencies which help consumers recover from serious debt problems by providing general credit management information, credit counselling and where applicable, assistance in negotiating a debt repayment plan with creditors:
+You may wish to negotiate with the licensed moneylender(s) directly or through an intermediary (e.g. a lawyer or a social service agency), with a view to arriving ata mutually acceptable debt settlement arrangement. 
+
+If you need help to resolve your debt problems with the licensed moneylenders, you may approach any of the following voluntary welfare organisations:
 
 * Adullam Life Counselling
 <br>Address: 315 Outram Road #15-02 Tan Boon Liat Building Singapore 169074
