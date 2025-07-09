@@ -211,11 +211,12 @@ The Registry of Moneylenders is not in a position to compel licensed moneylender
 
 The most effective solution to financial/debt management is for individuals to spend within their means. If a person needs to borrow, he should do so responsibly and take into consideration his ability to service and pay off outstanding loans without default.  
 
-An individual may apply for self-exclusion via the Moneylenders Credit Bureau ("MLCB"). Once the self-exclusion is registered, licensed moneylenders are not allowed to grant any unsecured loan (except a debt consolidation loan) to that individual. The self-exclusion period lasts for either 1 or 2 years1 in which the individual is generally not allowed to withdraw from exclusion. On expiry of the minimum period, the self-exclusion remains in force until such time the individual withdraws from it.  
+An individual may apply for self-exclusion via the Moneylenders Credit Bureau ("MLCB"). Once the self-exclusion is registered, licensed moneylenders are not allowed to grant any unsecured loan (except a debt consolidation loan) to that individual. The self-exclusion period lasts for either <u>**1 or 2 years**</u><sup>1</sup> 
+ in which the individual is generally not allowed to withdraw from exclusion. On expiry of the minimum period, the self-exclusion remains in force until such time the individual withdraws from it.  
 
 The process is voluntary, and no individual may be excluded without his/ her consent.  
 
-1 Singapore Citizens/PRs may choose a minimum period of either 1 or 2 years. Foreigners need to fulfil a default minimum period of 2 years.
+<sup>1</sup> Singapore Citizens/PRs may choose a minimum period of either 1 or 2 years. Foreigners need to fulfil a default minimum period of 2 years.
 
 **14. What should I do if I receive SMS from moneylenders?** 
 
