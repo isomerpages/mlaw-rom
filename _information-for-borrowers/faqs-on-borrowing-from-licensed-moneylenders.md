@@ -166,7 +166,7 @@ The Registry of Moneylenders is not in a position to assist the borrower in rest
 
 You may wish to negotiate with the licensed moneylender(s) directly or through an intermediary (e.g. a lawyer or a social service agency), with a view to arriving at a mutually acceptable debt settlement arrangement. 
 
-If you need help to resolve your debt problems with the licensed moneylenders, you may approach any of the following voluntary welfare organisations:
+If you need help to resolve your debt problems with licensed moneylenders, you may approach any of the following voluntary welfare organisations:
 
 * Adullam Life Counselling
 <br>Address: 315 Outram Road #15-02 Tan Boon Liat Building Singapore 169074
@@ -194,5 +194,5 @@ Address:              (East) 11 Playfair Road Singapore, (West) Jurong Spring CC
 <b>*Credit Counselling Singapore only handles cases that also involve debts with banks.
 
 
-[Notes to Borrowers when obtaining loans from licensed moneylenders](/files/Notes to Borrowers wef 15 Aug 2019.pdf){:target="_blank"} (661KB)
+[Notes to Borrowers when obtaining loans from licensed moneylenders](https://rom.mlaw.gov.sg/files/Notes%20to%20Borrowers%20wef%2015%20Aug%202019.pdf)
 </b>
