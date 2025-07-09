@@ -194,5 +194,5 @@ Address:              (East) 11 Playfair Road Singapore, (West) Jurong Spring CC
 <b>*Credit Counselling Singapore only handles cases that also involve debts with banks.
 
 
-[Notes to Borrowers when obtaining loans from licensed moneylenders](https://rom.mlaw.gov.sg/files/Notes%20to%20Borrowers%20wef%2015%20Aug%202019.pdf)
+*[Notes to Borrowers when obtaining loans from licensed moneylenders](https://rom.mlaw.gov.sg/files/Notes%20to%20Borrowers%20wef%2015%20Aug%202019.pdf)*
 </b>
