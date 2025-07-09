@@ -164,7 +164,7 @@ Rest assured that the Registry will not disclose your details to the licensed mo
 **11. I am facing financial difficulties and unable to repay the licensed moneylenders. Can the Registry of Moneylenders help to negotiate with the licensed moneylenders?** <br>
 The Registry of Moneylenders is not in a position to assist the borrower in restructuring his loans, as this is a private contractual matter between the licensed moneylender and the borrower.
 
-You may wish to negotiate with the licensed moneylender(s) directly or through an intermediary (e.g. a lawyer or a social service agency), with a view to arriving ata mutually acceptable debt settlement arrangement. 
+You may wish to negotiate with the licensed moneylender(s) directly or through an intermediary (e.g. a lawyer or a social service agency), with a view to arriving at a mutually acceptable debt settlement arrangement. 
 
 If you need help to resolve your debt problems with the licensed moneylenders, you may approach any of the following voluntary welfare organisations:
 
