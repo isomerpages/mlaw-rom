@@ -114,7 +114,7 @@ Such practices are not acceptable. If you encounter them, you should report the 
 To find out more about unlicensed moneylenders, you may click on this link: [Unlicensed Moneylending](https://www.police.gov.sg/Advisories/Crime/Unlicensed-Moneylending)
 
 **6. How can I tell whether an advertisement is from a licensed moneylender or an unlicensed moneylender?**<br>
-Under the advertising rules, which took effect on 1 November 2011, licensed moneylenders are permitted to advertise only through these three channels: (a) business or consumer directories (in print or online media); (b) websites belonging to the moneylender; and (c) advertisements placed within or on the exterior of the moneylender’s business premises. All other channels are prohibited.  
+Under the [Registrar's Directions on Advertising &amp; Marketing Activities of Licensed Moneylenders](https://rom.mlaw.gov.sg/files/Registrar's Directions/Advertising-&amp;-Marketing-Directions.pdf)advertising rules, which took effect on 1 November 2011, licensed moneylenders are permitted to advertise only through these three channels: (a) business or consumer directories (in print or online media); (b) websites belonging to the moneylender; and (c) advertisements placed within or on the exterior of the moneylender’s business premises. All other channels are prohibited.  
 
  
 
