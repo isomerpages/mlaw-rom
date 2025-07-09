@@ -6,7 +6,7 @@ variant: markdown
 ---
 Information for Licensed Moneylenders
 ---
-**1. How do I apply for a moneylending licence?**<br>
+**1. How do I apply for a moneylender's licence?**<br>
 The Registry of Moneylenders ("**the Registry**") has temporarily suspended the grant of any new moneylending licences. 
 <br>
 <br>
@@ -19,7 +19,7 @@ There is a concurrent suspension on the processing of applications for additiona
 **3. How do I register for the Moneylender’s Test? How much does the Moneylender’s Test cost?**<br>
 You may click [here](https://www.gobusiness.gov.sg) to access the Moneylender’s Test Booking System to register for a test slot. A non-refundable test fee of S$130 (inclusive of GST) is payable per attempt. 
 
-The Moneylender’s Test is an open book format which includes 30 multiple choice questions which will be based on the content from the [Moneylenders Act 2008, Moneylenders Rules 2009 and Moneylenders (Prevention of Money Laundering and Financing of Terrorism 2009)](https://rom.mlaw.gov.sg/information-for-moneylenders/relevant-laws-and-regulations/).
+The Moneylender’s Test is an open book format which includes 30 multiple choice questions which will be based on the content from the [relevant laws and regulations](https://rom.mlaw.gov.sg/information-for-moneylenders/relevant-laws-and-regulations/), including but not limited to the Moneylenders Act 2008, Moneylenders Rules 2009 and Moneylenders (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Rules 2009.
 <br>
 <br>
 
@@ -29,7 +29,7 @@ Anyone may register for the Moneylender’s Test. However, do note that passing 
 <br>
 
 **5. When and how would I know if I have passed the Moneylender’s Test?**
-<br>You may check your test results via [GoBusiness](https://www.gobusiness.gov.sg) after two weeks from the date of your test. 
+<br>You may check your test results via [GoBusiness](https://www.gobusiness.gov.sg) after one week from the date of your test. 
 <br> 
 <br>
 
@@ -43,7 +43,7 @@ To be appointed as a Test-Qualified Manager, the person must satisfy the followi
 
    (c) Fit and proper, and of good character 
 
-Please note that the licensee must submit an application to the Registry via GoBusiness to appoint the person as a Test-Qualified Manager. 
+Please note that the licensee must submit an application to the Registry via [GoBusiness](https://www.gobusiness.gov.sg/) to appoint the person as a Test-Qualified Manager. 
 <br>
 <br>
 
@@ -127,7 +127,7 @@ You may submit your application [here](https://www.gobusiness.gov.sg) to termina
 <br>
 
 **10. How do I apply for a certificate of exemption from the Moneylenders Act?**<br>
-Any person may apply under section 91(1) of the Moneylenders Act to exempt his business from all or any of the provisions of the same Act. You may submit an application to       the Registry with the following information ready:
+Any person may apply under section 91(1) of the Moneylenders Act to exempt his business from all or any of the provisions of the same Act. You may submit an application to the Registry with the following information ready:
 
    (a) A write-up containing:
    
@@ -139,9 +139,9 @@ Any person may apply under section 91(1) of the Moneylenders Act to exempt his b
               
    (b) A copy of the applicant’s Business Profile issued by ACRA;
    
-   (c) The telephone and fax numbers of the applicant;
+   (c) The telephone number(s) of the applicant;
    
-   (d) A detailed description of each type of activity for which the exemption is sought and the reasons for seeking the exemption; 
+   (d) A detailed description of each type of activity for which the exemption is sought; 
                 
    (e) Profile(s) of borrowers;
                 
