@@ -6,35 +6,72 @@ variant: markdown
 ---
 Information for Licensed Moneylenders
 ---
-**1. How do I apply for a moneylender's licence?**<br>
-The Registry of Moneylenders ("**the Registry**") has temporarily suspended the grant of any new moneylending licences. 
+**1. Where can I find more information on the Registry of Moneylenders ("**the Registry**")?**<br>
+You can find more information on the Registry of Moneylenders' [website](https://rom.mlaw.gov.sg/).
 <br>
 <br>
 
-**2. How do I apply for additional place(s) of business?**<br>
+**2. Where can I get a copy of the Moneylenders Act 2008 and its Rules?**<br>
+You may refer to our [website](https://rom.mlaw.gov.sg/information-for-moneylenders/relevant-laws-and-regulations/) for the links to all the relevant laws and regulations of moneylending.
+<br>
+<br>
+
+**3. Will I need a moneylender's licence for my business?**<br>
+Under section 3 of the Moneylenders Act 2008, any person other than an excluded moneylender who lends a sum of money in consideration of a larger sum being repaid shall be presumed, until the contrary is proved, to be a moneylender. If you are unsure, you should obtain legal advice from your solicitor as to whether your intended business activity amounts to moneylending for which a licence is required.
+<br>
+<br>
+
+**4. How do I apply for a moneylender's licence?**<br>
+The Registry has temporarily suspended the grant of any new moneylending licences. 
+<br>
+<br>
+
+**5. What is the validity period of a moneylender's licence?**<br>
+The moneylender's licence is valid for a period of 12 months.
+<br>
+<br>
+
+**6. How much is the application fee for a moneylender's licence?**<br>
+The application fee for a moneylending licence is $600 and is non-refundable. It applies only to applications for a new licence, but not to renewals of existing licences.  
+
+Please note that there is currently a suspension on the processing of new applications for a moneylender's licence.
+<br>
+<br>
+
+**7. How much is the moneylender's licence fee?**<br>
+The licence fee is $1,500 per annum.
+<br>
+<br>
+
+**8. How do I apply for additional place(s) of business?**<br>
 There is a concurrent suspension on the processing of applications for additional place(s) of business. 
 <br>
 <br>
 
-**3. How do I register for the Moneylender’s Test? How much does the Moneylender’s Test cost?**<br>
+**9. When do I need to secure a place of business for my moneylending business?**<br>
+You only need to indicate your proposed place of business when applying for a moneylender's licence. If the Registry finds you suitable to be issued with a moneylender's licence, you will be required to produce documentary evidence of having secured the use of suitable premises for the purpose of your moneylending business, before the licence is issued to you.
+<br>
+<br>
+
+**10. How do I register for the Moneylender’s Test? How much does the Moneylender’s Test cost?**<br>
 You may click [here](https://www.gobusiness.gov.sg) to access the Moneylender’s Test Booking System to register for a test slot. A non-refundable test fee of S$130 (inclusive of GST) is payable per attempt. 
 
 The Moneylender’s Test is an open book format which includes 30 multiple choice questions which will be based on the content from the [relevant laws and regulations](https://rom.mlaw.gov.sg/information-for-moneylenders/relevant-laws-and-regulations/), including but not limited to the Moneylenders Act 2008, Moneylenders Rules 2009 and Moneylenders (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Rules 2009.
 <br>
 <br>
 
-**4. What are the criteria to register for the Moneylender’s Test?**<br>
+**11. What are the criteria to register for the Moneylender’s Test?**<br>
 Anyone may register for the Moneylender’s Test. However, do note that passing the Moneylender’s Test does not automatically qualify a person as a Test-Qualified Manager (please refer to question 6). 
 <br>
 <br>
 
-**5. When and how would I know if I have passed the Moneylender’s Test?**
+**12. When and how would I know if I have passed the Moneylender’s Test?**
 <br>You may check your test results via [GoBusiness](https://www.gobusiness.gov.sg) after one week from the date of your test. 
 <br> 
 <br>
 
 
-**6. How do I get appointed as a Test-Qualified Manager of an approved place of business of the licensee?**<br>
+**13. How do I get appointed as a Test-Qualified Manager of an approved place of business of the licensee?**<br>
 To be appointed as a Test-Qualified Manager, the person must satisfy the following criteria:
 
    (a) Passed the Moneylenders’ Test;
@@ -47,7 +84,12 @@ Please note that the licensee must submit an application to the Registry via [Go
 <br>
 <br>
 
-**7. How do I update the particulars of my moneylending business?**<br>
+**14. What should licensed moneylenders do if they wish to appoint a new director, manager, partner or substantial shareholder?**<br>
+All licensed moneylenders must seek the prior approval of the Registrar of Moneylenders before appointing any new director, managing director, manager, partner or substantial shareholder. Please visit our [website](https://eservices.mlaw.gov.sg/rom/) for the respective links on the application.
+<br>
+<br>
+
+**15. How do I update the particulars of my moneylending business?**<br>
 Please [submit](https://www.gobusiness.gov.sg) an online application for the following updates:
 
    (a) Change of business address (please refer to 7.1 and 7.2);
@@ -102,7 +144,7 @@ Please [submit](https://www.gobusiness.gov.sg) an online application for the fol
 <br>
 <br>
 
-**8. How do I renew my moneylending licence?**<br>
+**16. How do I renew my moneylending licence?**<br>
 The renewal of the moneylending licence is subject to the good conduct of the licensee. Licensees should have the following documents ready and forward them to the Registry upon notification, no later than one month before the expiry of the licence:
 
    (a) A tenancy agreement for the proposed place of business covering at least a one-year period immediately following the expiry of the existing licence;
@@ -121,12 +163,12 @@ Do note that the approval of all additional place(s) of business (including rene
 <br>
 <br>
 
-**9. How do I terminate my moneylending licence?**<br>
+**17. How do I terminate my moneylending licence?**<br>
 You may submit your application [here](https://www.gobusiness.gov.sg) to terminate your moneylending licence. 
 <br>
 <br>
 
-**10. How do I apply for a certificate of exemption from the Moneylenders Act?**<br>
+**18. How do I apply for a certificate of exemption from the Moneylenders Act?**<br>
 Any person may apply under section 91(1) of the Moneylenders Act to exempt his business from all or any of the provisions of the same Act. You may submit an application to the Registry with the following information ready:
 
    (a) A write-up containing:
@@ -151,7 +193,7 @@ Any person may apply under section 91(1) of the Moneylenders Act to exempt his b
 <br>
 <br>
 
-**11. What are the fees I have to pay for a certification of exemption? What is the validity period of the exemption?**<br>
+**19. What are the fees I have to pay for a certification of exemption? What is the validity period of the exemption?**<br>
 Depending on the business activity exempted, the fees may range from $1,000 to $4,000 per year. The exemption is valid for a period up to a maximum of 3 years.
 
 <table>
@@ -179,15 +221,15 @@ Depending on the business activity exempted, the fees may range from $1,000 to $
 <br>
 <br>
 
-**12. How do I extend the validity period of my certificate of exemption?**<br>
+**20. How do I extend the validity period of my certificate of exemption?**<br>
 To extend your validity period of the certificate of exemption, you are required to [submit](https://www.gobusiness.gov.sg) an application to the Registry at least one month before the expiry of your existing certificate of exemption. 
 <br>
 <br>
 
-**13. How do I know if my business qualifies as an excluded moneylender under the Moneylenders Act?**<br>
+**21. How do I know if my business qualifies as an excluded moneylender under the Moneylenders Act?**<br>
 You may wish to refer to section 2 of the Moneylenders Act, which sets out the definition of an excluded moneylender. You may wish to seek legal advice on whether your business activity falls within the definition of an excluded moneylender. 
 <br>
 <br>
 
-**14. How do I make payment when I receive the Notice of Offer of Composition?**<br>
+**22. How do I make payment when I receive the Notice of Offer of Composition?**<br>
 Payment for the Notice of Offer of Composition can be made via our [E-Services](https://eservices.mlaw.gov.sg/rom/) portal.
