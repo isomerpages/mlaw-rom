@@ -26,7 +26,8 @@ You should keep these key points in mind:
 
 
 **2. How much can I borrow?** <br>
-For secured loans, you can obtain a loan of any amount. For unsecured loans, please refer to the table below for the total maximum amount that you may borrow at any time across all moneylenders in Singapore:
+For secured loans, you can obtain a loan of any amount. <br>
+For unsecured loans, please refer to the table below for the total maximum amount that you may borrow at any time across all moneylenders in Singapore:
 
 <table>
   <tbody><tr>
@@ -77,7 +78,7 @@ With effect from <b><u>1 October 2015</u></b>, all moneylenders are only permitt
 The total charges imposed by a moneylender on any loan, consisting of interest, late interest, upfront administrative and late fee also cannot exceed an amount equivalent to the principal of the loan. [*To illustrate, if X takes a loan of $10,000, then the interest, late interest, 10% administrative fee and monthly $60 late fees cannot exceed $10,000.*]
 
 **5. How do I know whether a moneylender is licensed or not?** <br>
-Do not borrow from unlicensed moneylenders. Verify that a moneylender is licensed by checking the list of licensed moneylenders. [Click here](/information-for-borrowers/list-of-licensed-moneylenders-in-singapore/) to access the list of licensed moneylenders.
+Do not borrow from unlicensed moneylenders. Verify that a moneylender is licensed by checking the list of licensed moneylenders. [Click here](https://rom.mlaw.gov.sg/information-for-borrowers/list-of-licensed-moneylenders-in-singapore/) to access the list of licensed moneylenders.
 
  
 
