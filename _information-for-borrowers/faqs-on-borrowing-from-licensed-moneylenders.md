@@ -196,3 +196,33 @@ Address:              (East) 11 Playfair Road Singapore, (West) Jurong Spring CC
 
 *[Notes to Borrowers when obtaining loans from licensed moneylenders](https://rom.mlaw.gov.sg/files/Notes%20to%20Borrowers%20wef%2015%20Aug%202019.pdf)*
 </b>
+
+**12. Are moneylenders allowed to collect payment from me at my place of residence or employment?**
+Licensed moneylenders can take reasonable steps to recover their debts as long as they do not infringe the law. Such steps may include contacting the borrower to ask for repayment and taking legal action to enforce the loan contract.  
+
+Approaching a debtor at his place of residence or employment to collect debts, while potentially embarrassing, does not necessarily constitute an offence. However, debt collectors cannot resort to vandalism, violence, or threatening words or behaviour, as such acts may infringe general criminal law. Whether or not a debt collection activity constitutes a criminal offence would depend on the facts of each case.  
+
+If there is any harassment, threat or violence involved in the course of debt recovery, you should [lodge a police report](https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report), detailing your encounter(s) with them.
+
+**13. Can I ban a family member from taking loans from all moneylenders?**
+The Registry of Moneylenders is not in a position to compel licensed moneylenders to not grant loans to a person who is otherwise eligible to be granted a loan legally. It is primarily the business decision of the licensed moneylender to determine if the loan should be granted, the suitable loan quantum if the loan is to be granted and the terms of the loan contract, etc.  
+
+The most effective solution to financial/debt management is for individuals to spend within their means. If a person needs to borrow, he should do so responsibly and take into consideration his ability to service and pay off outstanding loans without default.  
+
+An individual may apply for self-exclusion via the Moneylenders Credit Bureau ("MLCB"). Once the self-exclusion is registered, licensed moneylenders are not allowed to grant any unsecured loan (except a debt consolidation loan) to that individual. The self-exclusion period lasts for either 1 or 2 years1 in which the individual is generally not allowed to withdraw from exclusion. On expiry of the minimum period, the self-exclusion remains in force until such time the individual withdraws from it.  
+
+The process is voluntary, and no individual may be excluded without his/ her consent.  
+
+1 Singapore Citizens/PRs may choose a minimum period of either 1 or 2 years. Foreigners need to fulfil a default minimum period of 2 years.
+
+**14. What should I do if I receive SMS from moneylenders?**
+Licensed moneylenders are not allowed to advertise via SMS. Therefore, any SMS soliciting for loans, is either sent by a licensed moneylender in contravention of the advertising restrictions, or by an unlicensed moneylender.  
+
+Such unsolicited SMSes or calls from unknown sources which are related to loans or financial assistance are likely to be associated with unlicensed moneylending, which is a criminal offence. Do not respond to such advertisements.  
+
+If you receive such messages, please provide the information to Singapore Police Force through their online portal I-Witness or call the X-Ah Long hotline at 1800-924 5664.  
+
+If you suspect the SMS is sent by a licensed moneylender, you may write in to the Registry of Moneylenders via our Contact Us @ OneMinLaw with a screenshot of the SMS you received.
+
+
+
