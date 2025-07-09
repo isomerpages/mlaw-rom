@@ -224,6 +224,6 @@ Licensed moneylenders are not allowed to advertise via SMS. Therefore, any SMS s
 
 Such unsolicited SMSes or calls from unknown sources which are related to loans or financial assistance are likely to be associated with unlicensed moneylending, which is a criminal offence. Do not respond to such advertisements.  
 
-If you receive such messages, please provide the information to Singapore Police Force through their online portal I-Witness or call the X-Ah Long hotline at 1800-924 5664.  
+If you receive such messages, please provide the information to Singapore Police Force through their online portal [I-Witness](http://www.police.gov.sg/iwitness) or call the X-Ah Long hotline at 1800-924 5664.  
 
-If you suspect the SMS is sent by a licensed moneylender, you may write in to the Registry of Moneylenders via our Contact Us @ OneMinLaw with a screenshot of the SMS you received.
+If you suspect the SMS is sent by a licensed moneylender, you may write in to the Registry of Moneylenders via our [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/about-us/contact-us/) with a screenshot of the SMS you received.
