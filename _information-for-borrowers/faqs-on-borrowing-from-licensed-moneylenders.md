@@ -147,12 +147,19 @@ You should ensure that:
 
 * You should retain all statement of accounts and receipts of payments, as documentation and evidence of payments. 
 
-**10. How do I lodge a complaint against a moneylender against unfair practices and/or contract?** <br>
-You may use our [e-Services](https://eservices.mlaw.gov.sg/rom/) to file a First Information Report ("**FIR**"). Please note that you will be required to log in using SingPass and provide supporting information/evidence to substantiate your report.
- 
-Rest assured that the Registry will not disclose your details to the moneylender without your consent. To facilitate the Registry to investigate your complaint, you may need to attend an interview with our officers and provide us with all relevant information and documents related to your loan transactions and circumstances of your dealings with the moneylender. The Registry views complaints against moneylenders seriously and will investigate them thoroughly. Errant moneylenders will be taken to task.
- 
-If a moneylender has engaged in an unfair practice towards you, you can pursue the matter through the Small Claims Tribunal or the Court under the Consumer Protection (Fair Trading) Act. The Court also has the power to set aside loan transactions that are exorbitant or substantially unfair.
+**10. How do I make a complaint about a moneylender?** <br>
+If you wish to complain about a moneylender for any reason, including unfair practices, contract issues, or potential offences, you may lodge a report[lodge a report](https://go.gov.sg/rompefir) with the Registry of Moneylenders or contact the Registry at 1800-2255-529 (airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers). When lodging a complaint, please keep in mind the following points:
+
+(a)  Provide all relevant documentary evidence to substantiate your complaint related to your loan transactions and circumstances of your dealings with the moneylender. Our officers may contact you for additional information or documents, or to schedule an interview. 
+
+(b) The Registry takes all complaints against moneylenders seriously and will investigate them thoroughly. Errant moneylenders will be taken to task.
+
+(c) If a moneylender has engaged in an unfair practice towards you, you can pursue the matter through the Small Claims Tribunal or the Court under the Consumer Protection (Fair Trading) Act. The Court also has the power to set aside loan transactions that are exorbitant or substantially unfair.
+
+(d) If a moneylender has harassed you during the debt collection process, please lodge a police report in addition to informing the Registry.
+
+Rest assured that the Registry will not disclose your details to the licensed moneylender without your consent.
+
 
 **11. I am facing financial difficulties and unable to repay the licensed moneylenders. Can the Registry of Moneylenders help to negotiate with the licensed moneylenders?** <br>
 The Registry of Moneylenders is not in a position to assist you in negotiating with his moneylenders with regard to his loans, as this is a matter of private contract between the moneylender and the borrower.
