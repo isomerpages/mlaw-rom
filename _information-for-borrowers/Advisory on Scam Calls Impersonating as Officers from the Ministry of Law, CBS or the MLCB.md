@@ -25,7 +25,7 @@ description: "The Ministry of Law (“MinLaw”) has been alerted to scam calls
   please call the National Crime Prevention Council’s ScamShield helpline at
   1799 or visit www.scamshield.gov.sg."
 ---
-<h4><strong>Advisory on Scam Calls Impersonating as Officers from the Ministry of Law, Credit Bureau Singapore or the Moneylenders Credit Bureau</strong></h4>
+<h3><strong>Advisory on Scam Calls Impersonating as Officers from the Ministry of Law, Credit Bureau Singapore or the Moneylenders Credit Bureau</strong></h3>
 <p></p>
 <p>The Ministry of Law (“<strong>MinLaw</strong>”) has been alerted to scam
 calls received by members of the public from callers claiming to be from
