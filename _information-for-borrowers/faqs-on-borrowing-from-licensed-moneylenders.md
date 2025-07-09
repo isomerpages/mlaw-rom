@@ -148,7 +148,7 @@ You should ensure that:
 * You should retain all statement of accounts and receipts of payments, as documentation and evidence of payments. 
 
 **10. How do I make a complaint about a moneylender?** <br>
-If you wish to complain about a moneylender for any reason, including unfair practices, contract issues, or potential offences, you may lodge a report[lodge a report](https://go.gov.sg/rompefir) with the Registry of Moneylenders or contact the Registry at 1800-2255-529 (airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers). When lodging a complaint, please keep in mind the following points:
+If you wish to complain about a moneylender for any reason, including unfair practices, contract issues, or potential offences, you may [lodge a report](https://go.gov.sg/rompefir) with the Registry of Moneylenders or contact the Registry at 1800-2255-529 (airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers). When lodging a complaint, please keep in mind the following points:
 
 (a)  Provide all relevant documentary evidence to substantiate your complaint related to your loan transactions and circumstances of your dealings with the moneylender. Our officers may contact you for additional information or documents, or to schedule an interview. 
 
@@ -156,7 +156,7 @@ If you wish to complain about a moneylender for any reason, including unfair pra
 
 (c) If a moneylender has engaged in an unfair practice towards you, you can pursue the matter through the Small Claims Tribunal or the Court under the Consumer Protection (Fair Trading) Act. The Court also has the power to set aside loan transactions that are exorbitant or substantially unfair.
 
-(d) If a moneylender has harassed you during the debt collection process, please lodge a police report in addition to informing the Registry.
+(d) If a moneylender has harassed you during the debt collection process, please [lodge a police report](https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report)lodge a police report in addition to informing the Registry.
 
 Rest assured that the Registry will not disclose your details to the licensed moneylender without your consent.
 
