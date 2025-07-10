@@ -65,4 +65,4 @@ call the MinLaw hotline at 1800 2255 529. If there are queries concerning
 CBS or the MLCB, please call 6565 6363 or 6335 3897 respectively.</p>
 <p></p>
 <p>For scam-related advice, please call the National Crime Prevention Council’s
-ScamShield helpline at 1799 or visit <a rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>.</p>
+ScamShield helpline at 1799 or visit <a href="https://www.scamshield.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.scamshield.gov.sg</a>.</p>
