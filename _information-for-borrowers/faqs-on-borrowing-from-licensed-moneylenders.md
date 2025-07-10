@@ -26,7 +26,8 @@ You should keep these key points in mind:
 
 
 **2. How much can I borrow?** <br>
-For secured loans, you can obtain a loan of any amount. For unsecured loans, please refer to the table below for the total maximum amount that you may borrow at any time across all moneylenders in Singapore:
+For secured loans, you can obtain a loan of any amount. <br>
+For unsecured loans, please refer to the table below for the total maximum amount that you may borrow at any time across all moneylenders in Singapore:
 
 <table>
   <tbody><tr>
@@ -77,7 +78,7 @@ With effect from <b><u>1 October 2015</u></b>, all moneylenders are only permitt
 The total charges imposed by a moneylender on any loan, consisting of interest, late interest, upfront administrative and late fee also cannot exceed an amount equivalent to the principal of the loan. [*To illustrate, if X takes a loan of $10,000, then the interest, late interest, 10% administrative fee and monthly $60 late fees cannot exceed $10,000.*]
 
 **5. How do I know whether a moneylender is licensed or not?** <br>
-Do not borrow from unlicensed moneylenders. Verify that a moneylender is licensed by checking the list of licensed moneylenders. [Click here](/information-for-borrowers/list-of-licensed-moneylenders-in-singapore/) to access the list of licensed moneylenders.
+Do not borrow from unlicensed moneylenders. Verify that a moneylender is licensed by checking the list of licensed moneylenders. [Click here](https://rom.mlaw.gov.sg/information-for-borrowers/list-of-licensed-moneylenders-in-singapore/) to access the list of licensed moneylenders.
 
  
 
@@ -113,11 +114,11 @@ Such practices are not acceptable. If you encounter them, you should report the 
 To find out more about unlicensed moneylenders, you may click on this link: [Unlicensed Moneylending](https://www.police.gov.sg/Advisories/Crime/Unlicensed-Moneylending)
 
 **6. How can I tell whether an advertisement is from a licensed moneylender or an unlicensed moneylender?**<br>
-Under the advertising rules, which took effect on 1 November 2011, licensed moneylenders are permitted to advertise only through these three channels: (a) business or consumer directories (in print or online media); (b) websites belonging to the moneylender; and (c) advertisements placed within or on the exterior of the moneylender’s business premises. All other channels are prohibited.  
+Under the [Registrar's Directions on Advertising &amp; Marketing Activities of Licensed Moneylenders](https://rom.mlaw.gov.sg/files/Registrar's%20Directions/Advertising-&amp;-Marketing-Directions.pdf), which took effect on 1 November 2011, licensed moneylenders are permitted to advertise only through these three channels: (a) business or consumer directories (in print or online media); (b) websites belonging to the moneylender; and (c) advertisements placed within or on the exterior of the moneylender’s business premises. All other channels are prohibited.  
 
  
 
-In this regard, the advertising rules can help you differentiate between licensed and unlicensed moneylenders. If you receive flyers, SMSes, emails or other forms of advertisements which are not permitted under the rules, these would be from either licensed moneylenders operating in violation of the rules, or unlicensed moneylenders. Hence, you are advised not to respond to such advertisements. Instead, you should report the advertisements to the Registry at 1800-2255-529 (*airtime charges may apply to calls made from mobile phones to '1800' local toll-free numbers*) or via our [website](https://www.mlaw.gov.sg/eservices/enquiry/). Errant licensed moneylenders will be investigated by the Registry and unlicensed moneylenders will be investigated by the Police.  
+In this regard, the advertising rules can help you differentiate between licensed and unlicensed moneylenders. If you receive flyers, SMSes, emails or other forms of advertisements which are not permitted under the rules, these would be from either licensed moneylenders operating in violation of the rules, or unlicensed moneylenders. Hence, you are advised not to respond to such advertisements. Instead, you should report the advertisements to the Registry at 1800-2255-529 (*airtime charges may apply to calls made from mobile phones to '1800' local toll-free numbers*) or via [Contact Us @ OneMinLaw](https://eservices.mlaw.gov.sg/enquiry/). Errant licensed moneylenders will be investigated by the Registry and unlicensed moneylenders will be investigated by the Police.  
 
 **7. Can I rely on the content of an advertisement to take up a loan from a moneylender?** <br>
 You are advised to seek clarifications on specific terms of the loan contract before signing up with a licensed moneylender, and not to rely solely on the content of advertisements from the moneylender.
@@ -146,17 +147,26 @@ You should ensure that:
 
 * You should retain all statement of accounts and receipts of payments, as documentation and evidence of payments. 
 
-**10. How do I lodge a complaint against a moneylender against unfair practices and/or contract?** <br>
-You may use our [e-Services](https://eservices.mlaw.gov.sg/rom/) to file a First Information Report ("**FIR**"). Please note that you will be required to log in using SingPass and provide supporting information/evidence to substantiate your report.
- 
-Rest assured that the Registry will not disclose your details to the moneylender without your consent. To facilitate the Registry to investigate your complaint, you may need to attend an interview with our officers and provide us with all relevant information and documents related to your loan transactions and circumstances of your dealings with the moneylender. The Registry views complaints against moneylenders seriously and will investigate them thoroughly. Errant moneylenders will be taken to task.
- 
-If a moneylender has engaged in an unfair practice towards you, you can pursue the matter through the Small Claims Tribunal or the Court under the Consumer Protection (Fair Trading) Act. The Court also has the power to set aside loan transactions that are exorbitant or substantially unfair.
+**10. How do I make a complaint about a moneylender?** <br>
+If you wish to complain about a moneylender for any reason, including unfair practices, contract issues, or potential offences, you may [lodge a report](https://go.gov.sg/rompefir) with the Registry of Moneylenders or contact the Registry at 1800-2255-529 (airtime charges may apply to calls made from mobile phones to ‘1800’ local toll-free numbers). When lodging a complaint, please keep in mind the following points:
+
+(a)  Provide all relevant documentary evidence to substantiate your complaint related to your loan transactions and circumstances of your dealings with the moneylender. Our officers may contact you for additional information or documents, or to schedule an interview. 
+
+(b) The Registry takes all complaints against moneylenders seriously and will investigate them thoroughly. Errant moneylenders will be taken to task.
+
+(c) If a moneylender has engaged in an unfair practice towards you, you can pursue the matter through the Small Claims Tribunal or the Court under the Consumer Protection (Fair Trading) Act. The Court also has the power to set aside loan transactions that are exorbitant or substantially unfair.
+
+(d) If a moneylender has harassed you during the debt collection process, please [lodge a police report](https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report) in addition to informing the Registry.
+
+Rest assured that the Registry will not disclose your details to the licensed moneylender without your consent.
+
 
 **11. I am facing financial difficulties and unable to repay the licensed moneylenders. Can the Registry of Moneylenders help to negotiate with the licensed moneylenders?** <br>
-The Registry of Moneylenders is not in a position to assist you in negotiating with his moneylenders with regard to his loans, as this is a matter of private contract between the moneylender and the borrower.
+The Registry of Moneylenders is not in a position to assist the borrower in restructuring his loans, as this is a private contractual matter between the licensed moneylender and the borrower.
 
-You may wish to approach any of the following social service agencies which help consumers recover from serious debt problems by providing general credit management information, credit counselling and where applicable, assistance in negotiating a debt repayment plan with creditors:
+You may wish to negotiate with the licensed moneylender(s) directly or through an intermediary (e.g. a lawyer or a social service agency), with a view to arriving at a mutually acceptable debt settlement arrangement. 
+
+If you need help to resolve your debt problems with licensed moneylenders, you may approach any of the following voluntary welfare organisations:
 
 * Adullam Life Counselling
 <br>Address: 315 Outram Road #15-02 Tan Boon Liat Building Singapore 169074
@@ -184,5 +194,36 @@ Address:              (East) 11 Playfair Road Singapore, (West) Jurong Spring CC
 <b>*Credit Counselling Singapore only handles cases that also involve debts with banks.
 
 
-[Notes to Borrowers when obtaining loans from licensed moneylenders](/files/Notes to Borrowers wef 15 Aug 2019.pdf){:target="_blank"} (661KB)
+*[Notes to Borrowers when obtaining loans from licensed moneylenders](https://rom.mlaw.gov.sg/files/Notes%20to%20Borrowers%20wef%2015%20Aug%202019.pdf)*
 </b>
+
+**12. Are moneylenders allowed to collect payment from me at my place of residence or employment?** 
+
+Licensed moneylenders can take reasonable steps to recover their debts as long as they do not infringe the law. Such steps may include contacting the borrower to ask for repayment and taking legal action to enforce the loan contract.  
+
+Approaching a debtor at his place of residence or employment to collect debts, while potentially embarrassing, does not necessarily constitute an offence. However, debt collectors cannot resort to vandalism, violence, or threatening words or behaviour, as such acts may infringe general criminal law. Whether or not a debt collection activity constitutes a criminal offence would depend on the facts of each case.  
+
+If there is any harassment, threat or violence involved in the course of debt recovery, you should [lodge a police report](https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report), detailing your encounter(s) with them.
+
+**13. Can I ban a family member from taking loans from all moneylenders?** 
+
+The Registry of Moneylenders is not in a position to compel licensed moneylenders to not grant loans to a person who is otherwise eligible to be granted a loan legally. It is primarily the business decision of the licensed moneylender to determine if the loan should be granted, the suitable loan quantum if the loan is to be granted and the terms of the loan contract, etc.  
+
+The most effective solution to financial/debt management is for individuals to spend within their means. If a person needs to borrow, he should do so responsibly and take into consideration his ability to service and pay off outstanding loans without default.  
+
+An individual may apply for self-exclusion via the Moneylenders Credit Bureau ("MLCB"). Once the self-exclusion is registered, licensed moneylenders are not allowed to grant any unsecured loan (except a debt consolidation loan) to that individual. The self-exclusion period lasts for either <u>**1 or 2 years**</u><sup>1</sup> 
+ in which the individual is generally not allowed to withdraw from exclusion. On expiry of the minimum period, the self-exclusion remains in force until such time the individual withdraws from it.  
+
+The process is voluntary, and no individual may be excluded without his/ her consent.  
+
+<sup>1</sup> Singapore Citizens/PRs may choose a minimum period of either 1 or 2 years. Foreigners need to fulfil a default minimum period of 2 years.
+
+**14. What should I do if I receive SMS from moneylenders?** 
+
+Licensed moneylenders are not allowed to advertise via SMS. Therefore, any SMS soliciting for loans, is either sent by a licensed moneylender in contravention of the advertising restrictions, or by an unlicensed moneylender.  
+
+Such unsolicited SMSes or calls from unknown sources which are related to loans or financial assistance are likely to be associated with unlicensed moneylending, which is a criminal offence. Do not respond to such advertisements.  
+
+If you receive such messages, please provide the information to Singapore Police Force through their online portal [I-Witness](http://www.police.gov.sg/iwitness) or call the X-Ah Long hotline at 1800-924 5664.  
+
+If you suspect the SMS is sent by a licensed moneylender, you may write in to the Registry of Moneylenders via our [Contact Us @ OneMinLaw](https://www.mlaw.gov.sg/about-us/contact-us/) with a screenshot of the SMS you received.
