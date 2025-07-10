@@ -60,7 +60,7 @@ payment in cash.</p>
 share personal details unnecessarily. MinLaw will not ask a member of public
 to make any payment to an officer. If in doubt about the authenticity of
 any calls from MinLaw officers, please contact MinLaw via the online enquiry
-form at <a rel="noopener noreferrer nofollow" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a> or
+form at <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">https://eservices.mlaw.gov.sg/enquiry/</a> or
 call the MinLaw hotline at 1800 2255 529. If there are queries concerning
 CBS or the MLCB, please call 6565 6363 or 6335 3897 respectively.</p>
 <p></p>
