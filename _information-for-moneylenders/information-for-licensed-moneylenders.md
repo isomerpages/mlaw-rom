@@ -157,6 +157,8 @@ The renewal of the moneylending licence is subject to the good conduct of the li
 
    (e) A duly completed GIRO application form (for licensees who do not have an existing GIRO arrangement with the Registry for the deduction of $1,500 as the licence fee)
 
+The application for the renewal of the moneylender’s licence will complete at least 2 weeks before the expiry of the existing licence, subject to the submission of requisite information/documents and the payment of the licence fee.
+
 The renewal for approved additional place(s) of business will be processed concurrently with the renewal of moneylender’s licence. The additional licence fee payable for the renewal of approved additional place(s) of business will be $1,500 per annum for every additional place of business.
 
 Do note that the approval of all additional place(s) of business (including renewed approvals) will terminate upon the expiry or revocation of a licence. 
