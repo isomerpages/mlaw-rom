@@ -16,7 +16,7 @@ In this regard, to ensure awareness and apprise licensed / exempt moneylenders  
 In this connection and pursuant to rule 6F of the Moneylenders (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Rules 2009, the Registrar hereby notifies you that the Financial Action Task Force has issued statements dated 24 October 2025 on “High-Risk Jurisdictions Subject to a Call for Action” and “Jurisdictions under Increased Monitoring”, which can be accessed at:
 
 •	[https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-october-2025.html](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-october-2025.html){:target="_blank"}<br>
-•	[https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2025.html](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2025.html){:target="_blank"}
+•	[https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-october-2025.html](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-october-2025.html){:target="_blank"}
 
 As the information contained herein may affect how you meet your AML/CFT/CPF compliance obligations, we encourage you to review the information thoroughly and share the same with your relevant personnel.
 
