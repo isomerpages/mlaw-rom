@@ -6,7 +6,6 @@ variant: tiptap
 ---
 <h2>Relevant Laws and Regulations</h2>
 <p><strong>1. Moneylenders Act</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -14,8 +13,8 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p></p>
 <p><strong>2. Moneylenders Rules</strong>
-<br>
 </p>
 <ul>
 <li>
@@ -27,19 +26,22 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p></p>
 <p><strong>3. Licence Conditions</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Licence Conditions/Licence_Conditions_wef_1_March_2024.pdf" rel="noopener nofollow" target="_blank">Licence Conditions</a>
+<p><a href="/files/Licence Conditions/Licence_Conditions_wef_3_Nov_2025.pdf" rel="noopener nofollow" target="_blank">Licence Conditions</a>
 </p>
-<p></p>
-<p><strong>4. Registrar's Directions</strong>
-<br>
+</li>
+<li>
+<p><a href="/files/Licence Conditions/IT_Security_and_Cyber_Hygiene_Requirements_for_Licensed_Moneylenders.pdf" rel="noopener noreferrer nofollow" target="_blank">IT Security and Cyber Hygiene Requirements</a>
 </p>
 </li>
 </ul>
+<p></p>
+<p><strong>4. Registrar's Directions</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>[No. 1 of 2019] <a href="/files/Registrar's Directions/Registrar's-Directions-1-of-2019.pdf" rel="noopener nofollow" target="_blank">Registrar's_Directions_2019</a>
@@ -67,9 +69,23 @@ the purchase or hiring of motor vehicles] <a href="/files/Registrar's Directions
 <p>[Directions of the Registrar under Section 45(1) read with section 45(2)(c)
 of the Moneylenders Act 2008 regarding the grant of property loans] <a href="/files/Registrar's Directions/Registrar_s_Direction__Notice_632_.pdf" rel="noopener nofollow" target="_blank">Registrar's_Directions_MAS_Notice_632</a>
 </p>
+</li>
+</ul>
 <p></p>
 <p><strong>5. Professional Service Handbook</strong>
-<br><a href="/files/PSH/The_Professional_Service_Handbook_for_licensed_moneylenders_V2_5__dated_14_May_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Professional Service Handbook</a>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/PSH/The_Professional_Service_Handbook_for_licensed_moneylenders_V2_5__dated_14_May_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Professional Service Handbook</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong>6. Data Protection and Cybersecurity Guidelines</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/DPCS Guidelines/Data_Protection_and_Cybersecurity_Guidelines.pdf" rel="noopener nofollow" target="_blank">Data Protection and Cybersecurity Guidelines</a>
 </p>
 </li>
 </ul>
