@@ -2,7 +2,7 @@
 title: List of Licensed Moneylenders in Singapore
 permalink: /information-for-borrowers/list-of-licensed-moneylenders-in-singapore/
 breadcrumb: List of Licensed Moneylenders in Singapore
-variant: markdown
+variant: tiptap
 description: ""
 ---
 <h2>List of Licensed Moneylenders in Singapore</h2>
@@ -57,7 +57,7 @@ numbers).</p>
 </tr>
 </tbody>
 </table>
-<p>### Click [here](/files/ML%20Lists/List_of_Licensed_Moneylenders_as_at_1_November_2025.pdf)
-to view the complete list of licensed moneylenders in Singapore.</p>
-<p><em>Above document would require Adobe Reader. Haven't got Adobe Reader? <a href="http://get.adobe.com/reader/otherversions/" rel="noopener noreferrer nofollow" target="_blank">Download it here</a>{:target="_blank"}.</em>
+<p><em>Click <a href="/files/ML Lists/List_of_Licensed_Moneylenders_as_at_1_November_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to view the complete list of licensed moneylenders in Singapore.</em>
+</p>
+<p><em>Above document would require Adobe Reader. Haven't got Adobe Reader? <a href="http://get.adobe.com/reader/otherversions/" rel="noopener noreferrer nofollow" target="_blank">Download it here</a>.</em>
 </p>
