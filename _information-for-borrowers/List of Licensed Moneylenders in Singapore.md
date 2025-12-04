@@ -57,7 +57,7 @@ numbers).</p>
 </tr>
 </tbody>
 </table>
-<p><em>Click <a href="/files/ML Lists/List_of_Licensed_Moneylenders_as_at_1_November_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to view the complete list of licensed moneylenders in Singapore.</em>
+<p><em>Click <a href="/files/ML Lists/List_of_Licensed_Moneylenders_as_at_1_December_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to view the complete list of licensed moneylenders in Singapore.</em>
 </p>
 <p><em>Above document would require Adobe Reader. Haven't got Adobe Reader? <a href="http://get.adobe.com/reader/otherversions/" rel="noopener noreferrer nofollow" target="_blank">Download it here</a>.</em>
 </p>
