@@ -2,8 +2,8 @@
 title: List of Exempt Moneylenders
 permalink: /information-for-borrowers/list of exempt moneylenders/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-List of Exempt Moneylenders in Singapore
----
-Click [[here](/files/Exempt%20Moneylenders%20Lists/List_of_Exempt_Moneylenders_as_at_1_November_2025.pdf)] to view the complete list of exempt moneylenders in Singapore.
+<h2>List of Exempt Moneylenders in Singapore</h2>
+<p>Click <a href="/files/Exempt Moneylenders Lists/List_of_Exempt_Moneylenders_as_at_1_December_2025.pdf" rel="noopener nofollow" target="_blank">here</a> to
+view the complete list of exempt moneylenders in Singapore.</p>
