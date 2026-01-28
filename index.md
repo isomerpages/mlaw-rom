@@ -28,7 +28,7 @@ sections:
           url: /information-for-borrowers/list-of-licensed-moneylenders-in-singapore/
         - title: Contact Us
           description: Find the answers to your questions
-          url: https://eservices.mlaw.gov.sg/enquiry/
+          url: https://www.mlaw.gov.sg/about-us/contact-us/
   - infobar:
       title: Be Aware
       subtitle: News
