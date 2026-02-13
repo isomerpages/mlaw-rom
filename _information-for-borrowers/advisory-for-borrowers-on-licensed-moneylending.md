@@ -36,8 +36,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<h3><strong>Advisory for Borrowers on Licensed Moneylending For Information</strong></h3>
+<h3><strong>For Information</strong></h3>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
