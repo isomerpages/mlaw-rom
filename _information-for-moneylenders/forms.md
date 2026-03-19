@@ -12,7 +12,7 @@ variant: tiptap
 <h4>Template for Moneylender's Statement of Quarterly Returns</h4>
 <p><a href="https://rom.mlaw.gov.sg/files/Moneylender_Returns%20(version%202.4)%20(08%20Apr%202021).xls" rel="noopener nofollow" target="_blank">Template for Moneylender's Statement of Quarterly Returns</a>
 </p>
-<h4>Forms Template</h4>
+<h4>Form Templates</h4>
 <p><a href="/files/Form1-NoteofContract(Rule10oftheMLR).pdf" rel="noopener noreferrer nofollow" target="_blank">Form 1 - Note of Contract (Rule 10 of the MLR)</a>
 <br><a href="/files/Form2-StatementofAccounts(Rule13oftheMLR).xlsx" rel="noopener noreferrer nofollow" target="_blank">Form 2 - Statement of Accounts (Rules 13 of the MLR)</a>
 <br><a href="/files/Form3-CashAccountBook(Rule15oftheMLR).docx" rel="noopener noreferrer nofollow" target="_blank">Form 3 - Cash Account Book (Rule 15 of the MLR)</a>
