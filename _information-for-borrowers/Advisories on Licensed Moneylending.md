@@ -29,7 +29,8 @@ description: ""
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Insolvency-related Consequences and Offences</p>
+<p><a href="/files/ROM_Insolvency_related_Consequences_and_Offences_vF.pdf" rel="noopener noreferrer nofollow" target="_blank">Insolvency-related Consequences and Offences</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>To be issued in accordance with Licence Condition 17</p>
