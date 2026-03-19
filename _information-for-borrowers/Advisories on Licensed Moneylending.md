@@ -5,8 +5,39 @@ breadcrumb: Advisory for Borrowers on Licensed Moneylending
 variant: tiptap
 description: ""
 ---
-<h3><strong>Advisory for Borrowers on Licensed Moneylending</strong></h3>
-<p></p>
+<h3><strong>Regulatory Advisory (Mandatory)</strong></h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>S/N</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Advisories</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Insolvency-related Consequences and Offences</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>To be issued in accordance with Licence Condition 17</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3><strong>Informational Advisory (Non-mandatory)</strong></h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
