@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Licence Conditions/Licence_Conditions_wef_3_Nov_2025.pdf" rel="noopener nofollow" target="_blank">Licence Conditions</a>
+<p><a href="/files/Licence Conditions/Licence_Conditions_wef_1_Apr_2026.pdf" rel="noopener nofollow" target="_blank">Licence Conditions</a>
 </p>
 </li>
 <li>
@@ -43,6 +43,10 @@ variant: tiptap
 <p><strong>4. Registrar's Directions</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>[No. 1 of 2026] <a href="/files/Registrar's Directions/Registrar_s_Directions_1_of_2026_ROM_vF.pdf" rel="noopener nofollow" target="_blank">Registrar's_Directions _2026</a>
+</p>
+</li>
 <li>
 <p>[No. 1 of 2019] <a href="/files/Registrar's Directions/Registrar's-Directions-1-of-2019.pdf" rel="noopener nofollow" target="_blank">Registrar's_Directions_2019</a>
 </p>
