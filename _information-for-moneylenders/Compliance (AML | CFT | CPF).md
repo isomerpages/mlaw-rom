@@ -54,8 +54,8 @@ width: 30%;
 | Document | Uploaded |
 | --- | --- |
 | [FATF Publications: Horizon Scan on AI and Deepfakes, Report on Stablecoins and Unhosted Wallets](https://rom.mlaw.gov.sg/fatf-publications-horizon-scan-on-ai-and-deepfakes-report-on-stablecoins-and-unhosted-wallets/){:target="_blank"} | Mar 2026 
-| [Countering Proliferation Financing Industry Best Practice Paper](/files/AMLCFT Documents/CPF_Best_Practice_Paper.pdf){:target="_blank"} | Mar 2026 |
-| [Countering Proliferation Financing Industry Best Practice Paper](/files/AMLCFT Documents/CPF_Best_Practice_Paper.pdf){:target="_blank"} | Mar 2026 |
+| [Horizon Scan on Artificial Intelligence and Deepfakes (FATF)](/files/AMLCFT Documents/CPF_Best_Practice_Paper.pdf){:target="_blank"} | Mar 2026 |
+| [Targeted Report on Stablecoins and Unhosted Wallets (FATF)](/files/AMLCFT Documents/CPF_Best_Practice_Paper.pdf){:target="_blank"} | Mar 2026 |
 | [Call for Action in Accordance with February 2026 FATF Statement](https://rom.mlaw.gov.sg/february-2026-fatf-statement/){:target="_blank"} | Feb 2026 
 | [Filing a Suspicious Transaction Report (STR) – English](https://youtu.be/YBnbZbDelbc/){:target="_blank"} | Nov 2025 |
 | [Filing a Suspicious Transaction Report (STR) – Mandarin](https://youtu.be/UQIM6a3Sdq8){:target="_blank"} | Nov 2025 |
