@@ -125,7 +125,5 @@ moneylender to do so.</p>
 at the ROM website <a href="https://go.gov.sg/moneylenders-aml" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moneylenders-aml</u></a>.&nbsp;</p>
 <p></p>
 <p>Thank you.</p>
-<p></p>
-<p>Registry of Moneylenders</p>
-<p>Ministry of Law</p>
-<p></p>
+Registry of Moneylenders<br>
+Ministry of Law
