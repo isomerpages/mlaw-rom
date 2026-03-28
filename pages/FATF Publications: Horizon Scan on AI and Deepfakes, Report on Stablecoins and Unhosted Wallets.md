@@ -113,7 +113,7 @@ moneylender considers may present a <strong>high risk of ML/TF/PF</strong>.</p>
 <li>
 <p>Licensed and exempt moneylenders should carefully assess the risks of
 loans involving payment in stablecoins or other digital payment tokens,
-conduct CDD and ECDD where required, and <strong>file a suspicious transaction report (“STR”)</strong>&nbsp;in
+conduct CDD and ECDD where required, and <strong>file a suspicious transaction report</strong> (“<strong>STR</strong>”)&nbsp;in
 a timely manner if circumstances exist that require the licensed or exempt
 moneylender to do so.</p>
 </li>
