@@ -84,12 +84,7 @@ but not limited to GenAI and deepfake technologies.</p>
 </li>
 </ul>
 <p></p>
-<p>Licensed and exempt moneylenders may also refer to earlier papers published
-by the Monetary Authority of Singapore (“<strong>MAS</strong>”) concerning
-cyber risks associated with <a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener noreferrer nofollow" target="_blank"><u>generative artificial intelligence (</u></a><strong><a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener noreferrer nofollow" target="_blank"><u>“GenAI”</u></a></strong>
-<a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener noreferrer nofollow" target="_blank"><u>)</u>
-</a>&nbsp;and <a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-deepfakes" rel="noopener noreferrer nofollow" target="_blank"><u>deepfakes</u></a>.</p>
-<p></p>
+Licensed and exempt moneylenders may also refer to earlier papers published by the Monetary Authority of Singapore (“MAS”) concerning cyber risks associated with [generative artificial intelligence (“**GenAI**”)](https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence) and [deepfakes](https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-deepfakes).
 <p>Licensed and exempt moneylenders are also reminded of:</p>
 <p></p>
 <ul data-tight="true" class="tight">
