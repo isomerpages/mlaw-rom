@@ -100,7 +100,7 @@ including regulation 6 and 6F of the Moneylenders PMLTFPF Rules, to <strong>cond
 including when the moneylender intends to grant, or is considering the
 grant of a relevant loan, or where the moneylender suspects that the borrower
 or any agent, connected party or beneficial owner of the borrower is engaged
-in ML/TF/PF, and to <strong>conduct enhanced CDD</strong>&nbsp;(“<strong>ECDD</strong>”),
+in ML/TF/PF, and to <strong>conduct ECDD</strong>,
 including in respect of all complex or unusually large relevant loans or
 unusual patterns of relevant loans that have no apparent or visible economic
 or lawful purpose, or for any other categories of borrowers, agents, connected
@@ -113,7 +113,7 @@ moneylender considers may present a <strong>high risk of ML/TF/PF</strong>.</p>
 <li>
 <p>Licensed and exempt moneylenders should carefully assess the risks of
 loans involving payment in stablecoins or other digital payment tokens,
-conduct CDD and ECDD where required, and <strong>file a suspicious transaction report</strong> (“<strong>STR</strong>”)&nbsp;in
+conduct CDD and ECDD where required, and <strong>file a suspicious transaction report (“STR”)</strong>&nbsp;in
 a timely manner if circumstances exist that require the licensed or exempt
 moneylender to do so.</p>
 </li>
