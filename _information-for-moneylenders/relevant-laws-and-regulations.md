@@ -80,7 +80,7 @@ of the Moneylenders Act 2008 regarding the grant of property loans] <a href="/fi
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/PSH/The_Professional_Service_Handbook_for_licensed_moneylenders_V2_5__dated_14_May_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Professional Service Handbook</a>
+<p><a href="/files/PSH/PROFESSIONAL_SERVICE_HANDBOOK_v3_dated_1_Apr_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Professional Service Handbook</a>
 </p>
 </li>
 </ul>
