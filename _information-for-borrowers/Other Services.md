@@ -4,7 +4,7 @@ permalink: /other-services/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Feedbacks and Complaints</strong></h4>
+<h4><strong>Feedback and Complaints</strong></h4>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
