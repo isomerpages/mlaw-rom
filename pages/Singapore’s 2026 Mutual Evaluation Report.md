@@ -20,3 +20,4 @@ regime strong and trusted.</p>
 <p>Thank you.</p>
 <p></p>
 <p></p>
+Registry of Moneylenders<br>Ministry of Law
