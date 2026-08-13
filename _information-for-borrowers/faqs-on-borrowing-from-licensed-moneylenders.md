@@ -310,7 +310,7 @@ you may approach any of the following voluntary welfare organisations:</p>
 </p>
 </li>
 <li>
-<p>Credit Counselling Singapore*
+<p>Credit Counselling Singapore
 <br>Address: 51 Cuppage Road #07-06, Singapore 229469
 <br>Tel no.: 6225 5227 / 6338 2663
 <br>Email: enquiry@ccs.org.sg
