@@ -310,7 +310,7 @@ you may approach any of the following voluntary welfare organisations:</p>
 </p>
 </li>
 <li>
-<p>Credit Counselling Singapore*
+<p>Credit Counselling Singapore
 <br>Address: 51 Cuppage Road #07-06, Singapore 229469
 <br>Tel no.: 6225 5227 / 6338 2663
 <br>Email: enquiry@ccs.org.sg
@@ -330,11 +330,11 @@ you may approach any of the following voluntary welfare organisations:</p>
 <br>Address: (East) 11 Playfair Road Singapore, (West) Jurong Spring CC, 8
 Jurong West St 52 Singapore 649296
 <br>Tel no.: 6749 0400
-<br>E-mail: admin@silverlining.com.sg</p>
+<br>E-mail: <a href="mailto:admin@silverlining.com.sg" rel="noopener noreferrer nofollow" target="_blank">admin@silverlining.com.sg</a>
+</p>
+<p></p>
 </li>
 </ul>
-<p><strong>*Credit Counselling Singapore only handles cases that also involve debts with banks.</strong>
-</p>
 <p><strong><em><a href="https://rom.mlaw.gov.sg/files/Notes%20to%20Borrowers%20wef%2015%20Aug%202019.pdf" rel="noopener noreferrer nofollow" target="_blank">Notes to Borrowers when obtaining loans from licensed moneylenders</a></em></strong>
 </p>
 <p><strong>12. Are moneylenders allowed to collect payment from me at my place of residence or employment?</strong>
