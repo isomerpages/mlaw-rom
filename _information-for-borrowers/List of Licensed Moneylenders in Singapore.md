@@ -49,10 +49,7 @@ list of licensed moneylenders found below.
 <br>Report possible unlicensed moneylending activities to the Police hotline
 at 1800-255-0000 (airtime charges may apply to calls made from mobile phones
 to '1800' local toll-free numbers) or submit the information online at
-www.police.gov.sg/iwitness. Members of the public may also call the National
-Crime Prevention Council’s X-Ah Long hotline at 1800-924-5664 (airtime
-charges may apply to calls made from mobile phones to '1800' local toll-free
-numbers).</p>
+<a href="http://www.police.gov.sg/iwitness" rel="noopener nofollow" target="_blank">www.police.gov.sg/iwitness</a>.</p>
 </td>
 </tr>
 </tbody>
