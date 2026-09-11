@@ -124,7 +124,7 @@ Documents/targeted_report_on_stablecoins_and_unhosted_wallets_fatf.pdf){:target=
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://rom.mlaw.gov.sg/february-2026-fatf-statement/" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with February 2026 FATF Statement</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/mlaw-rom-february-2026-fatf-statement" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with February 2026 FATF Statement</a>{:target="_blank"}</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Feb 2026</p>
