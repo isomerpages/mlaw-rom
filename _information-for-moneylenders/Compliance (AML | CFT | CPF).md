@@ -66,7 +66,7 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://isomer-user-content.by.gov.sg/473/f624e287-9661-4107-bb2b-dc008cd7b216/MICE_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">MinLaw Industry Compliance and Engagement 2026 (MICE 2026)</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/mlaw-rom-mice-2026" rel="noopener noreferrer nofollow" target="_blank">MinLaw Industry Compliance and Engagement 2026 (MICE 2026)</a>{:target="_blank"}</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jul 2026</p>
