@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 <p><a href="https://go.gov.sg/mlaw-rom-form-3-cash-account-book" rel="noopener nofollow" target="_blank">Form 3 - Cash Account Book (Rule 15 of the MLR)</a>
 </p>
-<p><a href="https://go.gov.sg/mlaw-rom-form-4-loan-account-book" rel="noopener nofollow" target="_blank">Form 4 - Loan Account Book (Rule 16 of the MLR) </a>
+<p><a href="https://go.gov.sg/mlaw-rom-form-4-loan-account-book" rel="noopener nofollow" target="_blank">Form 4 - Loan Account Book (Rule 16 of the MLR)</a>
 </p>
 <p><a href="https://go.gov.sg/mlaw-rom-form-a-dcl-assessment-ssa" rel="noopener nofollow" target="_blank">Form A - Debt Consolidation Scheme Assessment by Social Service Agency</a>
 </p>
