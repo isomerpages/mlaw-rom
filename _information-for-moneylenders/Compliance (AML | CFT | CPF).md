@@ -74,7 +74,7 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://rom.mlaw.gov.sg/june-2026-fatf-statement/" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with June 2026 FATF Statement</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/mlaw-rom-june-2026-fatf-statement" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with June 2026 FATF Statement</a>{:target="_blank"}</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jun 2026</p>
@@ -82,7 +82,7 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://rom.mlaw.gov.sg/singapore-s-2026-mutual-evaluation-report/" rel="noopener noreferrer nofollow" target="_blank">Singapore’s 2026 Mutual Evaluation Report</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/mlaw-rom-singapore-2026-mutual-evaluation-report" rel="noopener noreferrer nofollow" target="_blank">Singapore’s 2026 Mutual Evaluation Report</a>{:target="_blank"}</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>May 2026</p>
@@ -98,7 +98,7 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://rom.mlaw.gov.sg/fatf-publications-horizon-scan-on-ai-and-deepfakes-report-on-stablecoins-and-unhosted-wallets/" rel="noopener noreferrer nofollow" target="_blank">FATF Publications: Horizon Scan on AI and Deepfakes, Report on Stablecoins and Unhosted Wallets</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/mlaw-rom-fatf-ai-deepfakes-stablecoins-unhosted-wallets" rel="noopener noreferrer nofollow" target="_blank">FATF Publications: Horizon Scan on AI and Deepfakes, Report on Stablecoins and Unhosted Wallets</a>{:target="_blank"}</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mar 2026</p>
