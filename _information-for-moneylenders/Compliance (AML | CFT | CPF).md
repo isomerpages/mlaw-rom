@@ -148,7 +148,7 @@ Documents/targeted_report_on_stablecoins_and_unhosted_wallets_fatf.pdf){:target=
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://rom.mlaw.gov.sg/october-2025-fatf-statement/" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with October 2025 FATF Statement</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/mlaw-rom-october-2025-fatf-statement" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with October 2025 FATF Statement</a>{:target="_blank"}</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Oct 2025</p>
@@ -156,7 +156,7 @@ Documents/targeted_report_on_stablecoins_and_unhosted_wallets_fatf.pdf){:target=
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://rom.mlaw.gov.sg/june-2025-fatf-statement/" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with June 2025 FATF Statement</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/mlaw-rom-june-2025-fatf-statement" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with June 2025 FATF Statement</a>{:target="_blank"}</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jun 2025</p>
@@ -173,7 +173,8 @@ Documents/CPF_Best_Practice_Paper.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Additional_Guidance_Moneylender.pdf" rel="noopener noreferrer nofollow" target="_blank">Additional Guidance on Assessment of Customer Risk, Identification of Material Red Flags, Source of Wealth Establishment, and Ongoing Monitoring</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/mlaw-rom-additional-guidance-moneylender" rel="noopener nofollow" target="_blank">Additional Guidance on Assessment of Customer Risk, Identification of Material Red Flags, Source of Wealth Establishment, and Ongoing Monitoring</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mar 2025</p>
@@ -181,7 +182,8 @@ Documents/CPF_Best_Practice_Paper.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://rom.mlaw.gov.sg/february-2025-fatf-statement/" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with February 2025 FATF Statement</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/mlaw-rom-february-2025-fatf-statement" rel="noopener nofollow" target="_blank">Call for Action in Accordance with February 2025 FATF Statement</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mar 2025</p>
