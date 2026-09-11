@@ -311,4 +311,7 @@ an excluded moneylender.
 <br>
 </p>
 <p><strong>22. How do I make payment when I receive the Notice of Offer of Composition?</strong>
-<br>Payment for the Notice of Offer of Composition can be made via our <a href="https://rom.mlaw.gov.sg/composition-and-penalties-payments/" rel="noopener noreferrer nofollow" target="_blank">website</a> portal.</p>
+<br>Payment for the Notice of Offer of Composition can be made via our <a href="https://rom.mlaw.gov.sg/composition-and-penalties-payments/" rel="noopener noreferrer nofollow" target="_blank">website</a> portal.
+<a href="/files/Licence Conditions/Licence_Conditions_wef_11_Sept_2026.pdf" rel="noopener nofollow" target="_blank">Licence Conditions</a><a href="/files/Licence_Conditions_wef_11_September_2026.pdf" rel="noopener nofollow" target="_blank">Licence conditionsLicence Conditions</a>
+<a href="/files/Licence Conditions/Licence_Conditions_wef_11_September_2026.pdf" rel="noopener nofollow" target="_blank">Licence Conditions</a>
+</p>

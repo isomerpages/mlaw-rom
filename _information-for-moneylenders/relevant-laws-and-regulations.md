@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Licence Conditions/Licence_Conditions_wef_11_Sep_2026.pdf" rel="noopener nofollow" target="_blank">Licence Conditions</a>
+<p><a href="/files/Licence Conditions/Licence_Conditions_wef_11_Sep_2026_vF.pdf" rel="noopener nofollow" target="_blank">Licence Conditions</a>
 </p>
 </li>
 <li>
