@@ -94,4 +94,5 @@ of the Moneylenders Act 2008 regarding the grant of property loans] <a href="/fi
 </li>
 </ul>
 <p><a href="/files/Licence Conditions/Licence_Conditions_wef_11_Sept_2026.pdf" rel="noopener nofollow" target="_blank">Licence Conditions</a>
+<a href="/files/Licence_Conditions_wef_11_September_2026.pdf" rel="noopener nofollow" target="_blank">Licence Conditions</a>
 </p>
