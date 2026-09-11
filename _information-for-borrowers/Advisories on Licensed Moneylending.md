@@ -29,7 +29,7 @@ description: ""
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/ROM_Insolvency_related_Consequences_and_Offences_vF.pdf" rel="noopener noreferrer nofollow" target="_blank">Insolvency-related Consequences and Offences</a>
+<p><a href="https://go.gov.sg/mlaw-rom-insolvency-related-consequences-offences" rel="noopener nofollow" target="_blank">Insolvency-related Consequences and Offences</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,7 +62,7 @@ description: ""
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Advisory-English-Malay.pdf" rel="noopener noreferrer nofollow" target="_blank">Advisory for Borrowers (English and Malay) (PDF)</a>
+<p><a href="https://go.gov.sg/mlaw-rom-advisory-english-malay" rel="noopener nofollow" target="_blank">Advisory for Borrowers (English and Malay) (PDF)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,7 +74,7 @@ description: ""
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Advisory-Chinese-Tamil.pdf" rel="noopener noreferrer nofollow" target="_blank">Advisory for Borrowers (Chinese and Tamil) (PDF)</a>
+<p><a href="https://go.gov.sg/mlaw-rom-advisory-chinese-tamil" rel="noopener nofollow" target="_blank">Advisory for Borrowers (Chinese and Tamil) (PDF)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
