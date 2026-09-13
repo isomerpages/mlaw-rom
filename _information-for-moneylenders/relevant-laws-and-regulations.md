@@ -44,34 +44,34 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>[No. 1 of 2026] <a href="/files/Registrar's Directions/Registrar_s_Directions_1_of_2026_ROM_vF.pdf" rel="noopener nofollow" target="_blank">Registrar's_Directions _2026</a>
+<p>[No. 1 of 2026] <a href="https://go.gov.sg/mlaw-rom-directions-1-2026" rel="noopener nofollow" target="_blank">Registrar's Directions 2026</a>
 </p>
 </li>
 <li>
-<p>[No. 1 of 2019] <a href="/files/Registrar's Directions/Registrar's-Directions-1-of-2019.pdf" rel="noopener nofollow" target="_blank">Registrar's_Directions_2019</a>
+<p>[No. 1 of 2019] <a href="https://go.gov.sg/mlaw-rom-registrars-directions-1-2019" rel="noopener nofollow" target="_blank">Registrar's Directions 2019</a>
 </p>
 </li>
 <li>
-<p>[No. 1 of 2017] <a href="/files/Registrar's Directions/Registrar'sDirectionsNo.1of2017.pdf" rel="noopener nofollow" target="_blank">Registrar's_Directions_2017</a>
+<p>[No. 1 of 2017] <a href="https://go.gov.sg/mlaw-rom-registrars-directions-1-2017" rel="noopener nofollow" target="_blank"> Registrar's Directions 2017</a>
 </p>
 </li>
 <li>
-<p>[No. 1 of 2016] <a href="/files/Registrar's Directions/Registrar'sDirectionsNo1of2016(26Jan2016).pdf" rel="noopener nofollow" target="_blank">Registrar's_Directions_2016</a>
+<p>[No. 1 of 2016] <a href="https://go.gov.sg/mlaw-rom-registrars-directions-1-2016" rel="noopener nofollow" target="_blank">Registrar's Directions 2016</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Registrar's Directions/Advertising_Marketing_Directions_dated_1_Apr_2025.pdf" rel="noopener nofollow" target="_blank">Advertising_and_Marketing_Directions</a>
+<p><a href="https://go.gov.sg/mlaw-rom-advertising-marketing-directions" rel="noopener nofollow" target="_blank">Advertising and Marketing Directions</a>
 </p>
 </li>
 <li>
 <p>[Directions of the Registrar under Section 45(1) read with section 45(2)(c)
 of the Moneylenders Act 2008 regarding the granting of loans relating to
-the purchase or hiring of motor vehicles] <a href="/files/Registrar's Directions/Registrar_s_Direction_on_Motor_Vehicle_Loans_wef_6_Nov_2023.pdf" rel="noopener nofollow" target="_blank">Registrar's_Directions_MAS_Notice_642</a>
+the purchase or hiring of motor vehicles] <a href="https://go.gov.sg/mlaw-rom-registrars-direction-motor-vehicle-loans-2023" rel="noopener nofollow" target="_blank">Registrar's Directions MAS Notice 642</a>
 </p>
 </li>
 <li>
 <p>[Directions of the Registrar under Section 45(1) read with section 45(2)(c)
-of the Moneylenders Act 2008 regarding the grant of property loans] <a href="/files/Registrar's Directions/Registrar_s_Direction__Notice_632_.pdf" rel="noopener nofollow" target="_blank">Registrar's_Directions_MAS_Notice_632</a>
+of the Moneylenders Act 2008 regarding the grant of property loans] <a href="https://go.gov.sg/mlaw-rom-registrars-direction-notice-632" rel="noopener nofollow" target="_blank">Registrar's Directions MAS Notice 632</a>
 </p>
 </li>
 </ul>
@@ -80,16 +80,15 @@ of the Moneylenders Act 2008 regarding the grant of property loans] <a href="/fi
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/PSH/PROFESSIONAL_SERVICE_HANDBOOK_v3_1_dated_13_Aug_2026.pdf" rel="noopener nofollow" target="_blank">Professional Service Handbook</a>
+<p><a href="https://go.gov.sg/mlaw-rom-professional-service-handbook" rel="noopener nofollow" target="_blank">Professional Service Handbook</a>
 </p>
 </li>
 </ul>
-<p></p>
 <p><strong>6. Data Protection and Cybersecurity Guidelines</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/DPCS Guidelines/Data_Protection_and_Cybersecurity_Guidelines.pdf" rel="noopener nofollow" target="_blank">Data Protection and Cybersecurity Guidelines</a>
+<p><a href="https://go.gov.sg/mlaw-rom-data-protection-cybersecurity-guidelines" rel="noopener nofollow" target="_blank">Data Protection and Cybersecurity Guidelines</a>
 </p>
 </li>
 </ul>
