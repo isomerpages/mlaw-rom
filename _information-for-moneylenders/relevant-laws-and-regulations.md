@@ -35,11 +35,10 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Licence Conditions/IT_Security_and_Cyber_Hygiene_Requirements_for_Licensed_Moneylenders.pdf" rel="noopener noreferrer nofollow" target="_blank">IT Security and Cyber Hygiene Requirements</a>
+<p><a href="https://go.gov.sg/mlaw-rom-it-security-cyber-hygiene-requirements" rel="noopener nofollow" target="_blank">IT Security and Cyber Hygiene Requirements</a>
 </p>
 </li>
 </ul>
-<p></p>
 <p><strong>4. Registrar's Directions</strong>
 </p>
 <ul data-tight="true" class="tight">
