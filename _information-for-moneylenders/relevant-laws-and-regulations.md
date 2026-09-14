@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Licence Conditions/Licence_Conditions_wef_11_Sep_2026_vF.pdf" rel="noopener nofollow" target="_blank">Licence Conditions</a>
+<p><a href="https://go.gov.sg/mlaw-rom-licence-conditions" rel="noopener nofollow" target="_blank">Licence Conditions</a>
 </p>
 </li>
 <li>
@@ -52,7 +52,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p>[No. 1 of 2017] <a href="https://go.gov.sg/mlaw-rom-registrars-directions-1-2017" rel="noopener nofollow" target="_blank"> Registrar's Directions 2017</a>
+<p>[No. 1 of 2017] <a href="https://go.gov.sg/mlaw-rom-registrars-directions-1-2017" rel="noopener nofollow" target="_blank">Registrar's Directions 2017</a>
 </p>
 </li>
 <li>
