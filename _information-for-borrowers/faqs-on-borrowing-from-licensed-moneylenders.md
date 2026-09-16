@@ -383,8 +383,7 @@ in contravention of the advertising restrictions, or by an unlicensed moneylende
 to loans or financial assistance are likely to be associated with unlicensed
 moneylending, which is a criminal offence. Do not respond to such advertisements.</p>
 <p>If you receive such messages, please provide the information to Singapore
-Police Force through their online portal <a href="http://www.police.gov.sg/iwitness" rel="noopener noreferrer nofollow" target="_blank">I-Witness</a> or call the X-Ah
-Long hotline at 1800-924 5664.</p>
+Police Force through their online portal <a href="http://www.police.gov.sg/iwitness" rel="noopener noreferrer nofollow" target="_blank">I-Witness</a>.</p>
 <p>If you suspect the SMS is sent by a licensed moneylender, you may write
 in to the Registry of Moneylenders via our <a href="https://www.mlaw.gov.sg/about-us/contact-us/" rel="noopener noreferrer nofollow" target="_blank">Contact Us @ OneMinLaw</a> with
 a screenshot of the SMS you received.</p>
