@@ -245,7 +245,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://acd.mlaw.gov.sg/files/National_Asset_Recovery_Strategy_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">National Asset Recovery Strategy (NARS) 2024</a>
+<p><a href="National_Asset_Recovery_Strategy_2024" rel="noopener noreferrer nofollow" target="_blank">National Asset Recovery Strategy (NARS) 2024</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
