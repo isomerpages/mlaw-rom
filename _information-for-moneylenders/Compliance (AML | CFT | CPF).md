@@ -453,8 +453,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Terrorism Financing National Risk Assessment 2020](https://acd.mlaw.gov.sg/images/Terrorism
-Financing National Risk Assessment 2020.pdf){:target="_blank"}</p>
+<p><a href="TFNRA_2024" rel="noopener nofollow" target="_blank">Terrorism Financing National Risk Assessment 2020</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jan 2021</p>
@@ -462,8 +462,8 @@ Financing National Risk Assessment 2020.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Singapore National Risk Assessment Report 2013](https://acd.mlaw.gov.sg/images/Singapore
-NRA Report 2013_24032015.pdf){:target="_blank"}</p>
+<p><a href="Singapore_NRA_Report_2013_24032015" rel="noopener nofollow" target="_blank">Singapore National Risk Assessment Report 2013</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2019</p>
