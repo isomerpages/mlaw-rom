@@ -300,7 +300,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fatf-gafi.org/media/fatf/documents/COVID-19-AML-CFT.pdf" rel="noopener noreferrer nofollow" target="_blank">COVID-19-related Money Laundering and Terrorist Financing Risks and Policy Responses (FATF)</a>{:target="_blank"}</p>
+<p><a href="https://www.fatf-gafi.org/media/fatf/documents/COVID-19-AML-CFT.pdf" rel="noopener noreferrer nofollow" target="_blank">COVID-19-related Money Laundering and Terrorist Financing Risks and Policy Responses (FATF)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>May 2020</p>
@@ -308,7 +309,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fatf-gafi.org/publications/fatfgeneral/documents/statement-covid-19.html" rel="noopener noreferrer nofollow" target="_blank">COVID-19 and measures to combat illicit financing (FATF)</a>{:target="_blank"}</p>
+<p><a href="https://www.fatf-gafi.org/publications/fatfgeneral/documents/statement-covid-19.html" rel="noopener noreferrer nofollow" target="_blank">COVID-19 and measures to combat illicit financing (FATF)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2020</p>
@@ -316,7 +318,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html" rel="noopener noreferrer nofollow" target="_blank">40 Recommendations (FATF)</a>{:target="_blank"}</p>
+<p><a href="http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html" rel="noopener noreferrer nofollow" target="_blank">40 Recommendations (FATF)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Apr 2019</p>
@@ -324,7 +327,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Notes for Moneylenders’ Briefing on 16 October 2015](/files/AMLCFT Documents/NotesAMLCFTROMbriefing16Oct20215.pdf){:target="_blank"}</p>
+<p><a href="NotesAMLCFTROMbriefing16Oct20215" rel="noopener nofollow" target="_blank">Notes for Moneylenders’ Briefing on 16 October 2015</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Oct 2015</p>
@@ -332,8 +336,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[AML/CFT Newsletters - Issue 1 of 2020](/files/amlcft-newsletters/AMLCFT
-Newsletter Issue 1 of 2020.pdf){:target="_blank"}</p>
+<p><a href="AMLCFT Newsletter Issue 1 of 2020" rel="noopener nofollow" target="_blank">AML/CFT Newsletters - Issue 1 of 2020</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -341,8 +345,8 @@ Newsletter Issue 1 of 2020.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[AML/CFT Newsletters - Issue 1 of 2021](/files/amlcft-newsletters/(LML)
-AMLCFT Newsletter 1 of 2021.pdf){:target="_blank"}</p>
+<p><a href="(LML) AMLCFT Newsletter 1 of 2021" rel="noopener nofollow" target="_blank">AML/CFT Newsletters - Issue 1 of 2021</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -350,8 +354,7 @@ AMLCFT Newsletter 1 of 2021.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[AML/CFT Newsletters - Issue 2 of 2021](/files/amlcft-newsletters/(LML)
-AMLCFT Newsletter 2 of 2021.pdf){:target="_blank"}</p>
+<p>AML/CFT Newsletters - Issue 2 of 2021</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
