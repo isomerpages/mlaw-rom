@@ -201,7 +201,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Singapore National Anti-Money Laundering Strategy](/files/AMLCFT Documents/Singapore_National_AML_Strategy.pdf){:target="_blank"}</p>
+<p><a href="Singapore_National_AML_Strategy" rel="noopener nofollow" target="_blank">Singapore National Anti-Money Laundering Strategy</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nov 2024</p>
@@ -209,7 +210,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html" rel="noopener noreferrer nofollow" target="_blank">High-risk and other monitored jurisdictions (FATF)</a>{:target="_blank"}</p>
+<p><a href="https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html" rel="noopener noreferrer nofollow" target="_blank">High-risk and other monitored jurisdictions (FATF)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Oct 2024</p>
@@ -217,7 +219,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fatf-methodology.html" rel="noopener noreferrer nofollow" target="_blank">Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT (FATF)</a>{:target="_blank"}</p>
+<p><a href="https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fatf-methodology.html" rel="noopener noreferrer nofollow" target="_blank">Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT (FATF)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Oct 2024</p>
@@ -225,7 +228,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://acd.mlaw.gov.sg/files/MICE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MinLaw Industry Compliance and Engagement 2024 (MICE 2024)</a>{:target="_blank"}</p>
+<p><a href="https://acd.mlaw.gov.sg/files/MICE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MinLaw Industry Compliance and Engagement 2024 (MICE 2024)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Aug 2024</p>
@@ -233,8 +237,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[National Strategy for Countering the Financing of Terrorism (NSCFT)](/files/AMLCFT
-Documents/NSCFT_2024.pdf){:target="_blank"}</p>
+<p><a href="NSCFT_2024" rel="noopener nofollow" target="_blank">National Strategy for Countering the Financing of Terrorism (NSCFT)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jul 2024</p>
@@ -242,7 +246,8 @@ Documents/NSCFT_2024.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://acd.mlaw.gov.sg/files/National_Asset_Recovery_Strategy_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">National Asset Recovery Strategy (NARS) 2024</a>{:target="_blank"}</p>
+<p><a href="https://acd.mlaw.gov.sg/files/National_Asset_Recovery_Strategy_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">National Asset Recovery Strategy (NARS) 2024</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jun 2024</p>
