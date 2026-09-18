@@ -443,7 +443,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mha.gov.sg/docs/default-source/default-document-library/singapore-terrorism-threat-assessment-report-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Terrorism Threat Assessment Report 2022</a>
+<p><a href="singapore_terrorism_threat_assessment_report_2022" rel="noopener noreferrer nofollow" target="_blank">Singapore Terrorism Threat Assessment Report 2022</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
