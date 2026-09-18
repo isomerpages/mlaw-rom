@@ -156,8 +156,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Countering Proliferation Financing Industry Best Practice Paper](/files/AMLCFT
-Documents/CPF_Best_Practice_Paper.pdf){:target="_blank"}</p>
+<p><a href="CPF_Best_Practice_Paper" rel="noopener nofollow" target="_blank">Countering Proliferation Financing Industry Best Practice Paper</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>May 2025</p>
