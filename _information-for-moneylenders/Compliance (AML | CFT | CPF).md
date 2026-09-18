@@ -435,8 +435,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Environmental Crimes Money Laundering National Risk Assessment (ECML NRA
-2024)](/files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf){:target="_blank"}</p>
+<p><a href="Env_Crimes_ML_NRA_2024" rel="noopener nofollow" target="_blank">Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>May 2024</p>
@@ -444,7 +444,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mha.gov.sg/docs/default-source/default-document-library/singapore-terrorism-threat-assessment-report-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Terrorism Threat Assessment Report 2022</a>{:target="_blank"}</p>
+<p><a href="https://www.mha.gov.sg/docs/default-source/default-document-library/singapore-terrorism-threat-assessment-report-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Terrorism Threat Assessment Report 2022</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Aug 2022</p>
