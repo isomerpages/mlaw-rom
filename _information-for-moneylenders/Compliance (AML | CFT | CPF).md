@@ -227,7 +227,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://acd.mlaw.gov.sg/files/MICE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MinLaw Industry Compliance and Engagement 2024 (MICE 2024)</a>
+<p><a href="MICE_2024" rel="noopener noreferrer nofollow" target="_blank">MinLaw Industry Compliance and Engagement 2024 (MICE 2024)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
