@@ -18,8 +18,8 @@ screening function. You may wish to refer to these FAQs in the <a href="https://
 <h4>Guidelines for Licensed Moneylenders</h4>
 <p>To access the guide, please click <a href="InfoGuideforMoneylenders" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4>Red Flag Indicators</h4>
-<p>Click [here](/files/list of red flag indicators.pdf){:target="blank"}
-to view the list of red flag indicators.</p>
+<p>Click <a href="list of red flag indicators" rel="noopener nofollow" target="_blank">here</a> to
+view the list of red flag indicators.</p>
 <h4>AML/CFT/CPF Resources</h4>
 <p><strong>1. Monetary Authority of Singapore's ("MAS") website - Lists of Designated Individuals and Entities</strong>
 </p>
