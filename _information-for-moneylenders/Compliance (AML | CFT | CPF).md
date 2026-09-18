@@ -16,8 +16,7 @@ description: ""
 <p>We have collated a list of frequently asked questions on how to use the
 screening function. You may wish to refer to these FAQs in the <a href="https://ask.gov.sg/mlaw" rel="noopener noreferrer nofollow" target="_blank">FAQ section</a>.</p>
 <h4>Guidelines for Licensed Moneylenders</h4>
-<p>To access the guide, please click [here](/files/AMLCFT Documents/Info
-Guide 2020 for Moneylenders.pdf){:target="_blank"}</p>
+<p>To access the guide, please click <a href="InfoGuideforMoneylenders" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4>Red Flag Indicators</h4>
 <p>Click [here](/files/list of red flag indicators.pdf){:target="blank"}
 to view the list of red flag indicators.</p>
