@@ -111,7 +111,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/mlaw-rom-february-2026-fatf-statement" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with February 2026 FATF Statement</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/mlaw-rom-february-2026-fatf-statement" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with February 2026 FATF Statement</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Feb 2026</p>
@@ -119,7 +120,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/YBnbZbDelbc/" rel="noopener noreferrer nofollow" target="_blank">Filing a Suspicious Transaction Report (STR) – English</a>{:target="_blank"}</p>
+<p><a href="https://youtu.be/YBnbZbDelbc/" rel="noopener noreferrer nofollow" target="_blank">Filing a Suspicious Transaction Report (STR) – English</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nov 2025</p>
@@ -127,7 +129,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://youtu.be/UQIM6a3Sdq8" rel="noopener noreferrer nofollow" target="_blank">Filing a Suspicious Transaction Report (STR) – Mandarin</a>{:target="_blank"}</p>
+<p><a href="https://youtu.be/UQIM6a3Sdq8" rel="noopener noreferrer nofollow" target="_blank">Filing a Suspicious Transaction Report (STR) – Mandarin</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nov 2025</p>
@@ -135,7 +138,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/mlaw-rom-october-2025-fatf-statement" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with October 2025 FATF Statement</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/mlaw-rom-october-2025-fatf-statement" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with October 2025 FATF Statement</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Oct 2025</p>
@@ -143,7 +147,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/mlaw-rom-june-2025-fatf-statement" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with June 2025 FATF Statement</a>{:target="_blank"}</p>
+<p><a href="https://go.gov.sg/mlaw-rom-june-2025-fatf-statement" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with June 2025 FATF Statement</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jun 2025</p>
