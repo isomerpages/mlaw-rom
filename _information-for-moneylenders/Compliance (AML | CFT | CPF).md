@@ -354,7 +354,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>AML/CFT Newsletters - Issue 2 of 2021</p>
+<p><a href="" rel="noopener nofollow" target="_blank">AML/CFT Newsletters - Issue 2 of 2021</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -362,8 +363,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[AML/CFT Newsletters - Issue 1 of 2022](/files/amlcft-newsletters/2022
-AMLCFT Newsletter Issue 1.pdf){:target="_blank"}</p>
+<p><a href="2022 AMLCFT Newsletter Issue 1" rel="noopener nofollow" target="_blank">AML/CFT Newsletters - Issue 1 of 2022</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -389,8 +390,8 @@ AMLCFT Newsletter Issue 1.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements](/files/AMLCFT
-Documents/MLTF_RA_Legal_Arrangements.pdf){:target="_blank"}</p>
+<p><a href="MLTF_RA_Legal_Arrangements" rel="noopener nofollow" target="_blank">Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nov 2024</p>
@@ -398,8 +399,8 @@ Documents/MLTF_RA_Legal_Arrangements.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Money Laundering and Terrorism Financing Risk Assessment of Legal Persons](/files/AMLCFT
-Documents/MLTF_RA_Legal_Persons.pdf){:target="_blank"}</p>
+<p><a href="PF_NRA_Counter_PF_Strategy" rel="noopener nofollow" target="_blank">Proliferation Financing (PF) National Risk Assessment and Counter-PF Strategy</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nov 2024</p>
@@ -407,8 +408,8 @@ Documents/MLTF_RA_Legal_Persons.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Proliferation Financing (PF) National Risk Assessment and Counter-PF
-Strategy](/files/AMLCFT Documents/PF_NRA_Counter_PF_Strategy.pdf){:target="_blank"}</p>
+<p><a href="Virtual_Assets_RA" rel="noopener nofollow" target="_blank">Virtual Assets Risk Assessment</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nov 2024</p>
@@ -416,16 +417,8 @@ Strategy](/files/AMLCFT Documents/PF_NRA_Counter_PF_Strategy.pdf){:target="_blan
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Virtual Assets Risk Assessment](/files/AMLCFT Documents/Virtual_Assets_RA.pdf){:target="_blank"}</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nov 2024</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>[The Terrorism Financing National Risk Assessment (TF NRA) 2024)](/files/AMLCFT
-Documents/TFNRA_2024.pdf){:target="_blank"}</p>
+<p><a href="TFNRA_2024" rel="noopener nofollow" target="_blank">The Terrorism Financing National Risk Assessment (TF NRA) 2024</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jul 2024</p>
@@ -433,8 +426,7 @@ Documents/TFNRA_2024.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Money Laundering National Risk Assessment (ML NRA) Report 2024)](/files/AMLCFT
-Documents/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"}</p>
+<p>Money Laundering National Risk Assessment (ML NRA) Report 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jun 2024</p>
