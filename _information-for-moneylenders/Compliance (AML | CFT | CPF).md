@@ -255,8 +255,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[National Strategy for Countering the Financing of Terrorism (CFT)](https://acd.mlaw.gov.sg/files/National
-Strategy for Countering the Financing of Terrorism.pdf){:target="_blank"}</p>
+<p><a href="TFNRA_2024" rel="noopener nofollow" target="_blank">National Strategy for Countering the Financing of Terrorism (CFT)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Oct 2022</p>
@@ -264,7 +264,8 @@ Strategy for Countering the Financing of Terrorism.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fatf-gafi.org/media/fatf/documents/reports/Money-Laundering-from-Environmental-Crime.pdf" rel="noopener noreferrer nofollow" target="_blank">Money Laundering from Environmental Crime</a>{:target="_blank"}</p>
+<p><a href="https://www.fatf-gafi.org/media/fatf/documents/reports/Money-Laundering-from-Environmental-Crime.pdf" rel="noopener noreferrer nofollow" target="_blank">Money Laundering from Environmental Crime</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jul 2021</p>
@@ -272,7 +273,8 @@ Strategy for Countering the Financing of Terrorism.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.fatf-gafi.org/media/fatf/documents/reports/Guidance-Proliferation-Financing-Risk-Assessment-Mitigation.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance on Proliferation Financing Risk Assessment and Mitigation</a>{:target="_blank"}</p>
+<p><a href="https://www.fatf-gafi.org/media/fatf/documents/reports/Guidance-Proliferation-Financing-Risk-Assessment-Mitigation.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidance on Proliferation Financing Risk Assessment and Mitigation</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jun 2021</p>
@@ -280,7 +282,8 @@ Strategy for Countering the Financing of Terrorism.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.fatf-gafi.org/media/fatf/content/Trade-Based-Money-Laundering-Trends-and-Developments.pdf" rel="noopener noreferrer nofollow" target="_blank">Trade-Based Money Laundering - Trends and Developments</a>{:target="_blank"}</p>
+<p><a href="http://www.fatf-gafi.org/media/fatf/content/Trade-Based-Money-Laundering-Trends-and-Developments.pdf" rel="noopener noreferrer nofollow" target="_blank">Trade-Based Money Laundering - Trends and Developments</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dec 2020</p>
@@ -288,7 +291,8 @@ Strategy for Countering the Financing of Terrorism.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="http://www.fatf-gafi.org/media/fatf/documents/Handout-Trade-Based-Money-Laundering-Private-Sector.pdf" rel="noopener noreferrer nofollow" target="_blank">Trade-Based Money Laundering - Private Sector</a>{:target="_blank"}</p>
+<p><a href="http://www.fatf-gafi.org/media/fatf/documents/Handout-Trade-Based-Money-Laundering-Private-Sector.pdf" rel="noopener noreferrer nofollow" target="_blank">Trade-Based Money Laundering - Private Sector</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dec 2020</p>
