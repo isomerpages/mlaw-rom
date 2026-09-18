@@ -426,7 +426,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Money Laundering National Risk Assessment (ML NRA) Report 2024</p>
+<p><a href="Money_Laundering_National_Risk_Assessment_2024" rel="noopener nofollow" target="_blank">Money Laundering National Risk Assessment (ML NRA) Report 2024</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Jun 2024</p>
@@ -434,8 +435,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Environmental Crimes Money Laundering National Risk Assessment (ECML
-NRA 2024)](/files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf){:target="_blank"}</p>
+<p>Environmental Crimes Money Laundering National Risk Assessment (ECML NRA
+2024)](/files/AMLCFT Documents/Env_Crimes_ML_NRA_2024.pdf){:target="_blank"}</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>May 2024</p>
