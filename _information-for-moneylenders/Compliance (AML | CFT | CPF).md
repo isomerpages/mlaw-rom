@@ -183,8 +183,8 @@ terrorism financing, please click <a href="https://acd.mlaw.gov.sg/images/Measur
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Information and Guidance on Countering the Financing of Terrorism](https://acd.mlaw.gov.sg/files/information
-and guidance on countering the financing of terrorism.pdf){:target="_blank"}</p>
+<p><a href="information_and_guidance_on_countering_the_financing_of_terrorism" rel="noopener nofollow" target="_blank">Information and Guidance on Countering the Financing of Terrorism</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Feb 2025</p>
@@ -192,8 +192,8 @@ and guidance on countering the financing of terrorism.pdf){:target="_blank"}</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[Singapore's Law Enforcement Strategy to Combat Money Laundering](/files/AMLCFT
-Documents/Singapore_Law_Enforcement_Strategy_to_Combat_ML.pdf){:target="_blank"}</p>
+<p><a href="Singapore_Law_Enforcement_Strategy_to_Combat_Money_Laundering" rel="noopener nofollow" target="_blank">Singapore's Law Enforcement Strategy to Combat Money Laundering</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nov 2024</p>
