@@ -191,7 +191,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Singapore_Law_Enforcement_Strategy_to_Combat_Money_Laundering" rel="noopener nofollow" target="_blank">Singapore's Law Enforcement Strategy to Combat Money Laundering</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/64b5ead8-e1c1-4ef2-917f-291e376899aa/Singapore_Law_Enforcement_Strategy_to_Combat_Money_Laundering.pdf" rel="noopener nofollow" target="_blank">Singapore's Law Enforcement Strategy to Combat Money Laundering</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -200,7 +200,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Singapore_National_AML_Strategy" rel="noopener nofollow" target="_blank">Singapore National Anti-Money Laundering Strategy</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/413379e6-03d3-4c2f-b119-c8b92d13ccbe/Singapore_National_Anti_Money_Laundering_Strategy.pdf" rel="noopener nofollow" target="_blank">Singapore National Anti-Money Laundering Strategy</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
