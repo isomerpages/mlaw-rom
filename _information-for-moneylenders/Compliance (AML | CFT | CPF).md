@@ -155,7 +155,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="CPF_Best_Practice_Paper" rel="noopener nofollow" target="_blank">Countering Proliferation Financing Industry Best Practice Paper</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/a5cd7920-c296-4d42-bea4-2ec09f076630/CPF_Best_Practice_Paper_2025.pdf" rel="noopener nofollow" target="_blank">Countering Proliferation Financing Industry Best Practice Paper</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
