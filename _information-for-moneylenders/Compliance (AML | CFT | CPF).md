@@ -182,7 +182,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="information_and_guidance_on_countering_the_financing_of_terrorism" rel="noopener nofollow" target="_blank">Information and Guidance on Countering the Financing of Terrorism</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/7101af30-0ee4-4dfb-89a7-2ebb65e7cd30/information%20and%20guidance%20on%20countering%20the%20financing%20of%20terrorism.pdf" rel="noopener nofollow" target="_blank">Information and Guidance on Countering the Financing of Terrorism</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
