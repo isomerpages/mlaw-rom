@@ -452,7 +452,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="TFNRA_2024" rel="noopener nofollow" target="_blank">Terrorism Financing National Risk Assessment 2020</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/55f4cbab-a121-4a94-977d-ea5678495190/Terrorism%20Financing%20National%20Risk%20Assessment%202020.pdf" rel="noopener nofollow" target="_blank">Terrorism Financing National Risk Assessment 2020</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
