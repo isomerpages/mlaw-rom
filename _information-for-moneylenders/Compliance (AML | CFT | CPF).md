@@ -32,7 +32,7 @@ entities. Licensed moneylenders are required to screen their customers
 against the lists before engaging in any business or commercial activity
 with them.
 <br>
-<br>You may refer to the <a href="MAS_Website_Subscriber_Services_Guide_20191105_V1Final" rel="noopener nofollow" target="_blank">MAS Website Subscriber Services Guide</a> for
+<br>You may refer to the <a href="https://isomer-user-content.by.gov.sg/473/7a27cb65-8bdc-423c-bc70-6845262b0ffa/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf" rel="noopener nofollow" target="_blank">MAS Website Subscriber Services Guide</a> for
 a step-by-step guide to the subscription process.
 <br>
 </p>
