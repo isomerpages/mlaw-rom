@@ -245,7 +245,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="National_Asset_Recovery_Strategy_2024" rel="noopener noreferrer nofollow" target="_blank">National Asset Recovery Strategy (NARS) 2024</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/5f372be1-5a88-406a-93b6-d473cd9b98f0/National_Asset_Recovery_Strategy_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">National Asset Recovery Strategy (NARS) 2024</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -254,7 +254,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="TFNRA_2024" rel="noopener nofollow" target="_blank">National Strategy for Countering the Financing of Terrorism (CFT)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/1798d5c4-3bec-41d3-b54e-0f1022e63424/National%20Strategy%20for%20Countering%20the%20Financing%20of%20Terrorism.pdf" rel="noopener nofollow" target="_blank">National Strategy for Countering the Financing of Terrorism (CFT)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
