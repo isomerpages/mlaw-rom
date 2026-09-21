@@ -46,7 +46,7 @@ TSOFA.</p>
 you will find information on counter terrorism financing legislation, IMC-TD’s
 process of designation, and relevant news articles.</p>
 <p>To find out more about your obligations as a licensed moneylender on countering
-terrorism financing, please click <a href="Measures_relating_to_prevention_of_terrorism_financing" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+terrorism financing, please click <a href="https://isomer-user-content.by.gov.sg/473/3390412c-c924-4204-85a9-f43f33eda5d9/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong>3. AML/CFT/CPF Resources</strong>
 </p>
 <table style="minWidth: 50px">
