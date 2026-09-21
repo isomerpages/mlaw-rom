@@ -335,7 +335,7 @@ terrorism financing, please click <a href="https://isomer-user-content.by.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="AMLCFT Newsletter Issue 1 of 2020" rel="noopener nofollow" target="_blank">AML/CFT Newsletters - Issue 1 of 2020</a>
+<p><a href="/files/amlcft-newsletters/AMLCFT Newsletter Issue 1 of 2020.pdf" rel="noopener nofollow" target="_blank">AML/CFT Newsletters - Issue 1 of 2020</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -344,7 +344,7 @@ terrorism financing, please click <a href="https://isomer-user-content.by.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="(LML) AMLCFT Newsletter 1 of 2021" rel="noopener nofollow" target="_blank">AML/CFT Newsletters - Issue 1 of 2021</a>
+<p><a href="/files/amlcft-newsletters/(LML) AMLCFT Newsletter 1 of 2021.pdf" rel="noopener nofollow" target="_blank">AML/CFT Newsletters - Issue 1 of 2021</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -353,7 +353,7 @@ terrorism financing, please click <a href="https://isomer-user-content.by.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">AML/CFT Newsletters - Issue 2 of 2021</a>
+<p><a href="/files/amlcft-newsletters/(LML) AMLCFT Newsletter 2 of 2021.pdf" rel="noopener nofollow" target="_blank">AML/CFT Newsletters - Issue 2 of 2021</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -362,7 +362,7 @@ terrorism financing, please click <a href="https://isomer-user-content.by.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="2022 AMLCFT Newsletter Issue 1" rel="noopener nofollow" target="_blank">AML/CFT Newsletters - Issue 1 of 2022</a>
+<p><a href="/files/amlcft-newsletters/2022 AMLCFT Newsletter Issue 1.pdf" rel="noopener nofollow" target="_blank">AML/CFT Newsletters - Issue 1 of 2022</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
