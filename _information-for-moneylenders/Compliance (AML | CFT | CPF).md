@@ -461,7 +461,7 @@ terrorism financing, please click <a href="https://isomer-user-content.by.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Singapore_NRA_Report_2013_24032015" rel="noopener nofollow" target="_blank">Singapore National Risk Assessment Report 2013</a>
+<p><a href="/files/SingaporeNRAReport2013_24032015.pdf" rel="noopener nofollow" target="_blank">Singapore National Risk Assessment Report 2013</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
