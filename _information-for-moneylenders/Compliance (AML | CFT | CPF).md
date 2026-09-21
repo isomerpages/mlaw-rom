@@ -389,7 +389,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="MLTF_RA_Legal_Arrangements" rel="noopener nofollow" target="_blank">Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/197db63f-6ece-4dc9-96ac-10edeae2ca0f/Money_Laundering_and_Terrorism_Financing_Risk_Assessment_of_Legal_Arrangements.pdf" rel="noopener nofollow" target="_blank">Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -398,7 +398,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="PF_NRA_Counter_PF_Strategy" rel="noopener nofollow" target="_blank">Proliferation Financing (PF) National Risk Assessment and Counter-PF Strategy</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/f5561b0a-60a2-45b1-bf8d-05e74c4944d1/Proliferation_Financing_National_Risk_Assessment_and_Counter_PF_Strategy.pdf" rel="noopener nofollow" target="_blank">Proliferation Financing (PF) National Risk Assessment and Counter-PF Strategy</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -407,7 +407,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Virtual_Assets_RA" rel="noopener nofollow" target="_blank">Virtual Assets Risk Assessment</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/0222283a-9cd0-4b1b-a351-4e25d921de6f/Virtual_Assets_Risk_Assessment.pdf" rel="noopener nofollow" target="_blank">Virtual Assets Risk Assessment</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -416,7 +416,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="TFNRA_2024" rel="noopener nofollow" target="_blank">The Terrorism Financing National Risk Assessment (TF NRA) 2024</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/b7dfbc4a-c9e8-4660-912b-7528f39cb247/Terrorism_Financing_National_Risk_Assessment_2024.pdf" rel="noopener nofollow" target="_blank">The Terrorism Financing National Risk Assessment (TF NRA) 2024</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -425,7 +425,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Money_Laundering_National_Risk_Assessment_2024" rel="noopener nofollow" target="_blank">Money Laundering National Risk Assessment (ML NRA) Report 2024</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/d06d063a-6b8e-4b87-8848-633b98a947b4/Money_Laundering_National_Risk_Assessment_2024.pdf" rel="noopener nofollow" target="_blank">Money Laundering National Risk Assessment (ML NRA) Report 2024</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -434,7 +434,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="Env_Crimes_ML_NRA_2024" rel="noopener nofollow" target="_blank">Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/479e3c9b-7f80-4ac3-896f-3fbeadd7f47d/Env_Crimes_ML_NRA___Final.pdf" rel="noopener nofollow" target="_blank">Environmental Crimes Money Laundering National Risk Assessment (ECML NRA 2024)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -443,7 +443,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="singapore_terrorism_threat_assessment_report_2022" rel="noopener noreferrer nofollow" target="_blank">Singapore Terrorism Threat Assessment Report 2022</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/aedea5d7-71ca-4bfe-89b1-d9eb1bbfb6f6/singapore-terrorism-threat-assessment-report-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Terrorism Threat Assessment Report 2022</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
