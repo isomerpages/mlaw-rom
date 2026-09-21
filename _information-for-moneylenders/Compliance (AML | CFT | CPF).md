@@ -227,7 +227,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="MICE_2024" rel="noopener noreferrer nofollow" target="_blank">MinLaw Industry Compliance and Engagement 2024 (MICE 2024)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/0aa95407-8f5c-4788-956b-eebf4e861d7b/MICE_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">MinLaw Industry Compliance and Engagement 2024 (MICE 2024)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -236,7 +236,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="NSCFT_2024" rel="noopener nofollow" target="_blank">National Strategy for Countering the Financing of Terrorism (NSCFT)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/7d1eddd2-0f4c-42d4-bb27-84bb0f060565/National_Strategy_for_Countering_the_Financing_of_Terrorism_2024.pdf" rel="noopener nofollow" target="_blank">National Strategy for Countering the Financing of Terrorism (NSCFT)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
