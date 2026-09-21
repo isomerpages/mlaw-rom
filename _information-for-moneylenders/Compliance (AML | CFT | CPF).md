@@ -326,7 +326,7 @@ terrorism financing, please click <a href="https://isomer-user-content.by.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="NotesAMLCFTROMbriefing16Oct20215" rel="noopener nofollow" target="_blank">Notes for Moneylenders’ Briefing on 16 October 2015</a>
+<p><a href="/files/AMLCFT Documents/NotesAMLCFTROMbriefing16Oct20215.pdf" rel="noopener nofollow" target="_blank">Notes for Moneylenders’ Briefing on 16 October 2015</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
