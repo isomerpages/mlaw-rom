@@ -83,7 +83,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/mlaw-rom-singapore-2026-mutual-evaluation-report" rel="noopener noreferrer nofollow" target="_blank">Singapore’s 2026 Mutual Evaluation Report</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/eb54ea34-963e-41bf-86de-822f9ade2485/singapore’s_2026_mutual_evaluation_report_(fatf).pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore’s 2026 Mutual Evaluation Report</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
