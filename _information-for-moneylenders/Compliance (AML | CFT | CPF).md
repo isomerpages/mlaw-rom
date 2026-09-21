@@ -92,7 +92,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/mlaw-rom-fatf-ai-deepfakes-stablecoins-unhosted-wallets" rel="noopener noreferrer nofollow" target="_blank">FATF Publications: Horizon Scan on AI and Deepfakes, Report on Stablecoins and Unhosted Wallets</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/072d4de8-4546-48e5-8124-3520282f4244/Horizon_Scan_AI_and_Deepfakes.pdf" rel="noopener noreferrer nofollow" target="_blank">FATF Publications: Horizon Scan on AI and Deepfakes, Report on Stablecoins and Unhosted Wallets</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -101,7 +101,7 @@ terrorism financing, please click <a href="Measures_relating_to_prevention_of_te
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="targeted_report_on_stablecoins_and_unhosted_wallets_fatf" rel="noopener nofollow" target="_blank">Targeted Report on Stablecoins and Unhosted Wallets (FATF)</a>
+<p><a href="https://isomer-user-content.by.gov.sg/473/498a8e19-18c1-451d-9113-ce2bf6ef2ea2/targeted_report_on_stablecoins_and_unhosted_wallets.pdf" rel="noopener nofollow" target="_blank">Targeted Report on Stablecoins and Unhosted Wallets (FATF)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
