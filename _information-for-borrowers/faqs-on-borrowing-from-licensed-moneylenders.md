@@ -137,7 +137,110 @@ for the recovery of the loan.</p>
 <p>The total charges imposed by a moneylender on any loan, consisting of
 interest, late interest, upfront administrative and late fee also cannot
 exceed an amount equivalent to the principal of the loan. [<em>To illustrate, if X takes a loan of $10,000, then the interest, late interest, 10% administrative fee and monthly $60 late fees cannot exceed $10,000.</em>]</p>
-<p><strong>5. How do I know whether a moneylender is licensed or not?</strong> 
+<p><strong>5. What is the cooling-off period?</strong> 
+<br>The cooling-off period is a window of three business days from the date
+of loan disbursement during which a borrower may cancel an unsecured loan
+(other than a business loan) at a reduced cost. Business days exclude Saturdays,
+Sundays, and public holidays in Singapore. The date of loan disbursement
+itself is not counted as part of the three business days.</p>
+<p><strong>6. What types of loans does the cooling-off period apply to?</strong> 
+<br>The cooling-off period applies to unsecured loans that are not business
+loans granted by licensed moneylenders.</p>
+<p><strong>7. From when does the cooling-off period take effect, and does it apply to existing unsecured loans?</strong> 
+<br>The cooling-off period applies only to unsecured loans (other than business
+loans) disbursed on and after 15 September 2026. Loans disbursed before
+15 September 2026 are not subject to the cooling-off period.</p>
+<p><strong>8. How much do I need to repay if I cancel my loan during the cooling-off period?</strong>
+<br>If you cancel your loan during the cooling-off period, you will need to
+repay (a) the remaining principal amount of the loan disbursed to you (after
+deduction of the loan approval fee upfront); and (b) up to a portion of
+the loan approval fee that the licensed moneylender is entitled to retain.
+No interest will be charged, and the total amount you repay shall not exceed
+the principal amount of the loan.</p>
+<p>The maximum amount of the loan approval fee that the licensed moneylender
+is allowed to retain depends on the principal amount of your loan, as set
+out below:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Principal Amount of Loan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Maximum Loan Approval Fee Retainable by the Licensed Moneylender</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>$5,000 and below</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$50, and not exceeding the loan approval fee paid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>More than $5,000</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.5% of the principal amount, and not exceeding the loan approval fee
+paid</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>9. Can you provide an example of how the repayment amount is calculated?</strong> 
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Example 1:</strong> A borrower took a loan of $1,000, with a 10%
+loan approval fee of $100 deducted upfront, meaning $900 was disbursed
+to the borrower. If the borrower cancels the loan within the cooling-off
+period, the borrower would need to repay up to $950 in total, where $900
+is the remaining principal disbursed and $50 is the maximum loan approval
+fee the licensed moneylender is allowed to retain.</p>
+</li>
+<li>
+<p><strong>Example 2:</strong> A borrower took a loan of $10,000, with a 2%
+loan approval fee of $200 deducted upfront, meaning $9,800 was disbursed
+to the borrower. If the borrower cancels the loan within the cooling-off
+period, the borrower would need to repay up to $10,000 in total, where
+$9,800 is the remaining principal disbursed and $200 is the maximum loan
+approval fee the licensed moneylender is allowed to retain.</p>
+</li>
+<li>
+<p><strong>Example 3:</strong> A borrower took a loan of $10,000, with a 10%
+loan approval fee of $1,000 deducted upfront, meaning $9,000 was disbursed
+to the borrower. If the borrower cancels the loan within the cooling-off
+period, the borrower would need to repay up to $9,350 in total, where $9,000
+is the remaining principal disbursed and $350 is the maximum loan approval
+fee the licensed moneylender is allowed to retain.</p>
+</li>
+</ul>
+<p><strong>10. Can the licensed moneylender charge me anything else if I cancel the loan during the cooling-off period?</strong> 
+<br>No. The only amount the licensed moneylender is entitled to retain is
+up to the maximum loan approval fee as set out in the answer to question
+8. No interest will be charged, and the total amount you repay shall not
+exceed the principal amount of the loan.</p>
+<p><strong>11. Can the licensed moneylender refuse my request to cancel my loan during the cooling-off period?</strong>
+<br>A licensed moneylender must allow you to cancel your loan during the cooling-off
+period if you satisfy all requirements for the cooling-off period. If the
+moneylender refuses to do so, a breach of condition that applies to licensed
+moneylenders would have occurred and you may wish to <a href="https://go.gov.sg/rompefir" rel="noopener noreferrer nofollow" target="_blank">file a report</a> with
+the Registry of Moneylenders.</p>
+<p><strong>12. What happens if I do not cancel the loan within the cooling-off period?</strong> 
+<br>If you do not cancel the loan within the three business days, the cooling-off
+period will lapse and the loan contract will continue based on its original
+contractual terms. You will be bound by the terms and conditions of the
+loan contract.</p>
+<p><strong>13. How do I know whether a moneylender is licensed or not?</strong> 
 <br>Do not borrow from unlicensed moneylenders. Verify that a moneylender
 is licensed by checking the list of licensed moneylenders. <a href="https://rom.mlaw.gov.sg/information-for-borrowers/list-of-licensed-moneylenders-in-singapore/" rel="noopener noreferrer nofollow" target="_blank">Click here</a> to
 access the list of licensed moneylenders.</p>
@@ -176,7 +279,7 @@ see Question 10 for more details.</p>
 <p>To find out more about unlicensed moneylenders, you may click on this
 link: <a href="https://www.police.gov.sg/Advisories/Crime/Unlicensed-Moneylending" rel="noopener noreferrer nofollow" target="_blank">Unlicensed Moneylending</a>
 </p>
-<p><strong>6. How can I tell whether an advertisement is from a licensed moneylender or an unlicensed moneylender?</strong>
+<p><strong>14. How can I tell whether an advertisement is from a licensed moneylender or an unlicensed moneylender?</strong>
 <br>Under the <a href="https://rom.mlaw.gov.sg/files/Registrar's%20Directions/Advertising-&amp;-Marketing-Directions.pdf" rel="noopener noreferrer nofollow" target="_blank">Registrar's Directions on Advertising &amp; Marketing Activities of Licensed Moneylenders</a>,
 which took effect on 1 November 2011, licensed moneylenders are permitted
 to advertise only through these three channels: (a) business or consumer
@@ -193,11 +296,11 @@ to the Registry at 1800-2255-529 (<em>airtime charges may apply to calls made fr
 or via <a href="https://eservices.mlaw.gov.sg/enquiry/" rel="noopener noreferrer nofollow" target="_blank">Contact Us @ OneMinLaw</a>.
 Errant licensed moneylenders will be investigated by the Registry and unlicensed
 moneylenders will be investigated by the Police.</p>
-<p><strong>7. Can I rely on the content of an advertisement to take up a loan from a moneylender?</strong> 
+<p><strong>15. Can I rely on the content of an advertisement to take up a loan from a moneylender?</strong> 
 <br>You are advised to seek clarifications on specific terms of the loan contract
 before signing up with a licensed moneylender, and not to rely solely on
 the content of advertisements from the moneylender.</p>
-<p><strong>8. In the event that I am standing as a surety for a loan, what should I look out for?</strong> 
+<p><strong>16. In the event that I am standing as a surety for a loan, what should I look out for?</strong> 
 <br>You should ensure that:</p>
 <ul>
 <li>
@@ -221,7 +324,7 @@ to your user accounts (e.g. Singpass account, Internet banking account,
 email account).</p>
 </li>
 </ul>
-<p><strong>9. What should I do after being granted a loan?</strong> 
+<p><strong>17. What should I do after being granted a loan?</strong> 
 <br>
 </p>
 <ul>
@@ -249,7 +352,7 @@ date); and</p>
 as documentation and evidence of payments.</p>
 </li>
 </ul>
-<p><strong>10. How do I make a complaint about a moneylender?</strong> 
+<p><strong>18. How do I make a complaint about a moneylender?</strong> 
 <br>If you wish to complain about a moneylender for any reason, including
 unfair practices, contract issues, or potential offences, you may <a href="https://go.gov.sg/rompefir" rel="noopener noreferrer nofollow" target="_blank">lodge a report</a> with
 the Registry of Moneylenders or contact the Registry at 1800-2255-529 (airtime
@@ -271,7 +374,7 @@ please <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/poli
 addition to informing the Registry.</p>
 <p>Rest assured that the Registry will not disclose your details to the licensed
 moneylender without your consent.</p>
-<p><strong>11. I am facing financial difficulties and unable to repay the licensed moneylenders. Can the Registry of Moneylenders help to negotiate with the licensed moneylenders?</strong> 
+<p><strong>19. I am facing financial difficulties and unable to repay the licensed moneylenders. Can the Registry of Moneylenders help to negotiate with the licensed moneylenders?</strong> 
 <br>The Registry of Moneylenders is not in a position to assist the borrower
 in restructuring his loans, as this is a private contractual matter between
 the licensed moneylender and the borrower.</p>
@@ -337,7 +440,7 @@ Jurong West St 52 Singapore 649296
 </ul>
 <p><strong><em><a href="https://rom.mlaw.gov.sg/files/Notes%20to%20Borrowers%20wef%2015%20Aug%202019.pdf" rel="noopener noreferrer nofollow" target="_blank">Notes to Borrowers when obtaining loans from licensed moneylenders</a></em></strong>
 </p>
-<p><strong>12. Are moneylenders allowed to collect payment from me at my place of residence or employment?</strong>
+<p><strong>20. Are moneylenders allowed to collect payment from me at my place of residence or employment?</strong>
 </p>
 <p>Licensed moneylenders can take reasonable steps to recover their debts
 as long as they do not infringe the law. Such steps may include contacting
@@ -352,7 +455,7 @@ would depend on the facts of each case.</p>
 <p>If there is any harassment, threat or violence involved in the course
 of debt recovery, you should <a href="https://eservices1.police.gov.sg/phub/eservices/landingpage/police-report" rel="noopener noreferrer nofollow" target="_blank">lodge a police report</a>,
 detailing your encounter(s) with them.</p>
-<p><strong>13. Can I ban a family member from taking loans from all moneylenders?</strong>
+<p><strong>21. Can I ban a family member from taking loans from all moneylenders?</strong>
 </p>
 <p>The Registry of Moneylenders is not in a position to compel licensed moneylenders
 to not grant loans to a person who is otherwise eligible to be granted
@@ -374,7 +477,7 @@ such time the individual withdraws from it.</p>
 her consent.</p>
 <p><sup>1</sup> Singapore Citizens/PRs may choose a minimum period of either
 1 or 2 years. Foreigners need to fulfil a default minimum period of 2 years.</p>
-<p><strong>14. What should I do if I receive SMS from moneylenders?</strong>
+<p><strong>22. What should I do if I receive SMS from moneylenders?</strong>
 </p>
 <p>Licensed moneylenders are not allowed to advertise via SMS. Therefore,
 any SMS soliciting for loans, is either sent by a licensed moneylender
