@@ -16,7 +16,7 @@ FAQ
 Have questions?
 
 <div class="image">
-  <a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png" style="width: 300px; float: left;"></a>
+  <a href="https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355"><img src="/images/mlaw-faq.png" style="width: 300px; float: left;"></a>
 </div><br>
 
 <div class="paragraphs">
