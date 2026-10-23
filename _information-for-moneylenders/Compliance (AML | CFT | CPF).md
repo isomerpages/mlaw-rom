@@ -12,6 +12,9 @@ description: ""
 </p>
 <h4>Screening Function</h4>
 <p>You may now access the screening function via the following <a href="https://eservices.mlaw.gov.sg/mypal/acd-esvc-romp-login" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gHw3TztU2SU?si=-it0gokzR9epcXhq"></iframe>
+</div>
 <h4>Frequently Asked Questions</h4>
 <p>We have collated a list of frequently asked questions on how to use the
 screening function. You may wish to refer to these FAQs in the <a href="https://ask.gov.sg/mlaw" rel="noopener noreferrer nofollow" target="_blank">FAQ section</a>.</p>
