@@ -11,7 +11,9 @@ description: ""
 <a href="https://go.gov.sg/mlaw-rom-list-red-flag-indicators" rel="noopener nofollow" target="_blank">Red Flag Indicators</a>|<a href="#AML/CFT/CPF Resources" rel="noopener noreferrer nofollow" target="_blank">AML/CFT/CPF Resources</a>
 </p>
 <h4>Screening Function</h4>
-<p>You may now access the screening function via the following <a href="https://eservices.mlaw.gov.sg/mypal/acd-esvc-romp-login" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
+<p>You may now access the screening function via the following <a href="https://eservices.mlaw.gov.sg/mypal/acd-esvc-romp-login" rel="noopener noreferrer nofollow" target="_blank">link</a>.
+Please refer to the guidance video below on how to use the screening function
+in myPal.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gHw3TztU2SU?si=-it0gokzR9epcXhq"></iframe>
 </div>
