@@ -15,7 +15,7 @@ description: ""
 Please refer to the guidance video below on how to use the screening function
 in myPal.</p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gHw3TztU2SU?si=-it0gokzR9epcXhq"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gHw3TztU2SU"></iframe>
 </div>
 <h4>Frequently Asked Questions</h4>
 <p>We have collated a list of frequently asked questions on how to use the
