@@ -12,7 +12,7 @@ As a measure to combat money laundering, financing of terrorism and financing of
 
 In this regard, to ensure awareness and to apprise licensed and exempt moneylenders of their obligations as set out above, MinLaw will be writing periodically to notify you of relevant updates from the Financial Action Task Force and relevant Government agencies. 
 
-In this connection and pursuant to rule 6F of the Moneylenders (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Rules 2009, the Registrar hereby notifies you that the Financial Action Task Force has issued statements dated 19 June 2026 on “High-Risk Jurisdictions Subject to a Call for Action” and “Jurisdictions under Increased Monitoring”, which can be accessed at:
+In this connection and pursuant to rule 6F of the Moneylenders (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Rules 2009, the Registrar hereby notifies you that the Financial Action Task Force has issued statements dated 30 October 2026 on “High-Risk Jurisdictions Subject to a Call for Action” and “Jurisdictions under Increased Monitoring”, which can be accessed at:
 
 •	[https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/call-for-action-october-2026.html](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/call-for-action-october-2026.html){:target="_blank"}<br>
 •	[https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-october-2026.html](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-october-2026.html){:target="_blank"}
