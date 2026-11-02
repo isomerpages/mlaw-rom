@@ -70,6 +70,15 @@ terrorism financing, please click <a href="https://isomer-user-content.by.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://rom.mlaw.gov.sg/october-2026-fatf-statement/" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with October 2026 FATF Statement</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Oct 2026</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/mlaw-rom-mice-2026" rel="noopener noreferrer nofollow" target="_blank">MinLaw Industry Compliance and Engagement 2026 (MICE 2026)</a>
 </p>
 </td>
