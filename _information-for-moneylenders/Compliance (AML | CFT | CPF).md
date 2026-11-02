@@ -70,7 +70,7 @@ terrorism financing, please click <a href="https://isomer-user-content.by.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg//call-for-action-in-accordance-with-oct-2026-fatf-statement/" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with October 2026 FATF Statement</a>
+<p><a href="https://rom.mlaw.gov.sg/call-for-action-in-accordance-with-oct-2026-fatf-statement/" rel="noopener noreferrer nofollow" target="_blank">Call for Action in Accordance with October 2026 FATF Statement</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
